@@ -1,0 +1,1250 @@
+Race,Lap,Position,Overtaker,Overtakee,Live,Turn
+Australia,2,8,Alonso,Kobayashi,Yes,11
+Australia,2,17,Barrichello,Trulli,,
+Australia,2,18,Barrichello,D'Ambrosio,,
+Australia,2,19,Barrichello,Glock,Background,1
+Australia,3,15,Barrichello,Kovalainen,,
+Australia,3,16,Barrichello,Maldonado,,
+Australia,5,7,Alonso,Rosberg,,
+Australia,5,16,Maldonado,Kovalainen,,
+Australia,6,14,Barrichello,Perez,,
+Australia,7,10,Buemi,Di Resta,Replay,13
+Australia,7,19,Alguersuari,D'Ambrosio,,
+Australia,7,20,Alguersuari,Glock,,
+Australia,8,18,Alguersuari,Trulli,,
+Australia,8,20,Glock,D'Ambrosio,,
+Australia,9,15,Maldonado,Perez,,
+Australia,11,6,Alonso,Massa,Yes,14
+Australia,12,16,Alguersuari,Kovalainen,,
+Australia,13,12,Barrichello,Heidfeld,,
+Australia,14,10,Alonso,Heidfeld,,
+Australia,15,6,Webber,Kobayashi,,
+Australia,16,3,Vettel,Button,Yes,4
+Australia,17,11,Barrichello,Kovalainen,Replay,2
+Australia,17,12,Buemi,Sutil,Replay,5
+Australia,17,13,Di Resta,Sutil,,
+Australia,21,9,Barrichello,Kobayashi,Replay,3
+Australia,23,8,Button,Buemi,,
+Australia,25,7,Button,Kobayashi,Yes,1
+Australia,36,9,Perez,Di Resta,,
+Australia,48,6,Button,Massa,Yes,1
+Australia,49,13,Alguersuari,Heidfeld,,
+Australia,54,9,Massa,Buemi,Yes,1
+Malaysia,2,13,Di Resta,Rosberg,Yes,5
+Malaysia,2,13,Rosberg,Di Resta,Yes,6
+Malaysia,2,20,Trulli,Glock,,
+Malaysia,3,9,Kobayashi,Webber,,
+Malaysia,5,5,Massa,Petrov,Yes,1
+Malaysia,6,9,Webber,Kobayashi,Yes,14
+Malaysia,7,9,Kobayashi,Webber,Yes,1
+Malaysia,8,9,Webber,Kobayashi,Replay,2
+Malaysia,8,9,Kobayashi,Webber,Replay,4
+Malaysia,8,11,Buemi,Alguersuari,,
+Malaysia,9,21,Sutil,Karthikeyan,,
+Malaysia,10,20,Sutil,Liuzzi,,
+Malaysia,12,15,Webber,Trulli,,
+Malaysia,12,19,Sutil,D'Ambrosio,,
+Malaysia,13,7,Kobayashi,Schumacher,Yes,1
+Malaysia,13,14,Webber,Kovalainen,,
+Malaysia,13,17,Di Resta,Glock,,
+Malaysia,13,18,Sutil,Glock,,
+Malaysia,14,5,Buemi,Schumacher,Yes,15
+Malaysia,14,5,Hamilton,Buemi,Yes,15
+Malaysia,14,6,Hamilton,Schumacher,Yes,15
+Malaysia,14,9,Heidfeld,Alguersuari,,
+Malaysia,14,11,Perez,Rosberg,Yes,1
+Malaysia,14,11,Webber,Perez,,
+Malaysia,14,12,Webber,Rosberg,,
+Malaysia,14,13,Massa,Rosberg,,
+Malaysia,15,5,Button,Buemi,,
+Malaysia,15,9,Webber,Alguersuari,,
+Malaysia,15,10,Massa,Alguersuari,,
+Malaysia,15,11,Massa,Perez,,
+Malaysia,16,2,Hamilton,Kobayashi,,
+Malaysia,16,10,Perez,Alguersuari,Yes,9
+Malaysia,16,10,Di Resta,Perez,,
+Malaysia,16,11,Di Resta,Alguersuari,Yes,10
+Malaysia,16,17,Rosberg,D'Ambrosio,,
+Malaysia,17,3,Alonso,Kobayashi,Yes,11
+Malaysia,17,4,Alonso,Button,Yes,1
+Malaysia,17,11,Schumacher,Perez,,
+Malaysia,17,15,Rosberg,Alguersuari,,
+Malaysia,17,17,Sutil,D'Ambrosio,,
+Malaysia,22,6,Massa,Webber,Yes,4
+Malaysia,22,18,Trulli,Glock,,
+Malaysia,24,10,Webber,Kobayashi,Yes,11
+Malaysia,25,8,Webber,Schumacher,,
+Malaysia,26,5,Hamilton,Petrov,Yes,5
+Malaysia,26,6,Button,Petrov,,
+Malaysia,27,1,Vettel,Massa,Yes,1
+Malaysia,27,11,Di Resta,Rosberg,,
+Malaysia,28,8,Kobayashi,Schumacher,Yes,3
+Malaysia,30,11,Schumacher,Alguersuari,Yes,11
+Malaysia,32,14,Rosberg,Buemi,,
+Malaysia,33,8,Petrov,Kobayashi,Yes,1
+Malaysia,34,14,Sutil,Alguersuari,Replay,1
+Malaysia,38,11,Di Resta,Rosberg,Replay,15
+Malaysia,40,14,Buemi,Alguersuari,,
+Malaysia,42,9,Kobayashi,Schumacher,Replay,9
+Malaysia,43,6,Heidfeld,Petrov,Yes,15
+Malaysia,44,6,Massa,Petrov,Yes,1
+Malaysia,46,3,Alonso,Hamilton,Yes,6
+Malaysia,47,14,Rosberg,Alguersuari,Replay,1
+Malaysia,48,8,Petrov,Kobayashi,Replay,4
+Malaysia,50,5,Webber,Massa,Yes,2
+Malaysia,50,13,Rosberg,Buemi,,
+Malaysia,52,3,Heidfeld,Hamilton,Yes,1
+Malaysia,54,9,Schumacher,Di Resta,,
+China,2,16,Webber,Perez,,
+China,2,18,Maldonado,Kovalainen,,
+China,2,19,Maldonado,Trulli,,
+China,2,21,Glock,Liuzzi,,
+China,3,10,Kobayashi,Alguersuari,Yes,14
+China,3,22,D'Ambrosio,Liuzzi,,
+China,4,15,Webber,Barrichello,Replay,12
+China,6,11,Petrov,Alguersuari,Replay,14
+China,8,16,Perez,Barrichello,Replay,12
+China,9,12,Buemi,Alguersuari,Yes,6
+China,9,12,Alguersuari,Buemi,Yes,6
+China,9,13,Heidfeld,Buemi,Yes,14
+China,9,15,Perez,Webber,Yes,9
+China,9,18,Kovalainen,Maldonado,,
+China,10,15,Barrichello,Webber,,
+China,10,18,Trulli,Maldonado,,
+China,12,11,Perez,Buemi,Yes,14
+China,12,14,Schumacher,Kovalainen,,
+China,12,18,Webber,Glock,,
+China,12,19,Webber,D'Ambrosio,,
+China,12,21,Maldonado,Karthikeyan,,
+China,13,9,Rosberg,Heidfeld,Replay,14
+China,13,14,Di Resta,Kovalainen,,
+China,13,17,Webber,Buemi,,
+China,14,2,Vettel,Hamilton,Yes,14
+China,14,20,Maldonado,D'Ambrosio,,
+China,15,1,Massa,Hamilton,Yes,14
+China,15,5,Rosberg,Petrov,,
+China,15,7,Vettel,Heidfeld,,
+China,15,11,Schumacher,Barrichello,,
+China,15,19,Maldonado,Glock,,
+China,16,5,Button,Heidfeld,Yes,1
+China,16,6,Massa,Heidfeld,Yes,14
+China,16,7,Hamilton,Heidfeld,Yes,14
+China,16,8,Hamilton,Perez,Yes,6
+China,16,11,Di Resta,Barrichello,,
+China,16,13,Sutil,Kovalainen,,
+China,16,14,Kobayashi,Kovalainen,,
+China,16,16,Webber,Trulli,,
+China,17,2,Vettel,Petrov,Yes,14
+China,17,3,Button,Petrov,Background,16
+China,17,13,Webber,Kovalainen,,
+China,17,20,Buemi,Karthikeyan,,
+China,17,22,Glock,Liuzzi,,
+China,18,6,Schumacher,Heidfeld,Yes,1
+China,18,7,Alonso,Heidfeld,Yes,2
+China,18,13,Petrov,Kovalainen,,
+China,18,15,Perez,Trulli,,
+China,19,13,Perez,Kovalainen,,
+China,19,15,Heidfeld,Trulli,,
+China,19,19,Buemi,D'Ambrosio,,
+China,20,15,Barrichello,Trulli,,
+China,21,17,Buemi,Kovalainen,,
+China,21,22,D'Ambrosio,Liuzzi,,
+China,23,20,Glock,Karthikeyan,,
+China,25,5,Alonso,Schumacher,Replay,14
+China,26,6,Button,Di Resta,Yes,14
+China,27,6,Hamilton,Di Resta,Yes,14
+China,28,3,Rosberg,Alonso,Yes,16
+China,28,14,Webber,Barrichello,Replay,6
+China,29,4,Button,Alonso,Yes,14
+China,29,12,Schumacher,Heidfeld,Replay,14
+China,30,5,Hamilton,Alonso,Yes,6
+China,30,9,Petrov,Kobayashi,Yes,14
+China,30,11,Schumacher,Perez,Yes,14
+China,31,10,Webber,Perez,,
+China,32,13,Kobayashi,Sutil,,
+China,33,6,Schumacher,Petrov,Yes,6
+China,34,7,Webber,Petrov,Yes,12
+China,34,9,Alonso,Perez,Replay,14
+China,35,11,Di Resta,Barrichello,,
+China,36,2,Hamilton,Button,Yes,1
+China,37,8,Alonso,Petrov,Yes,6
+China,38,6,Webber,Schumacher,Yes,14
+China,38,15,Barrichello,Kovalainen,,
+China,38,18,Buemi,Trulli,,
+China,40,17,Buemi,Maldonado,,
+China,42,3,Hamilton,Rosberg,Yes,6
+China,42,12,Petrov,Heidfeld,Replay,14
+China,43,13,Perez,Heidfeld,Replay,3
+China,44,2,Hamilton,Massa,Yes,Finish Line
+China,44,22,Glock,Liuzzi,,
+China,45,3,Rosberg,Massa,Replay,14
+China,45,3,Massa,Rosberg,Replay,14
+China,45,4,Button,Rosberg,Replay,14
+China,45,6,Webber,Alonso,Replay,6
+China,45,12,Perez,Petrov,,
+China,49,3,Button,Massa,,
+China,49,21,Glock,Karthikeyan,,
+China,50,4,Rosberg,Massa,Replay,16
+China,51,5,Webber,Massa,,
+China,51,10,Petrov,Kobayashi,,
+China,52,1,Hamilton,Vettel,Yes,7
+China,52,9,Petrov,Di Resta,,
+China,53,10,Kobayashi,Di Resta,,
+China,54,4,Webber,Rosberg,Yes,6
+China,54,22,Liuzzi,Karthikeyan,,
+China,55,3,Webber,Button,Yes,16
+Turkey,2,7,Petrov,Schumacher,Yes,12
+Turkey,2,8,Massa,Petrov,Yes,12
+Turkey,2,9,Massa,Heidfeld,Yes,1
+Turkey,2,15,Buemi,Kovalainen,,
+Turkey,2,19,Alguersuari,Liuzzi,,
+Turkey,3,9,Barrichello,Heidfeld,Yes,1
+Turkey,3,13,Buemi,Maldonado,,
+Turkey,3,16,Kobayashi,Trulli,,
+Turkey,3,20,D'Ambrosio,Karthikeyan,,
+Turkey,4,15,Kobayashi,Kovalainen,,
+Turkey,4,17,Alguersuari,Trulli,,
+Turkey,5,2,Webber,Rosberg,Yes,12
+Turkey,5,16,Alguersuari,Kovalainen,,
+Turkey,6,5,Hamilton,Button,Yes,12
+Turkey,6,5,Button,Hamilton,Yes,Finish Line
+Turkey,6,9,Heidfeld,Barrichello,,
+Turkey,6,12,Buemi,Di Resta,,
+Turkey,6,14,Kobayashi,Maldonado,,
+Turkey,6,21,Schumacher,Karthikeyan,,
+Turkey,7,3,Alonso,Rosberg,Yes,12
+Turkey,7,5,Hamilton,Button,Yes,1
+Turkey,7,19,Schumacher,Liuzzi,,
+Turkey,7,20,Schumacher,D'Ambrosio,,
+Turkey,8,5,Button,Hamilton,Yes,1
+Turkey,9,6,Massa,Hamilton,Yes,12
+Turkey,9,20,D'Ambrosio,Liuzzi,,
+Turkey,10,9,Kobayashi,Di Resta,,
+Turkey,10,11,Hamilton,Maldonado,,
+Turkey,10,12,Massa,Maldonado,Yes,9
+Turkey,10,16,Petrov,Trulli,,
+Turkey,11,10,Alguersuari,Maldonado,,
+Turkey,11,12,Petrov,Kovalainen,,
+Turkey,11,13,Heidfeld,Kovalainen,,
+Turkey,11,14,Heidfeld,Trulli,,
+Turkey,12,9,Petrov,Alguersuari,,
+Turkey,12,13,Buemi,Trulli,,
+Turkey,12,14,Buemi,Schumacher,,
+Turkey,12,14,Schumacher,Trulli,,
+Turkey,12,15,Barrichello,Trulli,,
+Turkey,12,16,Sutil,Trulli,,
+Turkey,12,21,Perez,Liuzzi,,
+Turkey,12,22,Perez,Karthikeyan,,
+Turkey,13,1,Vettel,Button,,12
+Turkey,13,5,Rosberg,Kobayashi,,
+Turkey,13,10,Heidfeld,Alguersuari,,
+Turkey,13,11,Buemi,Alguersuari,,
+Turkey,13,12,Buemi,Kovalainen,,
+Turkey,13,13,Barrichello,Kovalainen,,
+Turkey,13,14,Barrichello,Schumacher,Replay,5
+Turkey,13,14,Schumacher,Kovalainen,,
+Turkey,13,15,Sutil,Kovalainen,,
+Turkey,13,16,Di Resta,Kovalainen,,
+Turkey,13,17,Di Resta,Trulli,,
+Turkey,13,19,Maldonado,D'Ambrosio,,
+Turkey,14,4,Hamilton,Rosberg,Yes,12
+Turkey,14,12,Kobayashi,Schumacher,Replay,12
+Turkey,14,13,Sutil,Schumacher,Replay,12
+Turkey,14,18,Perez,D'Ambrosio,,
+Turkey,14,19,Alguersuari,D'Ambrosio,,
+Turkey,14,21,Trulli,Liuzzi,,
+Turkey,15,17,Schumacher,Perez,,
+Turkey,15,20,Trulli,D'Ambrosio,,
+Turkey,16,11,Kobayashi,Barrichello,,
+Turkey,16,17,Alguersuari,Perez,,
+Turkey,16,20,Kovalainen,D'Ambrosio,,
+Turkey,20,5,Massa,Rosberg,Yes,9
+Turkey,20,5,Rosberg,Massa,Yes,13
+Turkey,21,4,Massa,Rosberg,Yes,12
+Turkey,21,5,Button,Rosberg,Yes,14
+Turkey,21,15,Schumacher,Maldonado,,
+Turkey,21,19,Perez,Kovalainen,,
+Turkey,22,8,Kobayashi,Buemi,Replay,12
+Turkey,22,16,Alguersuari,Maldonado,,
+Turkey,23,4,Button,Massa,Yes,12
+Turkey,23,7,Buemi,Kobayashi,,
+Turkey,23,7,Hamilton,Buemi,,
+Turkey,23,8,Hamilton,Kobayashi,,
+Turkey,23,8,Barrichello,Kobayashi,,
+Turkey,23,9,Barrichello,Kobayashi,,
+Turkey,23,11,Petrov,Di Resta,,
+Turkey,24,10,Rosberg,Di Resta,Yes,7
+Turkey,24,11,Heidfeld,Di Resta,Yes,9
+Turkey,24,18,Perez,Trulli,,
+Turkey,25,6,Petrov,Sutil,,
+Turkey,25,7,Massa,Sutil,,
+Turkey,25,15,Di Resta,Maldonado,,
+Turkey,26,11,Buemi,Alguersuari,,
+Turkey,26,15,Kobayashi,Di Resta,,
+Turkey,29,2,Alonso,Webber,Yes,12
+Turkey,29,18,Maldonado,Kovalainen,,
+Turkey,30,10,Buemi,Schumacher,,
+Turkey,32,16,Alguersuari,Perez,,
+Turkey,33,12,Kobayashi,Sutil,,
+Turkey,34,6,Button,Massa,Yes,12
+Turkey,34,12,Sutil,Kobayashi,,
+Turkey,34,12,Schumacher,Sutil,,
+Turkey,34,13,Schumacher,Kobayashi,,
+Turkey,35,13,Kobayashi,Massa,Replay,9
+Turkey,35,13,Massa,Kobayashi,Yes,12
+Turkey,36,8,Rosberg,Barrichello,Replay,12
+Turkey,36,12,Massa,Sutil,,
+Turkey,36,17,Perez,Maldonado,,
+Turkey,38,8,Petrov,Barrichello,,
+Turkey,38,14,Alguersuari,Kobayashi,,
+Turkey,39,9,Heidfeld,Barrichello,Yes,11
+Turkey,39,11,Massa,Schumacher,Yes,12
+Turkey,40,4,Hamilton,Buemi,,
+Turkey,40,10,Massa,Barrichello,,
+Turkey,41,15,Alguersuari,Barrichello,,
+Turkey,43,12,Kobayashi,Di Resta,,
+Turkey,44,10,Buemi,Schumacher,Replay,12
+Turkey,46,7,Rosberg,Massa,Yes,12
+Turkey,49,4,Hamilton,Button,Yes,12
+Turkey,50,18,Trulli,Kovalainen,,
+Turkey,51,2,Webber,Alonso,Yes,12
+Turkey,51,8,Heidfeld,Petrov,,
+Turkey,51,14,Sutil,Barrichello,,
+Turkey,52,12,Massa,Schumacher,Replay,9
+Turkey,52,12,Schumacher,Massa,Replay,13
+Turkey,52,15,Perez,Barrichello,,
+Turkey,53,11,Schumacher,Alguersuari,Yes,14
+Turkey,53,12,Massa,Alguersuari,Yes,14
+Turkey,54,5,Rosberg,Button,Yes,12
+Turkey,54,7,Heidfeld,Buemi,,
+Turkey,54,11,Massa,Schumacher,Yes,1
+Turkey,54,12,Alguersuari,Schumacher,Yes,2
+Turkey,54,12,Schumacher,Alguersuari,Yes,5
+Turkey,55,13,Sutil,Alguersuari,,
+Turkey,55,14,Perez,Alguersuari,Yes,9
+Turkey,56,13,Perez,Sutil,Yes,13
+Turkey,57,13,Sutil,Perez,,
+Turkey,58,8,Petrov,Buemi,,
+Spain,2,19,Barrichello,Liuzzi,,
+Spain,4,9,Button,Buemi,Replay,5
+Spain,6,22,D'Ambrosio,Karthikeyan,,
+Spain,8,19,Liuzzi,Perez,Replay,3
+Spain,8,19,Perez,Liuzzi,,
+Spain,10,7,Vettel,Massa,Yes,10
+Spain,10,8,Vettel,Button,Yes,5
+Spain,10,17,Maldonado,Barrichello,Replay,10
+Spain,11,4,Vettel,Rosberg,Yes,1
+Spain,11,6,Button,Massa,Replay,1
+Spain,11,7,Webber,Massa,Yes,10
+Spain,11,16,Maldonado,Sutil,,
+Spain,12,4,Webber,Button,Replay,5
+Spain,12,7,Schumacher,Trulli,,
+Spain,12,8,Schumacher,Kovalainen,,
+Spain,12,12,Massa,Heidfeld,,
+Spain,12,22,Kobayashi,Karthikeyan,,
+Spain,13,8,Petrov,Trulli,,
+Spain,13,9,Petrov,Kovalainen,,
+Spain,13,10,Rosberg,Kovalainen,,
+Spain,13,11,Massa,Kovalainen,,
+Spain,13,13,Buemi,Heidfeld,,
+Spain,13,20,Kobayashi,Glock,,
+Spain,13,21,Kobayashi,D'Ambrosio,,
+Spain,14,9,Rosberg,Trulli,,
+Spain,14,10,Massa,Trulli,,
+Spain,14,21,Sutil,D'Ambrosio,,
+Spain,14,22,Karthikeyan,Sutil,,
+Spain,14,22,Sutil,Karthikeyan,,
+Spain,14,23,Barrichello,Karthikeyan,,
+Spain,15,12,Buemi,Kovalainen,,
+Spain,15,18,Kobayashi,Liuzzi,,
+Spain,15,20,Sutil,Glock,,
+Spain,15,22,Barrichello,D'Ambrosio,,
+Spain,16,5,Button,Schumacher,Yes,4
+Spain,16,7,Rosberg,Petrov,,
+Spain,16,11,Maldonado,Kovalainen,,
+Spain,16,12,Maldonado,Heidfeld,,
+Spain,16,12,Alguersuari,Kovalainen,,
+Spain,16,13,Alguersuari,Heidfeld,,
+Spain,16,19,Sutil,Liuzzi,,
+Spain,16,21,Barrichello,Glock,,
+Spain,17,13,Di Resta,Heidfeld,,
+Spain,18,18,Sutil,Kovalainen,,
+Spain,19,17,Sutil,Kobayashi,,
+Spain,21,13,Perez,Heidfeld,,
+Spain,23,10,Di Resta,Alguersuari,,
+Spain,23,11,Massa,Alguersuari,,
+Spain,24,10,Massa,Di Resta,Replay,1
+Spain,25,14,Maldonado,Sutil,,
+Spain,25,17,Heidfeld,Kobayashi,Yes,7
+Spain,25,18,Heidfeld,Kovalainen,Yes,1
+Spain,26,21,Glock,Liuzzi,,
+Spain,28,12,Maldonado,Trulli,,
+Spain,28,14,Buemi,Trulli,,
+Spain,28,15,Alguersuari,Sutil,Yes,1
+Spain,29,11,Maldonado,Perez,,
+Spain,29,12,Buemi,Perez,,
+Spain,30,8,Rosberg,Di Resta,,
+Spain,32,9,Petrov,Di Resta,,
+Spain,32,17,Kobayashi,Trulli,,
+Spain,34,16,Kobayashi,Barrichello,,
+Spain,35,3,Webber,Alonso,Yes,10
+Spain,35,3,Alonso,Webber,Yes,11
+Spain,36,3,Button,Alonso,Yes,11
+Spain,36,4,Button,Webber,Yes,1
+Spain,36,12,Heidfeld,Alguersuari,,
+Spain,36,13,Di Resta,Alguersuari,,
+Spain,36,14,Perez,Alguersuari,,
+Spain,37,13,Kobayashi,Maldonado,,
+Spain,37,15,Sutil,Trulli,,
+Spain,37,16,Heidfeld,Trulli,,
+Spain,38,16,Heidfeld,Sutil,,
+Spain,41,15,Heidfeld,Maldonado,Replay,1
+Spain,41,19,Barrichello,Kovalainen,,
+Spain,42,9,Di Resta,Buemi,,
+Spain,42,10,Perez,Buemi,,
+Spain,42,11,Petrov,Buemi,,
+Spain,43,12,Heidfeld,Kobayashi,,
+Spain,45,11,Heidfeld,Petrov,Yes,10
+Spain,46,16,Kobayashi,Alguersuari,,
+Spain,48,15,Kobayashi,Buemi,,
+Spain,50,12,Perez,Maldonado,,
+Spain,52,11,Kobayashi,Maldonado,Yes,1
+Spain,52,12,Heidfeld,Maldonado,Yes,7
+Spain,54,17,Alguersuari,Barrichello,,
+Spain,55,9,Perez,Petrov,,
+Spain,55,11,Heidfeld,Kobayashi,,
+Spain,56,10,Heidfeld,Petrov,,
+Spain,57,11,Kobayashi,Petrov,,
+Spain,58,8,Perez,Massa,Yes,7
+Spain,58,9,Heidfeld,Massa,Yes,11
+Spain,60,8,Heidfeld,Perez,Yes,1
+Spain,63,13,Sutil,Buemi,,
+Monaco,10,9,Hamilton,Schumacher,Yes,Saint-Devote
+Monaco,12,10,Barrichello,Schumacher,Yes,Mirabeau
+Monaco,14,5,Massa,Rosberg,Yes,Tabac
+Monaco,14,6,Maldonado,Rosberg,Yes,Tabac
+Monaco,15,7,Petrov,Rosberg,,
+Monaco,15,8,Hamilton,Rosberg,,
+Monaco,17,20,Schumacher,D'Ambrosio,,
+Monaco,23,14,Hamilton,Alguersuari,,
+Monaco,24,13,Hamilton,Trulli,,
+Monaco,24,15,Di Resta,Alguersuari,Yes,Loews
+Monaco,27,19,Kovalainen,D'Ambrosio,,
+Monaco,28,20,Glock,D'Ambrosio,,
+Monaco,29,15,Schumacher,Rosberg,Yes,Loews
+Monaco,33,9,Hamilton,Massa,Replay,Tunnel
+Monaco,48,16,Di Resta,D'Ambrosio,,
+Monaco,50,15,Di Resta,Kovalainen,,
+Monaco,57,13,Rosberg,Alguersuari,,
+Monaco,62,16,Trulli,D'Ambrosio,,
+Monaco,62,17,Kovalainen,D'Ambrosio,,
+Monaco,65,4,Kobayashi,Sutil,Replay,Mirabeau
+Monaco,66,5,Webber,Sutil,Replay,Tabac
+Monaco,66,6,Webber,Petrov,,
+Monaco,66,12,Alguersuari,Buemi,,
+Monaco,66,13,Alguersuari,Rosberg,,
+Monaco,68,6,Maldonado,Sutil,Yes,Tabac
+Monaco,68,7,Maldonado,Petrov,,
+Monaco,68,8,Hamilton,Petrov,Yes,Tabac
+Monaco,77,4,Webber,Kobayashi,Yes,Tabac
+Canada,5,4,Rosberg,Hamilton,Yes,2
+Canada,5,5,Button,Hamilton,Yes,2
+Canada,5,5,Schumacher,Button,Yes,6
+Canada,5,6,Schumacher,Hamilton,Yes,2
+Canada,5,6,Hamilton,Button,Yes,8
+Canada,5,8,Di Resta,Heidfeld,,
+Canada,5,9,Di Resta,Petrov,,
+Canada,5,10,Kobayashi,Petrov,Background,8
+Canada,5,11,Kobayashi,Maldonado,Background,1
+Canada,5,20,Glock,Liuzzi,,
+Canada,5,22,Alguersuari,Karthikeyan,,
+Canada,5,23,Alguersuari,D'Ambrosio,,
+Canada,6,8,Kobayashi,Heidfeld,,
+Canada,6,11,Maldonado,Petrov,,
+Canada,6,11,Petrov,Di Resta,,
+Canada,6,12,Webber,Di Resta,,
+Canada,6,13,Webber,Sutil,,
+Canada,6,15,Barrichello,Buemi,,
+Canada,7,10,Petrov,Maldonado,,
+Canada,7,11,Webber,Maldonado,,
+Canada,7,17,Trulli,De La Rosa,,
+Canada,7,21,Alguersuari,Liuzzi,,
+Canada,8,10,Di Resta,Maldonado,,
+Canada,13,10,Button,Di Resta,,
+Canada,13,11,Button,Maldonado,,
+Canada,13,16,De la Rosa,Trulli,,
+Canada,13,19,Alguersuari,Glock,Yes,10
+Canada,13,21,Liuzzi,Karthikeyan,,
+Canada,13,22,Liuzzi,D'Ambrosio,,
+Canada,14,14,Button,Buemi,,
+Canada,14,17,Alguersuari,Trulli,Background,10
+Canada,14,18,Alguersuari,Kovalainen,,
+Canada,15,8,Webber,Petrov,Replay,3
+Canada,15,11,Button,Maldonado,Yes,10
+Canada,15,12,Button,Sutil,,
+Canada,15,13,Button,Barrichello,,3
+Canada,16,14,De la Rosa,Buemi,,
+Canada,16,21,Barrichello,Karthikeyan,,
+Canada,17,7,Webber,Heidfeld,Replay,6
+Canada,17,16,Kovalainen,Trulli,,
+Canada,17,19,Barrichello,Liuzzi,,
+Canada,17,20,Sutil,Liuzzi,,
+Canada,18,6,Alonso,Heidfeld,Yes,13
+Canada,18,9,Button,Di Resta,Yes,3
+Canada,18,15,Barrichello,Trulli,,
+Canada,18,16,Barrichello,Glock,,
+Canada,18,17,Sutil,Glock,,
+Canada,18,18,Sutil,Maldonado,,
+Canada,18,18,Maldonado,Glock,,
+Canada,18,20,Buemi,Liuzzi,,
+Canada,19,7,Button,Petrov,Yes,8
+Canada,19,7,Petrov,Button,Yes,11
+Canada,19,14,Barrichello,Kovalainen,,
+Canada,19,19,Buemi,Glock,,
+Canada,34,9,Button,De La Rosa,Background,13
+Canada,34,19,Maldonado,Karthikeyan,,
+Canada,35,19,Barrichello,Glock,,
+Canada,35,20,Buemi,Glock,,
+Canada,36,10,Schumacher,Karthikeyan,Yes,8
+Canada,36,11,Schumacher,Trulli,Yes,6
+Canada,36,11,Button,Karthikeyan,,
+Canada,36,12,Schumacher,D'Ambrosio,,
+Canada,36,12,Sutil,Trulli,Yes,10
+Canada,36,12,Button,Sutil,Yes,10
+Canada,36,13,Sutil,D'Ambrosio,,
+Canada,36,13,Button,Trulli,Yes,10
+Canada,36,14,Button,D'Ambrosio,Yes,8
+Canada,36,16,Barrichello,Alguersuari,,
+Canada,36,17,Maldonado,Alguersuari,,
+Canada,37,7,Schumacher,Petrov,Yes,6
+Canada,37,12,Sutil,Karthikeyan,,
+Canada,40,11,Maldonado,Barrichello,Background,13
+Canada,41,10,Maldonado,Rosberg,Background,1
+Canada,41,11,Barrichello,Rosberg,Replay,13
+Canada,41,16,De la Rosa,Glock,,
+Canada,41,20,Button,Liuzzi,,
+Canada,42,6,Schumacher,Webber,Yes,11
+Canada,42,10,Barrichello,Maldonado,,
+Canada,42,15,De la Rosa,D'Ambrosio,Foreground,3
+Canada,42,18,Button,Trulli,,
+Canada,42,19,Button,Karthikeyan,,
+Canada,43,15,Glock,D'Ambrosio,,
+Canada,43,15,Button,Glock,,
+Canada,43,16,Button,D'Ambrosio,,
+Canada,43,17,Trulli,D'Ambrosio,,
+Canada,44,14,Button,De La Rosa,,
+Canada,44,19,Di Resta,Karthikeyan,,
+Canada,44,20,Di Resta,Liuzzi,,
+Canada,45,4,Schumacher,Heidfeld,Yes,13
+Canada,45,10,Rosberg,Maldonado,,
+Canada,45,13,Button,Buemi,,
+Canada,45,18,Di Resta,D'Ambrosio,,
+Canada,46,17,Di Resta,Trulli,,
+Canada,46,20,Liuzzi,Karthikeyan,,
+Canada,47,16,Di Resta,Glock,,
+Canada,48,8,Rosberg,Barrichello,,
+Canada,48,10,Alguersuari,Maldonado,,
+Canada,49,10,Button,Alguersuari,Yes,13
+Canada,49,11,Button,Maldonado,Yes,7
+Canada,50,19,Karthikeyan,Liuzzi,,
+Canada,51,2,Schumacher,Kobayashi,Yes,10
+Canada,51,3,Schumacher,Massa,Yes,10
+Canada,51,3,Massa,Kobayashi,Yes,10
+Canada,51,15,Trulli,Glock,,
+Canada,52,12,Di Resta,Alguersuari,,
+Canada,52,13,Di Resta,Maldonado,,
+Canada,54,5,Button,Heidfeld,,
+Canada,54,9,Alguersuari,Rosberg,,
+Canada,54,19,Liuzzi,Karthikeyan,,
+Canada,55,4,Button,Kobayashi,,
+Canada,55,13,Buemi,De La Rosa,,
+Canada,60,16,Liuzzi,D'Ambrosio,,
+Canada,61,5,Petrov,Kobayashi,,
+Canada,61,7,Rosberg,Barrichello,,
+Canada,61,8,Rosberg,Alguersuari,,
+Canada,61,10,Massa,Maldonado,,
+Canada,61,13,Di Resta,De La Rosa,,
+Canada,64,3,Button,Webber,Yes,Finish Line
+Canada,64,14,Liuzzi,Glock,,
+Canada,64,16,Karthikeyan,D'Ambrosio,,
+Canada,65,2,Button,Schumacher,Yes,13
+Canada,65,8,Massa,Alguersuari,,
+Canada,65,11,Di Resta,Buemi,,
+Canada,67,3,Webber,Schumacher,Yes,13
+Canada,67,7,Massa,Rosberg,,
+Canada,68,15,Karthikeyan,Glock,,
+Canada,68,16,D'Ambrosio,Glock,,
+Canada,70,1,Button,Vettel,Yes,6
+Canada,70,6,Massa,Kobayashi,Yes,Finish Line
+Europe,2,21,Maldonado,Liuzzi,,
+Europe,3,16,Alguersuari,Perez,,
+Europe,3,18,Kovalainen,Glock,,
+Europe,4,15,Alguersuari,Petrov,,
+Europe,4,19,Trulli,Glock,,
+Europe,4,20,Maldonado,Glock,,
+Europe,6,6,Button,Rosberg,Yes,2
+Europe,12,15,Heidfeld,Kovalainen,,
+Europe,12,23,Maldonado,Karthikeyan,,
+Europe,13,14,Heidfeld,Sutil,Replay,4
+Europe,13,14,Sutil,Heidfeld,,
+Europe,13,16,Barrichello,Kovalainen,,
+Europe,13,17,Barrichello,Trulli,,
+Europe,14,6,Hamilton,Schumacher,Yes,12
+Europe,14,21,Maldonado,Liuzzi,,
+Europe,14,22,Maldonado,D'Ambrosio,,
+Europe,15,7,Rosberg,Alguersuari,Yes,18
+Europe,15,11,Sutil,Schumacher,Yes,12
+Europe,15,11,Schumacher,Sutil,Yes,13
+Europe,15,13,Di Resta,Trulli,,
+Europe,15,21,Kovalainen,D'Ambrosio,,
+Europe,16,14,Buemi,Trulli,,
+Europe,16,18,Maldonado,Glock,,
+Europe,16,21,Schumacher,D'Ambrosio,,
+Europe,17,9,Sutil,Perez,Yes,12
+Europe,17,10,Heidfeld,Perez,Yes,19
+Europe,17,11,Barrichello,Perez,Yes,25
+Europe,17,15,Kobayashi,Trulli,,
+Europe,18,16,Petrov,Trulli,,
+Europe,18,19,Schumacher,Kovalainen,,
+Europe,19,12,Di Resta,Perez,,
+Europe,20,22,D'Ambrosio,Liuzzi,,
+Europe,21,2,Alonso,Webber,Yes,12
+Europe,21,12,Buemi,Perez,,
+Europe,22,13,Alguersuari,Perez,Yes,19
+Europe,23,15,Petrov,Kobayashi,Replay,12
+Europe,25,14,Petrov,Perez,Yes,12
+Europe,25,15,Kobayashi,Perez,Yes,18
+Europe,25,17,Schumacher,Maldonado,Replay,19
+Europe,26,18,Perez,Kovalainen,,
+Europe,29,13,Buemi,Kobayashi,,
+Europe,31,2,Webber,Massa,Yes,18
+Europe,34,18,Maldonado,Trulli,,
+Europe,39,7,Rosberg,Alguersuari,Yes,18
+Europe,45,14,Kobayashi,Di Resta,Yes,25
+Europe,45,14,Di Resta,Kobayashi,Yes,Finish Line
+Europe,45,19,Kovalainen,Trulli,,
+Europe,55,15,Petrov,Kobayashi,,
+Great Britain,2,4,Massa,Button,Yes,Village
+Great Britain,2,5,Hamilton,Button,Yes,Brooklands
+Great Britain,3,20,Trulli,Liuzzi,,
+Great Britain,4,10,Sutil,Maldonado,,
+Great Britain,5,16,Buemi,Alguersuari,,
+Great Britain,6,11,Rosberg,Maldonado,Replay,Brooklands
+Great Britain,6,12,Perez,Maldonado,,
+Great Britain,6,15,Buemi,Petrov,Yes,Brooklands
+Great Britain,6,16,Alguersuari,Petrov,Yes,Copse
+Great Britain,8,15,Alguersuari,Buemi,,
+Great Britain,12,4,Hamilton,Massa,Replay,Brooklands
+Great Britain,12,12,Schumacher,Kobayashi,,
+Great Britain,12,14,Heidfeld,Maldonado,,
+Great Britain,13,13,Heidfeld,Alguersuari,,
+Great Britain,14,5,Button,Massa,Yes,Vale
+Great Britain,15,3,Hamilton,Alonso,Yes,Copse
+Great Britain,19,11,Heidfeld,Kobayashi,Yes,Brooklands
+Great Britain,19,12,Alguersuari,Kobayashi,Yes,Luffield
+Great Britain,19,13,Maldonado,Kobayashi,Yes,Stowe
+Great Britain,19,13,Kobayashi,Maldonado,Yes,Vale
+Great Britain,19,20,D'Ambrosio,Liuzzi,,
+Great Britain,20,14,Buemi,Maldonado,Yes,Aintree
+Great Britain,22,15,Schumacher,Petrov,Yes,Copse
+Great Britain,24,3,Alonso,Hamilton,Yes,Brooklands
+Great Britain,33,12,Schumacher,Alguersuari,Replay,Stowe
+Great Britain,39,3,Vettel,Massa,Yes,Copse
+Great Britain,40,3,Hamilton,Massa,Replay,Luffield
+Great Britain,46,3,Webber,Hamilton,Yes,Brooklands
+Great Britain,52,4,Massa,Hamilton,Yes,Vale
+Great Britain,52,4,Hamilton,Massa,Yes,Club
+Germany,2,8,Schumacher,Petrov,,
+Germany,2,21,Heidfeld,Ricciardo,,
+Germany,2,22,Heidfeld,Chandhok,Yes,1
+Germany,2,22,Di Resta,Ricciardo,,
+Germany,2,23,Di Resta,Chandhok,,
+Germany,3,11,Kobayashi,Barrichello,,
+Germany,3,17,Buemi,Glock,,
+Germany,3,20,Di Resta,D'Ambrosio,,
+Germany,3,21,Heidfeld,D'Ambrosio,,
+Germany,4,18,Heidfeld,Glock,,
+Germany,4,19,Heidfeld,Liuzzi,,
+Germany,4,20,Di Resta,Liuzzi,,
+Germany,5,16,Buemi,Kovalainen,,
+Germany,5,19,Di Resta,Glock,,
+Germany,6,17,Heidfeld,Kovalainen,,
+Germany,8,3,Alonso,Vettel,Yes,1
+Germany,8,18,Di Resta,Kovalainen,Replay,13
+Germany,12,1,Webber,Hamilton,Yes,15
+Germany,12,5,Massa,Rosberg,Yes,1
+Germany,12,19,Perez,D'Ambrosio,,
+Germany,12,20,Perez,Ricciardo,,
+Germany,12,20,Ricciardo,D'Ambrosio,,
+Germany,13,1,Hamilton,Webber,Yes,1
+Germany,13,18,Perez,Liuzzi,,
+Germany,14,17,Perez,Glock,,
+Germany,14,21,Buemi,D'Ambrosio,,
+Germany,15,5,Webber,Sutil,,
+Germany,16,3,Massa,Vettel,Yes,13
+Germany,16,11,Rosberg,Alguersuari,,
+Germany,16,15,Maldonado,Kovalainen,,
+Germany,16,20,Buemi,Ricciardo,,
+Germany,17,6,Button,Petrov,,
+Germany,17,11,Schumacher,Alguersuari,,
+Germany,17,18,Buemi,Liuzzi,,
+Germany,18,15,Perez,Kovalainen,,
+Germany,18,17,Buemi,Glock,,
+Germany,20,7,Massa,Kobayashi,Yes,5
+Germany,20,8,Vettel,Kobayashi,Yes,7
+Germany,21,6,Massa,Petrov,Yes,13
+Germany,22,7,Vettel,Petrov,Yes,1
+Germany,22,8,Rosberg,Petrov,Yes,12
+Germany,22,9,Schumacher,Petrov,Yes,13
+Germany,23,13,Kobayashi,Maldonado,Yes,13
+Germany,25,15,Di Resta,Kovalainen,,
+Germany,32,7,Button,Sutil,Replay,1
+Germany,33,1,Hamilton,Alonso,Yes,2
+Germany,35,6,Button,Rosberg,Yes,1
+Germany,35,12,Petrov,Perez,,
+Germany,37,7,Kobayashi,Rosberg,Yes,2
+Germany,40,7,Rosberg,Kobayashi,Yes,1
+Germany,41,11,Schumacher,Alguersuari,Yes,1
+Germany,41,18,D'Ambrosio,Ricciardo,,
+Germany,46,9,Schumacher,Petrov,Yes,1
+Hungary,2,10,Barrichello,Kobayashi,Yes,1
+Hungary,2,10,Kobayashi,Barrichello,Yes,2
+Hungary,2,11,Petrov,Barrichello,,
+Hungary,2,13,Buemi,Maldonado,,
+Hungary,2,14,Alguersuari,Maldonado,,
+Hungary,2,16,Kovalainen,Heidfeld,,
+Hungary,2,17,Kovalainen,Glock,,
+Hungary,2,17,Glock,Heidfeld,,
+Hungary,2,19,Sutil,Perez,,
+Hungary,3,4,Alonso,Rosberg,Yes,1
+Hungary,3,6,Massa,Schumacher,,
+Hungary,3,12,Buemi,Barrichello,,
+Hungary,3,18,Sutil,Heidfeld,,
+Hungary,4,4,Rosberg,Alonso,Yes,3
+Hungary,4,7,Webber,Schumacher,,
+Hungary,4,17,Sutil,Glock,,
+Hungary,6,18,Heidfeld,Glock,,
+Hungary,7,5,Alonso,Massa,Yes,1
+Hungary,7,19,Perez,Glock,,
+Hungary,7,20,Trulli,Glock,,
+Hungary,9,4,Alonso,Rosberg,Yes,1
+Hungary,11,10,Alguersuari,Webber,Yes,2
+Hungary,11,19,Glock,Barrichello,,
+Hungary,12,8,Webber,Buemi,,
+Hungary,12,9,Webber,Alguersuari,Replay,1
+Hungary,12,20,Heidfeld,Ricciardo,,
+Hungary,12,23,Liuzzi,Glock,,
+Hungary,13,1,Schumacher,Hamilton,,2
+Hungary,13,1,Hamilton,Schumacher,Yes,13
+Hungary,13,12,Barrichello,Trulli,,
+Hungary,13,13,Petrov,Trulli,,
+Hungary,13,15,Maldonado,Buemi,,
+Hungary,13,18,Heidfeld,Sutil,,
+Hungary,13,19,Heidfeld,Perez,,
+Hungary,14,2,Button,Vettel,Yes,2
+Hungary,14,4,Webber,Alonso,Yes,2
+Hungary,16,13,Alguersuari,Buemi,,
+Hungary,17,16,Kovalainen,Maldonado,,
+Hungary,17,17,Heidfeld,Maldonado,,
+Hungary,18,17,Sutil,Heidfeld,,
+Hungary,22,16,Sutil,Maldonado,Replay,2
+Hungary,28,7,Massa,Rosberg,Replay,4
+Hungary,29,16,Maldonado,Kovalainen,Yes,2
+Hungary,34,6,Massa,Kobayashi,Yes,1
+Hungary,34,12,Buemi,Petrov,,
+Hungary,37,9,Alguersuari,Barrichello,Replay,1
+Hungary,43,7,Massa,Alguersuari,Yes,1
+Hungary,45,3,Vettel,Alonso,Yes,1
+Hungary,47,12,Buemi,Di Resta,,
+Hungary,47,20,Ricciardo,Liuzzi,,
+Hungary,48,12,Di Resta,Buemi,,
+Hungary,49,6,Massa,Rosberg,Yes,12
+Hungary,49,8,Kobayashi,Petrov,,
+Hungary,49,11,Di Resta,Barrichello,,
+Hungary,49,12,Buemi,Barrichello,,
+Hungary,49,19,Ricciardo,D'Ambrosio,,
+Hungary,50,9,Buemi,Petrov,,
+Hungary,50,10,Di Resta,Alguersuari,,
+Hungary,50,10,Buemi,Di Resta,,
+Hungary,50,10,Di Resta,Petrov,,
+Hungary,50,11,Buemi,Alguersuari,,
+Hungary,50,11,Alguersuari,Petrov,,
+Hungary,52,1,Button,Hamilton,Yes,1
+Hungary,52,1,Hamilton,Button,Yes,2
+Hungary,54,3,Alonso,Hamilton,Yes,6
+Hungary,56,8,Di Resta,Buemi,,
+Hungary,57,4,Webber,Massa,Yes,Finish Line
+Hungary,58,5,Hamilton,Massa,Yes,6
+Hungary,59,7,Di Resta,Kobayashi,,
+Hungary,61,8,Buemi,Kobayashi,Yes,1
+Hungary,61,9,Rosberg,Kobayashi,Yes,Finish Line
+Hungary,61,15,Maldonado,Perez,Yes,6
+Hungary,62,10,Alguersuari,Kobayashi,Yes,1
+Hungary,63,4,Hamilton,Webber,Yes,12
+Hungary,64,15,Perez,Maldonado,,
+Belgium,2,4,Alonso,Hamilton,Yes,Les Combes
+Belgium,2,13,Schumacher,Di Resta,,
+Belgium,2,15,Maldonado,Barrichello,,
+Belgium,2,16,Maldonado,Ricciardo,,
+Belgium,3,1,Vettel,Rosberg,Yes,Les Combes
+Belgium,3,21,Senna,Glock,,
+Belgium,4,6,Perez,Buemi,,
+Belgium,4,6,Buemi,Perez,,
+Belgium,4,15,Webber,Ricciardo,,
+Belgium,4,19,Button,Trulli,,
+Belgium,5,3,Alonso,Massa,Yes,Rivage
+Belgium,5,4,Hamilton,Massa,Yes,Pouhon
+Belgium,5,6,Kobayashi,Perez,,
+Belgium,5,6,Kobayashi,Buemi,,
+Belgium,5,7,Petrov,Buemi,,
+Belgium,5,8,Sutil,Buemi,,
+Belgium,5,12,Webber,Barrichello,,
+Belgium,5,15,Schumacher,Ricciardo,,
+Belgium,5,16,Schumacher,Liuzzi,,
+Belgium,5,17,Button,Liuzzi,,
+Belgium,5,18,Button,D'Ambrosio,,
+Belgium,6,7,Vettel,Sutil,,
+Belgium,6,15,Button,Ricciardo,,
+Belgium,6,22,Kovalainen,Glock,,
+Belgium,7,1,Alonso,Rosberg,Yes,Les Combes
+Belgium,7,6,Vettel,Petrov,,
+Belgium,7,10,Webber,Maldonado,,
+Belgium,7,18,Perez,Trulli,,
+Belgium,8,2,Hamilton,Rosberg,Yes,Les Combes
+Belgium,8,5,Vettel,Kobayashi,Replay,Les Combes
+Belgium,8,9,Webber,Di Resta,,
+Belgium,8,15,Perez,Ricciardo,,
+Belgium,8,16,Perez,Liuzzi,,
+Belgium,8,17,Perez,D'Ambrosio,,
+Belgium,8,17,D'Ambrosio,Liuzzi,,
+Belgium,9,7,Webber,Sutil,Yes,Bus-Stop
+Belgium,9,8,Webber,Alonso,Yes,Eau Rouge
+Belgium,9,18,Trulli,Liuzzi,,
+Belgium,10,2,Vettel,Rosberg,Yes,Blanchimont
+Belgium,10,6,Alonso,Webber,Yes,Les Combes
+Belgium,10,7,Alonso,Sutil,Yes,Eau Rouge
+Belgium,10,12,Schumacher,Massa,,
+Belgium,11,3,Alonso,Kobayashi,Yes,Les Combes
+Belgium,11,4,Alonso,Petrov,,
+Belgium,11,5,Webber,Petrov,Yes,Pouhon
+Belgium,11,10,Barrichello,Maldonado,,
+Belgium,12,3,Webber,Kobayashi,Yes,Les Combes
+Belgium,12,5,Hamilton,Petrov,Yes,Bus Stop
+Belgium,12,6,Hamilton,Sutil,Yes,Pouhon
+Belgium,12,10,Schumacher,Maldonado,,
+Belgium,12,11,Massa,Maldonado,,
+Belgium,12,12,Button,Maldonado,,
+Belgium,12,13,Rosberg,Maldonado,,
+Belgium,12,17,Trulli,D'Ambrosio,,
+Belgium,13,4,Hamilton,Kobayashi,Yes,Eau Rouge
+Belgium,17,2,Vettel,Webber,,
+Belgium,17,4,Rosberg,Massa,Yes,Les Combes
+Belgium,17,7,Petrov,Perez,Yes,La Source
+Belgium,17,7,Schumacher,Petrov,,
+Belgium,17,8,Schumacher,Perez,,
+Belgium,17,8,Perez,Petrov,Background,Les Combes
+Belgium,17,10,Button,Barrichello,Yes,La Source
+Belgium,17,18,Kovalainen,Liuzzi,,
+Belgium,18,1,Vettel,Alonso,Yes,Les Combes
+Belgium,18,8,Button,Perez,Yes,La Source
+Belgium,18,9,Button,Petrov,Yes,La Source
+Belgium,18,9,Petrov,Perez,Yes,Eau Rouge
+Belgium,18,17,Kovalainen,D'Ambrosio,,
+Belgium,19,10,Barrichello,Perez,Yes,La Source
+Belgium,19,10,Perez,Barrichello,Yes,La Source
+Belgium,20,15,Trulli,Senna,,
+Belgium,21,7,Button,Schumacher,Yes,Bus Stop
+Belgium,23,6,Button,Sutil,Yes,Les Combes
+Belgium,23,14,Perez,Trulli,,
+Belgium,23,18,Senna,Liuzzi,,
+Belgium,23,19,Senna,Glock,,
+Belgium,24,5,Button,Massa,Yes,Bus Stop
+Belgium,24,18,Perez,Liuzzi,,
+Belgium,24,19,Perez,Glock,,
+Belgium,25,16,Senna,D'Ambrosio,,
+Belgium,25,17,Perez,D'Ambrosio,,
+Belgium,25,19,Glock,Liuzzi,,
+Belgium,26,4,Button,Rosberg,Yes,Les Combes
+Belgium,26,10,Maldonado,Barrichello,,
+Belgium,27,16,Perez,Senna,,
+Belgium,30,15,Senna,Kovalainen,,
+Belgium,31,7,Barrichello,Rosberg,Yes,Eau Rouge
+Belgium,31,7,Rosberg,Barrichello,Yes,Les Combes
+Belgium,31,13,Kobayashi,Trulli,,
+Belgium,32,1,Vettel,Button,Yes,Les Combes
+Belgium,32,5,Massa,Schumacher,Replay,Eau Rouge
+Belgium,33,11,Kobayashi,Massa,Yes,Les Combes
+Belgium,33,11,Massa,Kobayashi,Yes,Blanchimont
+Belgium,34,6,Schumacher,Sutil,Replay,Les Combes
+Belgium,36,10,Massa,Di Resta,,
+Belgium,37,2,Webber,Alonso,Yes,Les Combes
+Belgium,38,9,Massa,Maldonado,Replay,Les Combes
+Belgium,42,3,Button,Alonso,Yes,Les Combes
+Belgium,42,5,Schumacher,Rosberg,Replay,Les Combes
+Italy,4,3,Schumacher,Hamilton,Yes,1
+Italy,4,6,Webber,Button,Yes,1
+Italy,4,8,Maldonado,Di Resta,,
+Italy,4,14,Buemi,Glock,Yes,8
+Italy,4,15,Kobayashi,Glock,,
+Italy,4,16,Kobayashi,Sutil,,
+Italy,5,1,Vettel,Alonso,Yes,4
+Italy,5,7,Perez,Di Resta,,
+Italy,5,11,Massa,Kovalainen,,
+Italy,5,12,Massa,Buemi,,
+Italy,5,12,Buemi,Trulli,,
+Italy,5,13,Massa,Trulli,,
+Italy,5,13,Kobayashi,Buemi,,
+Italy,5,15,Sutil,Glock,,
+Italy,5,16,Senna,Glock,Background R,11
+Italy,6,2,Schumacher,Alonso,,
+Italy,6,2,Alonso,Schumacher,,
+Italy,6,9,Massa,Alguersuari,,
+Italy,6,11,Kobayashi,Kovalainen,,
+Italy,6,12,Buemi,Kovalainen,,
+Italy,7,8,Massa,Di Resta,,
+Italy,7,13,Senna,Kovalainen,,
+Italy,7,14,Senna,Sutil,,
+Italy,7,14,Sutil,Kovalainen,,
+Italy,8,7,Massa,Perez,,
+Italy,10,6,Massa,Maldonado,Yes,1
+Italy,13,3,Hamilton,Schumacher,Yes,1
+Italy,13,3,Schumacher,Hamilton,Yes,4
+Italy,13,9,Alguersuari,Di Resta,,
+Italy,13,9,Di Resta,Alguersuari,,
+Italy,16,3,Button,Schumacher,Yes,8
+Italy,16,4,Button,Hamilton,Yes,4
+Italy,16,11,Senna,Buemi,,
+Italy,16,14,Di Resta,Glock,,
+Italy,17,7,Schumacher,Perez,,
+Italy,18,6,Schumacher,Maldonado,Background,1
+Italy,18,14,Buemi,Glock,,
+Italy,19,7,Perez,Maldonado,,
+Italy,19,7,Alguersuari,Perez,Yes,4
+Italy,19,8,Alguersuari,Maldonado,,
+Italy,19,8,Maldonado,Perez,Yes,4
+Italy,19,13,Buemi,Kobayashi,,
+Italy,20,9,Di Resta,Kovalainen,,
+Italy,21,9,Alguersuari,Kovalainen,,
+Italy,23,6,Massa,Perez,,
+Italy,24,10,Buemi,Maldonado,Replay,1
+Italy,27,4,Hamilton,Schumacher,Replay,8
+Italy,30,11,Senna,Maldonado,Replay,1
+Italy,31,8,Alguersuari,Di Resta,Yes,1
+Italy,36,3,Button,Alonso,Yes,4
+Italy,47,9,Senna,Buemi,Yes,1
+Singapore,4,7,Hamilton,Schumacher,Yes,7
+Singapore,5,6,Hamilton,Rosberg,Yes,7
+Singapore,10,3,Webber,Alonso,Yes,16
+Singapore,11,12,Rosberg,Buemi,,
+Singapore,11,13,Rosberg,Kobayashi,,
+Singapore,11,16,Schumacher,Alguersuari,,
+Singapore,12,8,Alonso,Barrichello,Yes,7
+Singapore,12,13,Schumacher,Trulli,,
+Singapore,14,8,Schumacher,Kobayashi,Replay,14
+Singapore,14,9,Sutil,Kobayashi,Yes,18
+Singapore,14,17,Buemi,D'Ambrosio,,
+Singapore,15,4,Alonso,Perez,Replay,5
+Singapore,15,15,Hamilton,Barrichello,,
+Singapore,16,11,Alguersuari,Trulli,Yes,7
+Singapore,16,13,Maldonado,Petrov,Yes,7
+Singapore,16,14,Barrichello,Petrov,Yes,10
+Singapore,16,15,Buemi,Petrov,,
+Singapore,16,17,Massa,D'Ambrosio,,
+Singapore,16,18,Massa,Kovalainen,,
+Singapore,17,16,Hamilton,Kovalainen,,
+Singapore,19,3,Alonso,Di Resta,Yes,7
+Singapore,20,12,Massa,Buemi,Yes,7
+Singapore,21,14,Hamilton,Kobayashi,Yes,7
+Singapore,22,13,Hamilton,Buemi,,
+Singapore,22,20,Senna,Liuzzi,,
+Singapore,24,12,Hamilton,Massa,Replay,6
+Singapore,25,11,Hamilton,Barrichello,Replay,7
+Singapore,25,15,Massa,Kovalainen,,
+Singapore,27,7,Rosberg,Perez,Yes,7
+Singapore,28,7,Perez,Rosberg,Yes,Finish Line
+Singapore,34,2,Webber,Alonso,Yes,10
+Singapore,34,8,Hamilton,Perez,,
+Singapore,34,10,Massa,Maldonado,,
+Singapore,34,18,Senna,D'Ambrosio,,
+Singapore,36,16,Senna,Petrov,,
+Singapore,37,7,Hamilton,Sutil,Yes,8
+Singapore,38,6,Hamilton,Rosberg,Yes,7
+Singapore,39,5,Hamilton,Di Resta,Yes,7
+Singapore,39,15,Senna,Kovalainen,,
+Singapore,39,18,Alguersuari,D'Ambrosio,,
+Singapore,46,17,Alguersuari,Petrov,Yes,7
+Singapore,47,16,Alguersuari,Kovalainen,,
+Singapore,48,4,Webber,Hamilton,Yes,16
+Singapore,50,8,Hamilton,Perez,Replay,7
+Singapore,51,7,Hamilton,Sutil,Yes,7
+Singapore,51,17,Kovalainen,D'Ambrosio,,
+Singapore,52,6,Hamilton,Rosberg,Yes,7
+Singapore,53,5,Hamilton,Di Resta,Yes,14
+Singapore,53,18,Petrov,D'Ambrosio,,
+Singapore,55,10,Massa,Barrichello,,
+Singapore,55,14,Kobayashi,Alguersuari,,
+Singapore,58,11,Maldonado,Barrichello,Yes,7
+Singapore,58,12,Buemi,Barrichello,Background,10
+Singapore,60,9,Massa,Perez,Yes,1
+Japan,2,14,Maldonado,Kovalainen,,
+Japan,2,15,Barrichello,Kovalainen,,
+Japan,2,20,Rosberg,D'Ambrosio,,
+Japan,3,17,Trulli,Perez,,
+Japan,3,19,Rosberg,Alguersuari,,
+Japan,4,13,Maldonado,Senna,,
+Japan,5,14,Barrichello,Senna,Yes,1
+Japan,6,4,Alonso,Massa,Yes,1
+Japan,6,17,Perez,Trulli,,
+Japan,7,13,Barrichello,Maldonado,Yes,1
+Japan,7,16,Perez,Kovalainen,,
+Japan,7,18,Rosberg,Trulli,,
+Japan,8,2,Button,Hamilton,Yes,Spoon
+Japan,9,10,Hamilton,Kobayashi,,
+Japan,9,13,Senna,Maldonado,,
+Japan,9,14,Perez,Maldonado,,
+Japan,9,18,Sutil,Trulli,,
+Japan,9,19,Sutil,Alguersuari,,
+Japan,10,7,Hamilton,Petrov,,
+Japan,10,8,Hamilton,Buemi,,
+Japan,10,19,Alguersuari,Trulli,,
+Japan,11,9,Webber,Buemi,,
+Japan,11,10,Schumacher,Senna,,
+Japan,11,11,Schumacher,Perez,,
+Japan,11,14,Sutil,Rosberg,,
+Japan,12,6,Webber,Petrov,,
+Japan,12,10,Perez,Senna,,
+Japan,12,12,Sutil,Maldonado,,
+Japan,12,14,Di Resta,Rosberg,,
+Japan,12,14,Rosberg,Di Resta,Yes,130r
+Japan,12,20,Kovalainen,Glock,,
+Japan,13,10,Sutil,Senna,,
+Japan,13,12,Di Resta,Maldonado,,
+Japan,13,17,Rosberg,D'Ambrosio,,
+Japan,13,18,Kovalainen,D'Ambrosio,,
+Japan,14,11,Di Resta,Senna,,
+Japan,15,7,Schumacher,Petrov,Yes,1
+Japan,16,12,Kobayashi,Alguersuari,Yes,11
+Japan,17,13,Barrichello,Alguersuari,,
+Japan,17,17,Maldonado,Senna,,
+Japan,18,9,Sutil,Perez,,
+Japan,20,9,Di Resta,Perez,,
+Japan,20,17,Alguersuari,Senna,,
+Japan,21,6,Webber,Schumacher,,
+Japan,22,16,Alguersuari,Maldonado,,
+Japan,23,5,Massa,Schumacher,,
+Japan,28,8,Perez,Petrov,,
+Japan,28,9,Di Resta,Petrov,,
+Japan,28,16,Maldonado,Senna,,
+Japan,28,17,Maldonado,Kovalainen,,
+Japan,29,17,Kovalainen,Senna,,
+Japan,29,18,Trulli,Senna,,
+Japan,31,10,Sutil,Petrov,Yes,1
+Japan,31,11,Rosberg,Petrov,Yes,10
+Japan,33,15,Maldonado,Alguersuari,,
+Japan,34,10,Vettel,Rosberg,,
+Japan,36,6,Vettel,Sutil,Yes,1
+Japan,36,8,Webber,Rosberg,,
+Japan,36,16,Di Resta,Kovalainen,,
+Japan,37,6,Webber,Sutil,Yes,130r
+Japan,38,7,Hamilton,Massa,Yes,1
+Japan,39,12,Perez,Di Resta,,
+Japan,39,15,Alguersuari,Barrichello,,
+Japan,40,10,Perez,Maldonado,Yes,11
+Japan,41,6,Hamilton,Rosberg,Yes,1
+Japan,41,7,Massa,Rosberg,,
+Japan,41,9,Perez,Kobayashi,,
+Japan,44,10,Sutil,Di Resta,,
+Japan,45,9,Sutil,Kobayashi,Yes,130r
+Japan,45,15,Senna,Barrichello,,
+Japan,45,16,Maldonado,Barrichello,,
+Japan,46,11,Petrov,Di Resta,Yes,1
+Japan,46,12,Rosberg,Di Resta,Yes,Dunlop
+Japan,46,15,Maldonado,Senna,,
+Japan,47,10,Petrov,Kobayashi,Yes,1
+Japan,47,11,Rosberg,Kobayashi,,
+Japan,49,9,Petrov,Sutil,,
+Japan,49,10,Rosberg,Sutil,,
+Japan,49,12,Di Resta,Kobayashi,,
+Japan,53,14,Maldonado,Alguersuari,,
+South Korea,2,16,Buemi,Kovalainen,Yes,1
+South Korea,2,17,Perez,Kovalainen,,
+South Korea,2,21,Trulli,Ricciardo,,
+South Korea,3,11,Alguersuari,Sutil,,
+South Korea,3,15,Buemi,Barrichello,,
+South Korea,3,20,Trulli,Glock,,
+South Korea,4,14,Buemi,Maldonado,Replay,3
+South Korea,4,18,Senna,Kovalainen,,
+South Korea,5,9,Schumacher,Di Resta,Yes,3
+South Korea,7,10,Alguersuari,Di Resta,Yes,3
+South Korea,7,13,Buemi,Kobayashi,Background,3
+South Korea,11,19,Kobayashi,Glock,,
+South Korea,12,20,Barrichello,Glock,,
+South Korea,14,10,Button,Rosberg,Yes,2
+South Korea,14,10,Rosberg,Button,Yes,3
+South Korea,14,19,Kovalainen,Glock,,
+South Korea,15,7,Button,Rosberg,Yes,3
+South Korea,15,9,Massa,Maldonado,,
+South Korea,15,12,Schumacher,Petrov,,
+South Korea,15,21,Trulli,Ricciardo,,
+South Korea,16,5,Button,Sutil,Yes,3
+South Korea,16,6,Rosberg,Sutil,,
+South Korea,16,12,Petrov,Alonso,Replay,3
+South Korea,21,20,D'Ambrosio,Ricciardo,,
+South Korea,22,11,Buemi,Maldonado,Replay,3
+South Korea,22,14,Barrichello,Kobayashi,Replay,3
+South Korea,24,14,Senna,Kobayashi,Yes,1
+South Korea,24,14,Kobayashi,Senna,,3
+South Korea,24,14,Senna,Kobayashi,,4
+South Korea,24,20,Maldonado,Ricciardo,,
+South Korea,25,18,Maldonado,D'Ambrosio,,
+South Korea,26,9,Sutil,Di Resta,,
+South Korea,26,17,Maldonado,Glock,,
+South Korea,27,5,Massa,Rosberg,Yes,3
+South Korea,27,6,Alonso,Rosberg,Yes,4
+South Korea,29,18,Kobayashi,D'Ambrosio,Replay,4
+South Korea,29,19,Kobayashi,Ricciardo,Replay,4
+South Korea,29,19,Ricciardo,D'Ambrosio,Replay,4
+South Korea,30,20,Maldonado,D'Ambrosio,,
+South Korea,31,9,Buemi,Di Resta,Replay,3
+South Korea,31,17,Kobayashi,Glock,,
+South Korea,32,13,Di Resta,Trulli,,
+South Korea,34,6,Webber,Hamilton,Yes,6
+South Korea,34,6,Hamilton,Webber,Yes,7
+South Korea,35,7,Buemi,Sutil,,
+South Korea,35,12,Di Resta,Kovalainen,,
+South Korea,36,12,Sutil,Kovalainen,,
+South Korea,36,14,Senna,Trulli,,
+South Korea,39,17,Trulli,Glock,Replay,3
+South Korea,49,2,Webber,Hamilton,Yes,1
+South Korea,49,2,Hamilton,Webber,Yes,3
+South Korea,49,9,Buemi,Di Resta,Replay,3
+South Korea,50,13,Barrichello,Senna,Yes,4
+South Korea,53,12,Barrichello,Perez,,
+South Korea,55,7,Alguersuari,Rosberg,Replay,3
+India,2,17,Ricciardo,Karthikeyan,,
+India,9,10,Alguersuari,Senna,Yes,4
+India,9,17,Di Resta,D'Ambrosio,Replay,4
+India,9,18,Perez,D'Ambrosio,Replay,4
+India,9,19,Petrov,D'Ambrosio,,
+India,10,11,Buemi,Senna,Yes,1
+India,10,16,Di Resta,Karthikeyan,Replay,4
+India,10,17,Perez,Karthikeyan,,
+India,10,18,Petrov,Karthikeyan,,
+India,14,9,Alguersuari,Sutil,Yes,4
+India,14,14,Di Resta,Ricciardo,,
+India,14,15,Perez,Ricciardo,,
+India,14,16,Petrov,Ricciardo,,
+India,15,10,Buemi,Sutil,Yes,4
+India,15,14,Perez,Di Resta,,
+India,15,14,Di Resta,Perez,,
+India,17,6,Schumacher,Alonso,Yes,2
+India,17,14,Perez,Di Resta,,
+India,17,15,Petrov,Di Resta,,
+India,18,4,Alonso,Schumacher,Yes,4
+India,20,8,Schumacher,Senna,Replay,4
+India,21,18,Di Resta,D'Ambrosio,,
+India,25,9,Buemi,Hamilton,,
+India,26,17,Barrichello,Karthikeyan,,
+India,31,8,Hamilton,Alguersuari,Yes,1
+India,31,16,Barrichello,Ricciardo,,
+India,36,12,Petrov,Kovalainen,Yes,4
+India,41,15,Barrichello,Karthikeyan,Yes,4
+Abu Dhabi,2,17,Barrichello,Liuzzi,Yes,8
+Abu Dhabi,2,19,Maldonado,Trulli,,
+Abu Dhabi,3,3,Webber,Button,Replay,8
+Abu Dhabi,3,3,Button,Webber,Replay,11
+Abu Dhabi,3,10,Buemi,Kobayashi,,
+Abu Dhabi,3,15,Barrichello,Glock,,
+Abu Dhabi,3,17,Maldonado,Liuzzi,,
+Abu Dhabi,4,11,Petrov,Kobayashi,,
+Abu Dhabi,4,12,Alguersuari,Kobayashi,,
+Abu Dhabi,5,13,Kovalainen,Kobayashi,,
+Abu Dhabi,5,16,Maldonado,Glock,,
+Abu Dhabi,5,20,Ricciardo,D'Ambrosio,,
+Abu Dhabi,6,17,Trulli,Liuzzi,,
+Abu Dhabi,7,20,Senna,D'Ambrosio,,
+Abu Dhabi,8,19,Senna,Ricciardo,,
+Abu Dhabi,8,21,Perez,D'Ambrosio,,
+Abu Dhabi,9,9,Buemi,Di Resta,Yes,8
+Abu Dhabi,9,9,Di Resta,Buemi,Yes,11
+Abu Dhabi,9,18,Senna,Liuzzi,Replay,8
+Abu Dhabi,9,22,Kobayashi,D'Ambrosio,,
+Abu Dhabi,10,16,Trulli,Glock,,
+Abu Dhabi,10,19,Perez,Liuzzi,Replay,11
+Abu Dhabi,10,20,Perez,Ricciardo,Replay,11
+Abu Dhabi,10,20,Kobayashi,Liuzzi,Yes,14
+Abu Dhabi,10,20,Ricciardo,Liuzzi,Replay,11
+Abu Dhabi,10,20,Liuzzi,Ricciardo,Yes,14
+Abu Dhabi,10,21,Kobayashi,Ricciardo,Yes,14
+Abu Dhabi,11,17,Senna,Glock,Replay,8
+Abu Dhabi,12,16,Senna,Trulli,,
+Abu Dhabi,12,19,Kobayashi,Perez,,
+Abu Dhabi,13,9,Buemi,Di Resta,Replay,8
+Abu Dhabi,13,9,Di Resta,Buemi,Yes,11
+Abu Dhabi,13,18,Kobayashi,Glock,,
+Abu Dhabi,14,9,Buemi,Di Resta,Yes,8
+Abu Dhabi,14,9,Di Resta,Buemi,Yes,10
+Abu Dhabi,14,9,Buemi,Di Resta,Yes,12
+Abu Dhabi,14,19,Perez,Glock,,
+Abu Dhabi,15,3,Webber,Button,Yes,12
+Abu Dhabi,15,3,Button,Webber,Yes,14
+Abu Dhabi,15,17,Kobayashi,Trulli,,
+Abu Dhabi,16,6,Sutil,Schumacher,,
+Abu Dhabi,17,10,Schumacher,Petrov,Replay,19
+Abu Dhabi,17,16,Perez,Trulli,,
+Abu Dhabi,17,22,Alguersuari,D'Ambrosio,,
+Abu Dhabi,18,14,Kobayashi,Senna,,
+Abu Dhabi,18,20,Alguersuari,Ricciardo,,
+Abu Dhabi,19,19,Alguersuari,Liuzzi,,
+Abu Dhabi,20,8,Schumacher,Di Resta,Yes,8
+Abu Dhabi,21,10,Kobayashi,Maldonado,Replay,11
+Abu Dhabi,21,19,Trulli,Liuzzi,,
+Abu Dhabi,23,16,Senna,Glock,Yes,8
+Abu Dhabi,24,14,Barrichello,Kovalainen,,
+Abu Dhabi,24,17,Alguersuari,Glock,Yes,11
+Abu Dhabi,30,4,Webber,Massa,Yes,8
+Abu Dhabi,30,4,Massa,Webber,Yes,11
+Abu Dhabi,30,14,Perez,Maldonado,,
+Abu Dhabi,31,16,Maldonado,Alguersuari,Yes,8
+Abu Dhabi,32,10,Barrichello,Petrov,,
+Abu Dhabi,33,11,Di Resta,Petrov,Yes,8
+Abu Dhabi,33,13,Perez,Kovalainen,,
+Abu Dhabi,36,13,Barrichello,Kovalainen,Replay,11
+Abu Dhabi,38,10,Perez,Petrov,Yes,8
+Abu Dhabi,38,17,Alguersuari,Trulli,,
+Abu Dhabi,42,4,Webber,Button,Yes,8
+Abu Dhabi,42,16,Alguersuari,Kovalainen,,
+Abu Dhabi,45,3,Webber,Rosberg,Yes,11
+Abu Dhabi,45,15,Alguersuari,Senna,Yes,8
+Abu Dhabi,46,10,Kobayashi,Perez,Yes,11
+Brazil,2,10,Schumacher,Di Resta,Yes,1
+Brazil,2,13,Kobayashi,Buemi,,
+Brazil,2,15,Perez,Kovalainen,,
+Brazil,2,18,Barrichello,Trulli,,
+Brazil,2,19,Maldonado,Trulli,,
+Brazil,3,16,Alguersuari,Kovalainen,,
+Brazil,3,17,Barrichello,Kovalainen,Yes,4
+Brazil,4,18,Maldonado,Kovalainen,,
+Brazil,10,9,Schumacher,Senna,Yes,1
+Brazil,11,3,Alonso,Button,Yes,6
+Brazil,16,13,Sutil,Barrichello,,
+Brazil,17,15,Petrov,Kovalainen,,
+Brazil,18,19,Kovalainen,D'Ambrosio,,
+Brazil,19,9,Sutil,Perez,Yes,Finish Line
+Brazil,19,10,Sutil,Alguersuari,,
+Brazil,21,1,Vettel,Massa,Yes,4
+Brazil,21,9,Rosberg,Alguersuari,Yes,1
+Brazil,22,15,Barrichello,Trulli,Replay,4
+Brazil,26,16,Maldonado,Senna,Yes,4
+Brazil,26,19,Schumacher,Trulli,Replay,1
+Brazil,28,16,Kovalainen,Senna,,
+Brazil,36,18,Schumacher,Trulli,,
+Brazil,37,8,Sutil,Di Resta,Yes,1
+Brazil,38,17,Schumacher,Senna,,
+Brazil,39,4,Button,Massa,Yes,4
+Brazil,42,10,Alguersuari,Buemi,,
+Brazil,45,16,Schumacher,Kovalainen,,
+Brazil,49,11,Alguersuari,Buemi,,
+Brazil,50,6,Sutil,Rosberg,Yes,1
+Brazil,53,13,Perez,Barrichello,Yes,4
+Brazil,62,3,Button,Alonso,Yes,4

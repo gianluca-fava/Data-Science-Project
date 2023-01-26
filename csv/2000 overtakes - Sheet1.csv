@@ -1,0 +1,351 @@
+Race,Lap,Position,Overtaker,Overtakee,Live?,Turn
+Australia,2,9,Verstappen,Irvine,,
+Australia,2,11,De La Rosa,Fisichella,,
+Australia,2,19,Alesi,Mazzacane,,
+Australia,3,10,De La Rosa,Irvine,,
+Australia,3,15,Wurz,Button,,
+Australia,3,18,Alesi,Heidfeld,,
+Australia,11,14,Alesi,Heidfeld,,
+Australia,13,13,Alesi,Diniz,,
+Australia,37,8,Salo,Zonta,,
+Australia,38,8,Zonta,Salo,,
+Australia,50,6,Salo,Zonta,Replay,13
+Brazil,2,1,M.Schumacher,Hakkinen,Yes,1
+Brazil,2,8,Trulli,Zonta,Background,2
+Brazil,2,13,Alesi,Button,Background,2
+Brazil,2,16,De La Rosa,Heidfeld,Background,1
+Brazil,3,10,Verstappen,Villeneuve,Background,1
+Brazil,3,12,Alesi,R.Schumacher,,
+Brazil,4,7,Trulli,Frentzen,,
+Brazil,4,9,Verstappen,Zonta,,
+Brazil,4,11,Alesi,Villeneuve,,
+Brazil,7,6,Trulli,Fisichella,Replay,1
+Brazil,7,8,Verstappen,Frentzen,,
+Brazil,9,10,Alesi,Zonta,,
+Brazil,9,12,R.Schumacher,Villeneuve,,
+Brazil,9,13,Button,Villeneuve,,
+Brazil,11,7,Verstappen,Fisichella,,
+Brazil,11,9,Alesi,Frentzen,,1
+Brazil,15,2,Barrichello,Hakkinen,Yes,1
+Brazil,15,14,De La Rosa,Herbert,,
+Brazil,16,5,Trulli,Irvine,Replay,1
+Brazil,28,9,De La Rosa,Button,,
+Brazil,52,10,Zonta,Mazzacane,,
+Brazil,56,7,Button,Verstappen,Replay,9
+San Marino,10,13,Alesi,De La Rosa,Replay,Variante Alta
+Great Britain,2,6,R.Schumacher,Villeneuve,Replay,Stowe
+Great Britain,2,13,Salo,Alesi,,
+Great Britain,2,16,Wurz,De La Rosa,,
+Great Britain,2,17,De La Rosa,Diniz,,
+Great Britain,2,17,Wurz,Diniz,,
+Great Britain,2,18,Herbert,Diniz,,
+Great Britain,5,15,Wurz,Zonta,,
+Great Britain,31,1,Coulthard,Barrichello,Replay,Stowe
+Great Britain,51,4,R.Schumacher,Frentzen,,
+Great Britain,52,5,Button,Frentzen,Yes,Woodcote
+Spain,2,12,Verstappen,Irvine,,
+Spain,26,14,Trulli,Heidfeld,,
+Spain,41,3,Coulthard,R.Schumacher,Buildup,2
+Spain,48,2,Coulthard,M.Schumacher,Yes,1
+Spain,50,3,Barrichello,R.Schumacher,Yes,11
+Spain,50,4,Barrichello,M.Schumacher,Yes,11
+Spain,50,4,R.Schumacher,M.Schumacher,Yes,11
+Spain,61,13,Trulli,Herbert,,
+Europe,2,9,De La Rosa,Verstappen,,
+Europe,2,13,Alesi,Button,Background,1
+Europe,3,14,Gene,Salo,Background (R),13
+Europe,4,6,Fisichella,R.Schumacher,,
+Europe,4,8,De La Rosa,Irvine,,
+Europe,6,7,De La Rosa,R.Schumacher,,
+Europe,9,5,Fisichella,Villeneuve,Replay,13
+Europe,11,1,M.Schumacher,Hakkinen,Yes,11
+Europe,12,3,Barrichello,Coulthard,Replay,1
+Europe,12,8,Irvine,R.Schumacher,,
+Europe,12,10,Alesi,Wurz,,
+Europe,13,11,Button,Wurz,,
+Europe,14,6,R.Schumacher,Villeneuve,Yes,11
+Europe,14,7,R.Schumacher,De La Rosa,,
+Europe,14,8,R.Schumacher,Irvine,,
+Europe,16,3,M.Schumacher,Alesi,Yes,8
+Europe,16,4,M.Schumacher,Button,Yes,5
+Europe,16,4,Coulthard,Alesi,,
+Europe,16,5,Coulthard,Button,Yes,8
+Europe,17,3,Hakkinen,Button,,
+Europe,17,4,De La Rosa,Button,,
+Europe,17,5,Fisichella,Button,,
+Europe,17,10,Herbert,R.Schumacher,Background,2
+Europe,19,4,Fisichella,De La Rosa,Yes,6
+Europe,20,18,Diniz,Mazzacane,,
+Europe,21,2,Hakkinen,Coulthard,Yes,6
+Europe,21,7,Barrichello,Verstappen,Replay,13
+Europe,22,6,Barrichello,Irvine,,
+Europe,23,5,Barrichello,De La Rosa,,
+Europe,23,14,Button,Zonta,,
+Europe,24,15,Wurz,Zonta,,
+Europe,25,9,R.Schumacher,Herbert,,
+Europe,32,4,Barrichello,Fisichella,Replay,11
+Europe,41,10,Alesi,Wurz,Replay,5
+Europe,42,10,Wurz,Alesi,,
+Europe,50,10,Diniz,Zonta,Yes,5
+Europe,61,8,Wurz,Button,Yes,11
+Monaco,46,11,Verstappen,Heidfeld,Yes,St Devote
+Canada,2,6,De La Rosa,Frentzen,Replay,10
+Canada,4,10,Verstappen,Fisichella,,
+Canada,14,13,Alesi,Wurz,,
+Canada,23,14,De La Rosa,Salo,,
+Canada,24,6,Trulli,Zonta,,
+Canada,25,2,Barrichello,Villeneuve,Yes,10
+Canada,27,5,Trulli,Frentzen,Yes,10
+Canada,35,3,Hakkinen,Villeneuve,Replay,1
+Canada,47,2,Barrichello,Fisichella,,
+Canada,47,7,Verstappen,Villeneuve,,
+Canada,47,8,R.Schumacher,Villeneuve,Yes,7
+Canada,47,9,Coulthard,Villeneuve,,
+Canada,47,12,De La Rosa,Diniz,,
+Canada,52,7,R.Schumacher,Verstappen,,
+Canada,52,7,Verstappen,R.Schumacher,Yes,13
+Canada,57,6,Verstappen,Wurz,Yes,3
+Canada,60,5,Verstappen,Trulli,Yes,8
+Canada,64,9,Villeneuve,Coulthard,Replay,10
+Canada,64,9,Coulthard,Villeneuve,,
+France,2,7,Trulli,R.Schumacher,Replay,Lycee
+France,2,7,R.Schumacher,Trulli,Replay,Lycee
+France,2,14,Alesi,Heidfeld,,
+France,4,15,Fisichella,Heidfeld,,
+France,11,7,Trulli,R.Schumacher,,
+France,12,7,R.Schumacher,Trulli,,
+France,12,10,Button,Irvine,,
+France,12,14,Heidfeld,Fisichella,Replay,Adelaide
+France,13,9,Button,Salo,Replay,Adelaide
+France,21,16,Fisichella,Mazzacane,,
+France,22,2,Coulthard,Barrichello,Yes,Nurburgring
+France,23,8,Trulli,Frentzen,Replay,Lycee
+France,28,18,Irvine,Mazzacane,,
+France,40,1,Coulthard,M.Schumacher,Yes,Adelaide
+France,44,5,R.Schumacher,Trulli,,
+France,52,6,R.Schumacher,Trulli,Replay,Adelaide
+France,55,12,Irvine,Diniz,,
+France,55,13,Irvine,Heidfeld,,
+France,63,11,Irvine,Diniz,,
+Austria,3,6,Barrichello,Button,Yes,2
+Austria,3,7,Frentzen,Button,,
+Austria,3,11,Heidfeld,Mazzacane,,
+Austria,3,12,Alesi,Mazzacane,,
+Austria,3,13,Villeneuve,Mazzacane,,
+Austria,3,14,Burti,Mazzacane,,
+Austria,3,15,Zonta,Mazzacane,,
+Austria,3,16,R.Schumacher,Mazzacane,,
+Austria,4,3,De La Rosa,Salo,Yes,1
+Austria,5,5,Barrichello,Herbert,Replay,1
+Austria,5,13,Zonta,Burti,,
+Austria,7,10,Alesi,Heidfeld,,
+Austria,8,4,Barrichello,Salo,Yes,2
+Austria,9,15,Diniz,Mazzacane,,
+Austria,12,9,Alesi,Wurz,Yes,3
+Austria,12,9,Wurz,Alesi,Yes,3
+Austria,13,14,Diniz,Burti,,
+Austria,13,16,Verstappen,Mazzacane,,
+Austria,16,9,Alesi,Wurz,Yes,1
+Austria,25,14,Diniz,Zonta,,
+Austria,25,15,Zonta,Mazzacane,,
+Austria,25,15,Diniz,Mazzacane,,
+Austria,34,8,Heidfeld,Wurz,,
+Austria,34,9,Villeneuve,Wurz,,
+Austria,36,12,Diniz,Alesi,,
+Austria,36,13,Zonta,Alesi,,
+Austria,42,7,Villeneuve,Gene,,
+Austria,70,9,Diniz,Wurz,,
+Germany,2,5,Herbert,Irvine,Yes,Clark
+Germany,2,6,Verstappen,Irvine,Yes,Senna
+Germany,2,8,Barrichello,Villeneuve,Yes,Senna
+Germany,2,9,Barrichello,Zonta,Yes,Clark
+Germany,2,15,Frentzen,Diniz,,
+Germany,3,7,Barrichello,Irvine,Yes,Mobil 1
+Germany,3,14,Frentzen,Salo,,
+Germany,4,13,Frentzen,Heidfeld,,
+Germany,5,6,Barrichello,Verstappen,Replay,Ostkurve
+Germany,6,5,Barrichello,Herbert,Yes,Clark
+Germany,6,11,Frentzen,R.Schumacher,Background,Senna
+Germany,6,12,Frentzen,Wurz,,
+Germany,7,10,Frentzen,Zonta,,
+Germany,8,9,Frentzen,Villeneuve,,
+Germany,9,8,Frentzen,Irvine,Yes,Clark
+Germany,10,7,Frentzen,Verstappen,Yes,Clark
+Germany,11,6,Frentzen,Herbert,Yes,Ostkurve
+Germany,11,11,R.Schumacher,Zonta,,
+Germany,11,15,Diniz,Salo,,
+Germany,12,4,Barrichello,De La Rosa,Yes,Ostkurve
+Germany,12,7,Verstappen,Herbert,,
+Germany,12,14,Diniz,Heidfeld,,
+Germany,12,15,Salo,Heidfeld,,
+Germany,15,3,Barrichello,Trulli,Yes,Clark
+Germany,16,13,Salo,Diniz,,
+Germany,22,8,Villeneuve,Irvine,Yes,Senna
+Germany,29,7,Villeneuve,R.Schumacher,Yes,Mobil 1
+Germany,29,17,Alesi,Heidfeld,,
+Germany,30,9,Wurz,Salo,,
+Germany,30,16,Heidfeld,Verstappen,,
+Germany,30,16,Verstappen,Heidfeld,,
+Germany,32,12,Verstappen,Irvine,,
+Germany,33,15,R.Schumacher,Heidfeld,,
+Germany,34,5,Coulthard,Frentzen,Replay,Clark
+Germany,34,13,R.Schumacher,Mazzacane,,
+Germany,35,7,Salo,Zonta,Yes,Nordkurve
+Germany,35,11,Villeneuve,Mazzacane,,
+Germany,35,12,Button,Mazzacane,,
+Germany,37,6,De La Rosa,Trulli,,
+Germany,38,5,Salo,De La Rosa,,
+Germany,38,6,Salo,Button,,
+Germany,38,6,Button,De La Rosa,,
+Germany,38,8,Verstappen,R.Schumacher,,
+Germany,39,2,Hakkinen,Frentzen,Yes,Nordkurve
+Germany,39,2,Frentzen,Hakkinen,,
+Germany,39,2,Hakkinen,Frentzen,,
+Germany,40,3,Coulthard,Salo,,
+Germany,42,10,Irvine,Mazzacane,,
+Germany,44,4,Button,Salo,,
+Hungary,8,7,Irvine,Button,Yes,1
+Hungary,9,21,Villeneuve,De La Rosa,Replay,1
+Hungary,12,13,Herbert,Fisichella,,
+Hungary,19,19,Villeneuve,Fisichella,Yes,1
+Hungary,20,18,Villeneuve,Mazzacane,,
+Hungary,29,3,M.Schumacher,Barrichello,Yes,1
+Hungary,34,15,Villeneuve,Zonta,,
+Hungary,51,15,Verstappen,Zonta,,
+Hungary,59,13,Villeneuve,Herbert,Replay,1
+Hungary,74,7,Trulli,Button,Replay,1
+Hungary,75,8,Irvine,Button,,
+Belgium,2,9,Barrichello,Herbert,Replay,La Source
+Belgium,2,16,Alesi,Diniz,,
+Belgium,2,17,Salo,Diniz,,
+Belgium,2,18,Verstappen,Wurz,,
+Belgium,2,18,Verstappen,Diniz,,
+Belgium,2,19,Wurz,Diniz,,
+Belgium,2,20,Gene,Diniz,,
+Belgium,2,21,Mazzacane,Diniz,,
+Belgium,3,15,Alesi,De La Rosa,,
+Belgium,3,16,Salo,De La Rosa,,
+Belgium,4,2,Button,Trulli,Yes,La Source
+Belgium,4,2,Trulli,Button,Yes,La Source
+Belgium,4,3,M.Schumacher,Button,Yes,Bus Stop
+Belgium,5,2,M.Schumacher,Trulli,Yes,La Source
+Belgium,5,3,Coulthard,Button,Yes,La Source
+Belgium,5,4,R.Schumacher,Button,Yes,Eau Rouge
+Belgium,5,18,Diniz,Mazzacane,,
+Belgium,7,8,Alesi,Villeneuve,,
+Belgium,9,7,Barrichello,Frentzen,,
+Belgium,12,18,Wurz,Verstappen,,
+Belgium,13,13,Salo,Zonta,,
+Belgium,19,12,Salo,Irvine,Replay,Pouhon
+Belgium,23,9,Barrichello,Herbert,Yes,Les Combes
+Belgium,28,6,Barrichello,Alesi,,
+Belgium,28,16,Wurz,Mazzacane,Yes,La Source
+Belgium,33,13,Wurz,Gene,,
+Belgium,37,4,Coulthard,Button,Yes,Les Combes
+Belgium,41,1,Hakkinen,M.Schumacher,Yes,Les Combes
+Italy,12,6,Verstappen,Wurz,,
+Italy,12,10,Zonta,Mazzacane,,
+Italy,12,11,Zonta,Diniz,,
+Italy,13,9,Zonta,Heidfeld,Replay,Roggia
+Italy,14,7,Zonta,Wurz,Yes,Parabolica
+Italy,14,8,Zonta,Gene,,1
+Italy,14,12,Salo,Diniz,,1
+Italy,15,4,Verstappen,Fisichella,Yes,1
+Italy,15,11,Salo,Diniz,,
+Italy,16,3,Verstappen,R.Schumacher,,
+Italy,16,4,Zonta,R.Schumacher,Yes,Finish Line
+Italy,16,5,Zonta,Fisichella,Replay,1
+Italy,17,9,Salo,Mazzacane,,
+Italy,21,3,Zonta,Verstappen,Yes,1
+Italy,21,8,Salo,Gene,,
+Italy,25,6,Salo,Wurz,Yes,1
+Italy,27,10,Zonta,Diniz,Yes,1
+Italy,28,9,Zonta,Mazzacane,,
+Italy,29,8,Zonta,Gene,,
+Italy,38,9,Diniz,Gene,,2
+USA,2,6,Frentzen,R.Schumacher,Yes,1
+USA,2,8,Zonta,Diniz,,
+USA,2,10,Verstappen,Irvine,,
+USA,2,11,Verstappen,Wurz,,
+USA,2,11,Irvine,Wurz,,
+USA,2,14,De La Rosa,Salo,,
+USA,3,13,De La Rosa,Heidfeld,,
+USA,3,17,Gene,Fisichella,,
+USA,4,12,De La Rosa,Wurz,,
+USA,6,10,De La Rosa,Irvine,,
+USA,6,19,Button,Alesi,,
+USA,7,1,M.Schumacher,Coulthard,Yes,2
+USA,7,18,Button,Heidfeld,,
+USA,7,20,Trulli,Alesi,,
+USA,8,9,Barrichello,R.Schumacher,,
+USA,8,12,Herbert,Zonta,,
+USA,8,16,Button,Salo,,
+USA,9,13,Button,Irvine,,
+USA,10,11,Button,Zonta,,
+USA,10,12,Button,De La Rosa,,
+USA,10,20,Alesi,Wurz,,
+USA,11,7,R.Schumacher,Barrichello,Yes,1
+USA,11,12,De La Rosa,Zonta,,
+USA,12,6,R.Schumacher,Villeneuve,,
+USA,13,8,Verstappen,Barrichello,,
+USA,14,8,Button,Barrichello,,
+USA,14,9,Button,Herbert,,
+USA,14,18,Alesi,Heidfeld,,
+USA,15,6,Verstappen,Villeneuve,,
+USA,15,15,Alesi,Salo,,
+USA,16,8,Herbert,Barrichello,Yes,1
+USA,16,16,Salo,Mazzacane,,
+USA,17,5,Verstappen,Diniz,,
+USA,17,7,Herbert,Villeneuve,,
+USA,17,11,Irvine,Zonta,,
+USA,17,17,Heidfeld,Mazzacane,,
+USA,18,18,Wurz,Mazzacane,,
+USA,19,8,Barrichello,Diniz,Yes,1
+USA,19,10,Irvine,De La Rosa,Yes,6
+USA,21,10,De La Rosa,Irvine,,
+USA,21,13,Coulthard,Gene,,
+USA,23,12,Coulthard,Zonta,,
+USA,27,13,Heidfeld,Alesi,,
+USA,28,9,Coulthard,Irvine,,
+USA,37,7,Coulthard,De La Rosa,Yes,4
+USA,39,6,Coulthard,Diniz,Yes,1
+USA,48,11,R.Schumacher,Heidfeld,,
+USA,67,8,Diniz,Heidfeld,,
+Japan,7,8,Villeneuve,Herbert,Replay,Chicane
+Japan,7,11,Trulli,Frentzen,,
+Japan,24,7,Villeneuve,Irvine,,
+Japan,30,5,Button,R.Schumacher,,
+Japan,34,13,Heidfeld,Trulli,,
+Japan,36,14,Diniz,Trulli,,
+Japan,43,13,De La Rosa,Fisichella,,
+Japan,48,12,De La Rosa,Trulli,,
+Malaysia,3,2,M.Schumacher,Hakkinen,,
+Malaysia,3,3,Barrichello,Hakkinen,Replay,12
+Malaysia,3,11,Zonta,Salo,,
+Malaysia,3,16,Verstappen,Mazzacane,,
+Malaysia,4,9,Zonta,Herbert,,
+Malaysia,4,10,Zonta,Button,,
+Malaysia,4,11,Salo,Button,,
+Malaysia,4,15,Verstappen,Gene,,
+Malaysia,5,13,Verstappen,R.Schumacher,,
+Malaysia,6,15,Alesi,Mazzacane,,
+Malaysia,7,11,Verstappen,Fisichella,,
+Malaysia,8,16,Trulli,Mazzacane,,
+Malaysia,9,8,Salo,Herbert,,
+Malaysia,9,13,Gene,R.Schumacher,,
+Malaysia,9,14,Alesi,R.Schumacher,,
+Malaysia,10,13,Alesi,Gene,,
+Malaysia,10,16,Hakkinen,Mazzacane,,
+Malaysia,12,10,Verstappen,Button,,
+Malaysia,13,15,Hakkinen,R.Schumacher,,
+Malaysia,15,14,Hakkinen,Gene,Yes,9
+Malaysia,21,10,Hakkinen,Fisichella,Yes,15
+Malaysia,24,8,Hakkinen,Irvine,,
+Malaysia,26,6,Villeneuve,Wurz,,
+Malaysia,26,7,Hakkinen,Wurz,,
+Malaysia,27,10,Fisichella,Zonta,,
+Malaysia,30,4,Hakkinen,Villeneuve,Yes,15
+Malaysia,30,14,R.Schumacher,Gene,Yes,15
+Malaysia,30,16,Trulli,Mazzacane,,
+Malaysia,38,11,Salo,Herbert,,
+Malaysia,42,15,Trulli,Mazzacane,,

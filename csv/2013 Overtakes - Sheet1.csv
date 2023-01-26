@@ -1,0 +1,1030 @@
+Race,Lap,Position,Overtaker,Overtakee,Live?,Turn
+Australia,2,4,Raikkonen,Hamilton,Replay,13
+Australia,2,15,Gutierrez,Maldonado,,
+Australia,2,16,Bianchi,Maldonado,,
+Australia,2,18,Van Der Garde,Chilton,,
+Australia,2,20,Pic,Ricciardo,,
+Australia,4,13,Vergne,Bottas,,
+Australia,4,14,Gutierrez,Bottas,,
+Australia,4,16,Maldonado,Bianchi,,
+Australia,5,10,Perez,Grosjean,Replay,1
+Australia,5,14,Maldonado,Bottas,,
+Australia,5,17,Ricciardo,Van Der Garde,Replay,9
+Australia,5,18,Ricciardo,Chilton,,
+Australia,5,19,Ricciardo,Pic,,
+Australia,6,17,Button,Pic,,
+Australia,7,16,Webber,Pic,,
+Australia,7,17,Grosjean,Pic,,
+Australia,8,10,Vettel,Maldonado,Yes,Finish Line
+Australia,8,12,Ricciardo,Bianchi,,
+Australia,9,9,Massa,Maldonado,,
+Australia,10,8,Raikkonen,Maldonado,Yes,2
+Australia,11,4,Vettel,Perez,Yes,3
+Australia,11,5,Massa,Perez,Yes,13
+Australia,12,6,Alonso,Perez,Yes,1
+Australia,12,7,Raikkonen,Perez,Yes,11
+Australia,13,14,Vergne,Gutierrez,,
+Australia,13,19,Pic,Van Der Garde,,
+Australia,18,12,Perez,Gutierrez,,
+Australia,20,14,Webber,Maldonado,,
+Australia,20,15,Webber,Ricciardo,,
+Australia,20,15,Ricciardo,Maldonado,,
+Australia,21,12,Webber,Bottas,,
+Australia,22,5,Alonso,Sutil,Yes,2
+Australia,22,10,Webber,Perez,Replay,13
+Australia,22,11,Webber,Gutierrez,,
+Australia,22,15,Button,Maldonado,,
+Australia,22,16,Grosjean,Maldonado,,
+Australia,23,6,Vettel,Sutil,Yes,3
+Australia,23,13,Ricciardo,Bottas,,
+Australia,23,14,Button,Bottas,,
+Australia,23,15,Grosjean,Bottas,,
+Australia,26,10,Ricciardo,Gutierrez,,
+Australia,26,11,Button,Gutierrez,,
+Australia,26,15,Perez,Bianchi,,
+Australia,27,12,Grosjean,Gutierrez,,
+Australia,29,14,Bottas,Gutierrez,,
+Australia,31,2,Alonso,Hamilton,Yes,14
+Australia,32,16,Bianchi,Pic,,
+Australia,40,4,Vettel,Hamilton,Yes,1
+Australia,40,5,Massa,Hamilton,Yes,13
+Australia,42,8,Webber,Di Resta,Yes,9
+Australia,43,1,Raikkonen,Sutil,Yes,14
+Australia,44,7,Webber,Vergne,Yes,3
+Australia,46,2,Alonso,Sutil,Yes,3
+Australia,47,17,Chilton,Van Der Garde,,
+Australia,51,5,Hamilton,Sutil,Yes,9
+Australia,51,6,Webber,Sutil,Yes,14
+Australia,55,10,Vergne,Grosjean,,
+Australia,55,10,Grosjean,Vergne,,
+Australia,55,11,Perez,Vergne,,
+Malaysia,2,5,Rosberg,Massa,Background,1
+Malaysia,2,16,Vergne,Pic,,
+Malaysia,3,4,Rosberg,Button,Yes,5
+Malaysia,3,20,Bottas,Chilton,,
+Malaysia,4,8,Hulkenberg,Sutil,,
+Malaysia,4,14,Gutierrez,Maldonado,,
+Malaysia,5,7,Hulkenberg,Perez,Yes,2
+Malaysia,5,10,Grosjean,Ricciardo,Background,2
+Malaysia,5,15,Vergne,Maldonado,,
+Malaysia,6,6,Perez,Vettel,Yes,3
+Malaysia,6,7,Sutil,Vettel,Yes,4
+Malaysia,6,8,Grosjean,Vettel,Yes,4
+Malaysia,6,8,Vettel,Grosjean,Yes,10
+Malaysia,7,6,Vettel,Perez,Yes,11
+Malaysia,7,17,Sutil,Bianchi,,
+Malaysia,9,9,Grosjean,Ricciardo,Yes,1
+Malaysia,9,9,Raikkonen,Ricciardo,Yes,15
+Malaysia,9,14,Sutil,Van Der Garde,,
+Malaysia,9,15,Di Resta,Van Der Garde,,
+Malaysia,9,16,Di Resta,Bianchi,,
+Malaysia,9,17,Di Resta,Bottas,,
+Malaysia,10,16,Bottas,Van Der Garde,,
+Malaysia,10,17,Bottas,Bianchi,,
+Malaysia,11,8,Grosjean,Perez,Replay,1
+Malaysia,11,14,Di Resta,Sutil,Replay,1
+Malaysia,13,19,Vergne,Chilton,,
+Malaysia,16,9,Raikkonen,Perez,Yes,1
+Malaysia,19,11,Di Resta,Ricciardo,Yes,1
+Malaysia,19,19,Bianchi,Van Der Garde,,
+Malaysia,22,7,Sutil,Hulkenberg,Yes,1
+Malaysia,22,8,Massa,Hulkenberg,Yes,2
+Malaysia,22,9,Grosjean,Hulkenberg,Yes,5
+Malaysia,24,16,Maldonado,Van Der Garde,,
+Malaysia,28,14,Vergne,Bianchi,,
+Malaysia,31,17,Pic,Chilton,Yes,1
+Malaysia,35,1,Webber,Button,Yes,2
+Malaysia,35,2,Hamilton,Button,Yes,15
+Malaysia,39,2,Vettel,Hamilton,Yes,1
+Malaysia,41,8,Raikkonen,Hulkenberg,Yes,2
+Malaysia,44,3,Rosberg,Hamilton,Replay,15
+Malaysia,45,3,Hamilton,Rosberg,Yes,1
+Malaysia,45,3,Rosberg,Hamilton,Yes,15
+Malaysia,45,3,Hamilton,Rosberg,,Finish Line
+Malaysia,45,10,Gutierrez,Ricciardo,,
+Malaysia,46,1,Vettel,Webber,Yes,5
+Malaysia,46,12,Vergne,Bottas,,
+Malaysia,48,6,Raikkonen,Perez,Yes,15
+Malaysia,48,11,Vergne,Ricciardo,,
+Malaysia,49,6,Massa,Raikkonen,Yes,15
+Malaysia,49,7,Massa,Perez,Yes,2
+Malaysia,49,12,Bottas,Ricciardo,,
+Malaysia,50,13,Button,Ricciardo,,
+Malaysia,51,10,Vergne,Gutierrez,,
+Malaysia,53,5,Massa,Grosjean,Yes,15
+Malaysia,54,8,Hulkenberg,Perez,Replay,4
+China,2,19,Vergne,Chilton,,
+China,3,18,Vergne,Van Der Garde,,
+China,3,20,Pic,Chilton,,
+China,4,5,Grosjean,Rosberg,,
+China,4,7,Hulkenberg,Ricciardo,Yes,14
+China,4,8,Vettel,Button,,
+China,4,8,Hulkenberg,Vettel,Yes,14
+China,4,9,Hulkenberg,Button,,
+China,4,17,Vergne,Bianchi,,
+China,4,19,Pic,Van Der Garde,,
+China,5,1,Alonso,Hamilton,Yes,1
+China,5,2,Massa,Hamilton,Yes,1
+China,5,6,Hulkenberg,Rosberg,,
+China,5,7,Vettel,Rosberg,Yes,14
+China,5,7,Button,Rosberg,,
+China,6,4,Hulkenberg,Grosjean,,
+China,6,5,Vettel,Grosjean,,
+China,6,14,Hamilton,Van Der Garde,,
+China,6,15,Hamilton,Chilton,,
+China,7,3,Button,Grosjean,,
+China,7,9,Vergne,Bottas,Yes,14
+China,7,14,Webber,Chilton,Yes,1
+China,7,15,Rosberg,Chilton,,
+China,7,16,Ricciardo,Chilton,,
+China,8,7,Alonso,Bottas,Yes,7
+China,8,7,Hamilton,Bottas,Yes,9
+China,9,6,Alonso,Vergne,Yes,1
+China,9,7,Hamilton,Vergne,Yes,6
+China,9,9,Raikkonen,Bottas,,
+China,9,11,Massa,Webber,Yes,14
+China,9,14,Grosjean,Ricciardo,,
+China,9,16,Maldonado,Pic,,
+China,10,10,Massa,Bottas,Yes,14
+China,11,8,Raikkonen,Vergne,Replay,1
+China,11,11,Webber,Bottas,,
+China,11,12,Rosberg,Bottas,,
+China,13,5,Alonso,Di Resta,Yes,1
+China,14,4,Alonso,Perez,Yes,1
+China,14,9,Massa,Vergne,,
+China,15,19,Chilton,Van Der Garde,,
+China,16,3,Hamilton,Perez,,
+China,16,4,Raikkonen,Perez,Yes,14
+China,16,8,Hulkenberg,Rosberg,,
+China,19,6,Vettel,Massa,,
+China,20,5,Vettel,Perez,Yes,6
+China,20,6,Hulkenberg,Perez,,
+China,20,17,Pic,Van Der Garde,,
+China,20,18,Bianchi,Van Der Garde,,
+China,21,1,Alonso,Button,Yes,1
+China,23,7,Hamilton,Ricciardo,Yes,13
+China,23,8,Hamilton,Di Resta,Yes,9
+China,23,9,Raikkonen,Di Resta,Yes,14
+China,23,13,Vergne,Bottas,,
+China,24,4,Button,Perez,,
+China,24,12,Ricciardo,Bottas,,
+China,25,9,Grosjean,Perez,,
+China,25,11,Ricciardo,Vergne,Replay,14
+China,26,2,Alonso,Hulkenberg,Yes,13
+China,27,9,Perez,Grosjean,,
+China,29,1,Alonso,Vettel,Yes,13
+China,29,4,Hamilton,Button,Yes,1
+China,30,9,Grosjean,Perez,Replay,14
+China,30,10,Ricciardo,Perez,Replay,14
+China,31,4,Raikkonen,Button,Yes,14
+China,31,7,Hulkenberg,Massa,,
+China,32,5,Hulkenberg,Di Resta,Background,3
+China,32,6,Vettel,Di Resta,Yes,13
+China,32,7,Vettel,Massa,Yes,6
+China,32,9,Ricciardo,Grosjean,Replay,14
+China,33,5,Vettel,Hulkenberg,Yes,14
+China,35,10,Di Resta,Vergne,Yes,6
+China,36,3,Vettel,Button,Yes,14
+China,37,5,Raikkonen,Ricciardo,Replay,1
+China,38,5,Hamilton,Ricciardo,Yes,14
+China,41,9,Ricciardo,Perez,,
+China,43,1,Alonso,Vettel,Yes,1
+China,44,3,Raikkonen,Button,Yes,14
+China,44,10,Grosjean,Perez,Replay,6
+China,45,4,Hamilton,Button,Yes,4
+China,46,8,Ricciardo,Hulkenberg,Replay,14
+China,49,12,Vergne,Bottas,,
+China,50,6,Button,Massa,Yes,14
+China,53,9,Grosjean,Hulkenberg,,
+China,55,13,Bottas,Maldonado,,
+Bahrain,2,7,Button,Raikkonen,Background,1
+Bahrain,2,8,Perez,Raikkonen,,
+Bahrain,2,10,Grosjean,Hamilton,,
+Bahrain,2,19,Chilton,Pic,,
+Bahrain,3,1,Vettel,Rosberg,Yes,6
+Bahrain,3,2,Alonso,Rosberg,Yes,Finish Line
+Bahrain,3,17,Pic,Chilton,,
+Bahrain,4,2,Rosberg,Alonso,Yes,1
+Bahrain,4,16,Pic,Bianchi,,
+Bahrain,5,2,Alonso,Rosberg,Yes,1
+Bahrain,5,13,Maldonado,Ricciardo,,
+Bahrain,6,3,Di Resta,Rosberg,Yes,1
+Bahrain,7,14,Bottas,Ricciardo,,
+Bahrain,8,16,Alonso,Bianchi,Yes,11
+Bahrain,9,3,Massa,Rosberg,Yes,1
+Bahrain,9,18,Alonso,Gutierrez,,
+Bahrain,10,10,Webber,Pic,,
+Bahrain,10,14,Grosjean,Chilton,Yes,4
+Bahrain,11,7,Rosberg,Pic,Yes,14
+Bahrain,11,8,Button,Pic,Yes,14
+Bahrain,11,15,Alonso,Ricciardo,,
+Bahrain,11,20,Sutil,Van Der Garde,,
+Bahrain,12,4,Vettel,Bottas,,
+Bahrain,12,7,Button,Rosberg,Yes,1
+Bahrain,13,4,Webber,Bottas,,
+Bahrain,13,6,Rosberg,Button,Yes,1
+Bahrain,14,16,Pic,Gutierrez,,
+Bahrain,15,1,Vettel,Raikkonen,Yes,1
+Bahrain,15,11,Hulkenberg,Maldonado,,
+Bahrain,16,14,Bottas,Ricciardo,,
+Bahrain,18,9,Raikkonen,Hulkenberg,,
+Bahrain,20,3,Button,Rosberg,Yes,2
+Bahrain,20,4,Grosjean,Rosberg,Yes,4
+Bahrain,20,14,Massa,Ricciardo,,
+Bahrain,21,6,Raikkonen,Hamilton,,
+Bahrain,21,11,Rosberg,Bottas,,
+Bahrain,21,12,Perez,Bottas,,
+Bahrain,22,10,Perez,Rosberg,Yes,4
+Bahrain,22,12,Button,Bottas,Yes,6
+Bahrain,22,13,Massa,Bottas,Yes,9
+Bahrain,23,6,Webber,Maldonado,Yes,8
+Bahrain,23,7,Webber,Alonso,Yes,1
+Bahrain,23,9,Rosberg,Perez,Yes,4
+Bahrain,23,14,Hamilton,Ricciardo,,
+Bahrain,24,5,Webber,Hulkenberg,,
+Bahrain,24,8,Perez,Rosberg,Yes,1
+Bahrain,24,9,Button,Rosberg,Yes,2
+Bahrain,25,6,Perez,Hulkenberg,,
+Bahrain,25,18,Sutil,Bianchi,,
+Bahrain,26,7,Button,Hulkenberg,Yes,1
+Bahrain,26,8,Rosberg,Hulkenberg,Yes,8
+Bahrain,26,13,Alonso,Maldonado,,
+Bahrain,27,2,Di Resta,Grosjean,Yes,1
+Bahrain,27,6,Button,Perez,Replay,1
+Bahrain,27,10,Hamilton,Bottas,Replay,11
+Bahrain,30,17,Sutil,Gutierrez,,
+Bahrain,31,12,Massa,Hulkenberg,,
+Bahrain,32,7,Grosjean,Rosberg,Yes,4
+Bahrain,33,6,Grosjean,Perez,Yes,4
+Bahrain,34,2,Raikkonen,Di Resta,Yes,1
+Bahrain,34,5,Grosjean,Button,Yes,1
+Bahrain,35,9,Massa,Maldonado,Yes,1
+Bahrain,35,9,Rosberg,Maldonado,Yes,11
+Bahrain,35,11,Button,Maldonado,,
+Bahrain,36,5,Hamilton,Perez,Yes,1
+Bahrain,37,5,Raikkonen,Perez,Yes,Finish Line
+Bahrain,37,18,Gutierrez,Chilton,,
+Bahrain,38,3,Raikkonen,Hamilton,Yes,14
+Bahrain,38,9,Button,Rosberg,Yes,4
+Bahrain,40,14,Massa,Ricciardo,,
+Bahrain,43,12,Massa,Maldonado,,
+Bahrain,44,4,Grosjean,Webber,Yes,1
+Bahrain,44,6,Rosberg,Button,Yes,1
+Bahrain,44,15,Sutil,Ricciardo,,
+Bahrain,45,6,Hamilton,Button,Yes,1
+Bahrain,46,7,Perez,Button,Yes,5
+Bahrain,46,8,Alonso,Button,Yes,8
+Bahrain,47,7,Alonso,Perez,Yes,1
+Bahrain,48,11,Maldonado,Massa,Replay,6
+Bahrain,51,5,Hamilton,Webber,Yes,4
+Bahrain,51,14,Sutil,Bottas,,
+Bahrain,52,3,Grosjean,Di Resta,Yes,1
+Bahrain,52,12,Hulkenberg,Massa,,
+Bahrain,53,5,Webber,Hamilton,Yes,1
+Bahrain,54,7,Perez,Alonso,Yes,6
+Bahrain,56,13,Sutil,Massa,,
+Bahrain,57,5,Hamilton,Webber,Yes,1
+Bahrain,57,6,Perez,Webber,Replay,6
+Bahrain,57,14,Bottas,Massa,,
+Spain,2,6,Massa,Perez,Yes,1
+Spain,2,12,Hulkenberg,Vergne,,
+Spain,2,13,Ricciardo,Vergne,,
+Spain,2,18,Van Der Garde,Bottas,Background,1
+Spain,2,21,Pic,Bianchi,,
+Spain,7,4,Raikkonen,Hamilton,Yes,10
+Spain,8,5,Massa,Hamilton,Yes,10
+Spain,9,15,Webber,Chilton,,
+Spain,10,7,Alonso,Button,,
+Spain,10,13,Hulkenberg,Chilton,,
+Spain,10,14,Maldonado,Chilton,,
+Spain,10,15,Vergne,Chilton,,
+Spain,11,5,Massa,Button,,
+Spain,11,6,Raikkonen,Button,Yes,10
+Spain,11,10,Di Resta,Hamilton,,
+Spain,12,15,Button,Chilton,,
+Spain,13,2,Alonso,Rosberg,Yes,1
+Spain,13,3,Vettel,Rosberg,Yes,7
+Spain,13,4,Massa,Rosberg,Yes,10
+Spain,13,11,Ricciardo,Hulkenberg,,
+Spain,13,16,Van Der Garde,Chilton,,
+Spain,13,17,Bottas,Chilton,,
+Spain,13,18,Pic,Chilton,,
+Spain,15,4,Raikkonen,Rosberg,Yes,1
+Spain,15,9,Ricciardo,Hamilton,Replay,1
+Spain,16,15,Bottas,Van Der Garde,,
+Spain,16,16,Maldonado,Van Der Garde,,
+Spain,18,12,Gutierrez,Vergne,Replay,10
+Spain,19,8,Ricciardo,Di Resta,Yes,1
+Spain,21,5,Massa,Perez,Replay,10
+Spain,21,6,Massa,Ricciardo,Replay,7
+Spain,22,17,Maldonado,Sutil,,
+Spain,23,3,Alonso,Rosberg,Yes,1
+Spain,23,10,Webber,Button,Aftermath,1
+Spain,23,14,Vergne,Bottas,,
+Spain,24,4,Massa,Rosberg,Yes,1
+Spain,24,7,Gutierrez,Hamilton,Replay,5
+Spain,24,8,Webber,Hamilton,Replay,7
+Spain,25,6,Webber,Gutierrez,Yes,1
+Spain,25,8,Button,Hamilton,,
+Spain,25,9,Di Resta,Hamilton,Yes,10
+Spain,25,18,Pic,Chilton,,
+Spain,25,19,Sutil,Chilton,,
+Spain,26,4,Vettel,Rosberg,Yes,1
+Spain,26,14,Maldonado,Hamilton,Replay,11
+Spain,26,18,Sutil,Pic,,
+Spain,27,8,Di Resta,Button,,
+Spain,28,12,Ricciardo,Vergne,Yes,1
+Spain,28,14,Hamilton,Maldonado,Yes,4
+Spain,28,17,Sutil,Bianchi,,
+Spain,31,8,Rosberg,Perez,,
+Spain,32,9,Ricciardo,Perez,Replay,1
+Spain,33,3,Raikkonen,Vettel,Yes,2
+Spain,34,7,Rosberg,Hulkenberg,,
+Spain,34,11,Gutierrez,Vergne,,
+Spain,36,14,Sutil,Bottas,,
+Spain,37,7,Webber,Ricciardo,,
+Spain,37,8,Webber,Perez,,
+Spain,39,1,Alonso,Raikkonen,Yes,1
+Spain,39,5,Webber,Rosberg,Yes,1
+Spain,40,13,Maldonado,Bottas,,
+Spain,40,14,Sutil,Bottas,,
+Spain,41,7,Button,Gutierrez,Yes,1
+Spain,42,13,Sutil,Maldonado,,
+Spain,43,16,Hulkenberg,Bianchi,,
+Spain,44,19,Vergne,Chilton,,
+Spain,45,7,Di Resta,Button,,
+Spain,45,16,Bottas,Bianchi,,
+Spain,48,10,Gutierrez,Hamilton,,
+Spain,50,11,Button,Hamilton,Replay,1
+Spain,52,5,Webber,Di Resta,Replay,1
+Spain,52,10,Perez,Ricciardo,,
+Spain,54,8,Button,Gutierrez,,
+Spain,55,15,Hulkenberg,Bottas,,
+Monaco,15,18,Di Resta,Bianchi,,
+Monaco,18,17,Di Resta,Chilton,,
+Monaco,26,15,Di Resta,Massa,Yes,St Devote
+Monaco,27,8,Webber,Hulkenberg,,
+Monaco,28,13,Di Resta,Gutierrez,Foreground,St Devote
+Monaco,42,7,Perez,Button,Yes,Chicane
+Monaco,45,16,Gutierrez,Chilton,Replay,Chicane
+Monaco,52,8,Sutil,Button,Replay,Loews
+Monaco,57,7,Sutil,Alonso,Yes,Loews
+Monaco,70,7,Button,Alonso,Yes,A.Noghes
+Monaco,70,13,Gutierrez,Van Der Garde,,
+Monaco,73,14,Raikkonen,Van Der Garde,,
+Monaco,73,15,Raikkonen,Chilton,,
+Monaco,77,11,Raikkonen,Bottas,,Loews
+Monaco,77,12,Raikkonen,Gutierrez,,St Devote
+Monaco,77,14,Chilton,Van Der Garde,,
+Monaco,78,10,Raikkonen,Hulkenberg,,St Devote
+Canada,2,13,Massa,Maldonado,Yes,13
+Canada,4,17,Gutierrez,Van Der Garde,,
+Canada,5,19,Grosjean,Pic,,
+Canada,6,6,Vergne,Bottas,Yes,2
+Canada,6,12,Massa,Sutil,Yes,5
+Canada,6,14,Button,Maldonado,Yes,10
+Canada,6,18,Grosjean,Van Der Garde,,
+Canada,7,19,Pic,Van Der Garde,,
+Canada,8,11,Massa,Perez,Yes,2
+Canada,8,20,Bianchi,Van Der Garde,,
+Canada,9,10,Massa,Hulkenberg,Yes,Finish Line
+Canada,10,14,Di Resta,Maldonado,,
+Canada,10,18,Bianchi,Pic,,
+Canada,11,19,Sutil,Pic,,
+Canada,12,8,Raikkonen,Ricciardo,Yes,1
+Canada,12,9,Massa,Ricciardo,Yes,13
+Canada,12,11,Di Resta,Button,,
+Canada,12,18,Sutil,Bianchi,,
+Canada,13,12,Grosjean,Gutierrez,,
+Canada,13,16,Hulkenberg,Bianchi,,
+Canada,14,17,Ricciardo,Bianchi,,
+Canada,14,19,Maldonado,Chilton,,
+Canada,15,10,Grosjean,Button,,
+Canada,16,13,Sutil,Bottas,,
+Canada,16,18,Maldonado,Bianchi,,
+Canada,16,21,Pic,Van Der Garde,,
+Canada,18,11,Sutil,Gutierrez,,
+Canada,18,19,Maldonado,Chilton,,
+Canada,19,12,Massa,Gutierrez,Yes,Finish Line
+Canada,19,13,Massa,Bottas,,
+Canada,20,13,Bottas,Gutierrez,Yes,13
+Canada,21,14,Perez,Gutierrez,Yes,2
+Canada,22,6,Vergne,Raikkonen,Yes,13
+Canada,23,9,Sutil,Button,Replay,13
+Canada,23,17,Gutierrez,Bianchi,,
+Canada,24,10,Massa,Button,Replay,1
+Canada,26,11,Bottas,Button,,
+Canada,26,18,Maldonado,Bianchi,,
+Canada,30,3,Webber,Rosberg,Yes,13
+Canada,30,4,Alonso,Rosberg,Yes,Finish Line
+Canada,33,11,Perez,Bottas,Yes,1
+Canada,35,12,Raikkonen,Bottas,Yes,13
+Canada,42,3,Alonso,Webber,Yes,1
+Canada,52,10,Massa,Grosjean,Yes,13
+Canada,56,19,Pic,Chilton,,
+Canada,61,15,Ricciardo,Gutierrez,,
+Canada,63,2,Alonso,Hamilton,Yes,1
+Canada,68,8,Massa,Raikkonen,Yes,13
+Great Britain,2,8,Alonso,Grosjean,Yes,Woodcote
+Great Britain,2,13,Webber,Gutierrez,,
+Great Britain,2,17,Di Resta,Bottas,,
+Great Britain,2,20,Bianchi,Chilton,,
+Great Britain,3,12,Webber,Hulkenberg,Yes,Brooklands
+Great Britain,4,15,Vergne,Maldonado,,
+Great Britain,4,16,Di Resta,Maldonado,Replay,Club
+Great Britain,5,10,Perez,Button,Replay,Stowe
+Great Britain,7,11,Webber,Button,Yes,Stowe
+Great Britain,9,13,Vergne,Gutierrez,,
+Great Britain,12,7,Grosjean,Raikkonen,Yes,Brooklands
+Great Britain,12,7,Alonso,Grosjean,Yes,Stowe
+Great Britain,12,8,Alonso,Raikkonen,Yes,Copse
+Great Britain,12,12,Webber,Button,,
+Great Britain,12,13,Webber,Bottas,,
+Great Britain,12,14,Di Resta,Bottas,,
+Great Britain,12,18,Hamilton,Chilton,,
+Great Britain,13,5,Alonso,Vergne,Yes,Brooklands
+Great Britain,13,10,Webber,Maldonado,,
+Great Britain,13,11,Button,Maldonado,,
+Great Britain,13,14,Gutierrez,Bottas,,
+Great Britain,13,15,Hulkenberg,Bottas,,
+Great Britain,14,5,Raikkonen,Grosjean,Yes,Stowe
+Great Britain,14,7,Ricciardo,Perez,,
+Great Britain,14,12,Di Resta,Maldonado,,
+Great Britain,15,13,Hulkenberg,Gutierrez,,
+Great Britain,21,21,Massa,Van Der Garde,,
+Great Britain,22,8,Webber,Perez,Yes,Brooklands
+Great Britain,22,18,Massa,Pic,,
+Great Britain,22,19,Massa,Bianchi,,
+Great Britain,22,20,Massa,Chilton,,
+Great Britain,24,13,Hamilton,Gutierrez,Yes,Copse
+Great Britain,24,21,Van Der Garde,Chilton,,
+Great Britain,25,16,Bottas,Vergne,Yes,Brooklands
+Great Britain,25,16,Massa,Bottas,,
+Great Britain,25,17,Massa,Vergne,Yes,Copse
+Great Britain,27,18,Hulkenberg,Bianchi,,
+Great Britain,28,6,Ricciardo,Grosjean,Yes,Brooklands
+Great Britain,28,16,Hulkenberg,Pic,,
+Great Britain,28,21,Vergne,Chilton,,
+Great Britain,29,7,Webber,Grosjean,Yes,Luffield
+Great Britain,29,13,Massa,Maldonado,,
+Great Britain,31,15,Hulkenberg,Bottas,,
+Great Britain,32,13,Grosjean,Maldonado,,
+Great Britain,33,6,Raikkonen,Hamilton,Yes,Copse
+Great Britain,33,7,Alonso,Hamilton,Yes,Maggots
+Great Britain,34,5,Webber,Hamilton,Yes,Brooklands
+Great Britain,34,8,Ricciardo,Massa,,
+Great Britain,35,4,Webber,Alonso,Replay,Stowe
+Great Britain,35,9,Perez,Massa,Replay,Club
+Great Britain,35,14,Di Resta,Hulkenberg,Replay,Aintree
+Great Britain,35,19,Gutierrez,Bianchi,,
+Great Britain,36,10,Grosjean,Massa,Yes,Brooklands
+Great Britain,36,11,Button,Massa,Yes,Stowe
+Great Britain,36,13,Di Resta,Maldonado,,
+Great Britain,37,12,Di Resta,Hamilton,Yes,Brooklands
+Great Britain,38,9,Button,Grosjean,Replay,Brooklands
+Great Britain,38,11,Hamilton,Di Resta,Yes,Aintree
+Great Britain,38,13,Massa,Bottas,,
+Great Britain,40,10,Hamilton,Grosjean,Yes,Stowe
+Great Britain,40,18,Bottas,Bianchi,,
+Great Britain,45,12,Di Resta,Maldonado,Yes,Club
+Great Britain,45,13,Di Resta,Hulkenberg,Yes,Club
+Great Britain,45,13,Hulkenberg,Maldonado,Yes,Club
+Great Britain,46,4,Webber,Ricciardo,Yes,Brooklands
+Great Britain,46,7,Alonso,Button,Yes,Copse
+Great Britain,46,8,Hamilton,Button,Yes,Stowe
+Great Britain,46,10,Massa,Grosjean,Yes,Stowe
+Great Britain,46,15,Bottas,Pic,,
+Great Britain,46,17,Gutierrez,Bianchi,,
+Great Britain,47,3,Webber,Sutil,Yes,Brooklands
+Great Britain,47,5,Alonso,Ricciardo,Yes,Club
+Great Britain,47,6,Hamilton,Ricciardo,Yes,Club
+Great Britain,47,8,Massa,Button,Yes,Aintree
+Great Britain,47,9,Grosjean,Button,Yes,Brooklands
+Great Britain,47,10,Di Resta,Button,,
+Great Britain,47,11,Hulkenberg,Button,,
+Great Britain,47,15,Gutierrez,Pic,,
+Great Britain,48,2,Webber,Raikkonen,Yes,Copse
+Great Britain,48,4,Alonso,Sutil,Yes,Vale
+Great Britain,48,7,Massa,Ricciardo,,
+Great Britain,49,5,Hamilton,Sutil,Yes,Village
+Great Britain,49,12,Maldonado,Button,,
+Great Britain,49,18,Van Der Garde,Chilton,,
+Great Britain,50,3,Alonso,Raikkonen,Yes,Stowe
+Great Britain,50,9,Di Resta,Grosjean,,
+Great Britain,50,10,Hulkenberg,Grosjean,,
+Great Britain,51,4,Hamilton,Raikkonen,Yes,Stowe
+Great Britain,51,6,Massa,Sutil,Replay,Stowe
+Great Britain,51,11,Maldonado,Grosjean,,
+Great Britain,51,18,Chilton,Van Der Garde,,
+Great Britain,52,12,Bottas,Button,,
+Germany,2,9,Perez,Button,Yes,1
+Germany,2,13,Di Resta,Sutil,Background,1
+Germany,8,14,Sutil,Chilton,,
+Germany,8,15,Di Resta,Chilton,,
+Germany,8,18,Vergne,Van Der Garde,,
+Germany,10,4,Vettel,Hulkenberg,Yes,1
+Germany,11,3,Vettel,Button,Yes,1
+Germany,14,2,Grosjean,Button,Replay,13
+Germany,14,5,Hamilton,Rosberg,Yes,1
+Germany,14,6,Raikkonen,Rosberg,Yes,13
+Germany,14,8,Alonso,Maldonado,,
+Germany,16,7,Alonso,Rosberg,,
+Germany,18,4,Raikkonen,Hamilton,Yes,13
+Germany,18,12,Hulkenberg,Di Resta,,
+Germany,20,19,Bianchi,Van Der Garde,,
+Germany,21,8,Perez,Bottas,,
+Germany,21,9,Hulkenberg,Bottas,,
+Germany,21,10,Hulkenberg,Sutil,,
+Germany,21,10,Sutil,Bottas,,
+Germany,21,13,Rosberg,Gutierrez,,
+Germany,30,15,Webber,Bottas,,
+Germany,30,16,Webber,Van Der Garde,Background,5
+Germany,30,17,Webber,Pic,Replay,1
+Germany,30,18,Webber,Chilton,,
+Germany,30,18,Chilton,Pic,Replay,1
+Germany,36,8,Perez,Maldonado,Replay,2
+Germany,40,14,Hulkenberg,Bottas,,
+Germany,45,4,Vettel,Hamilton,Yes,3
+Germany,45,5,Grosjean,Hamilton,Yes,13
+Germany,45,10,Hulkenberg,Rosberg,Yes,13
+Germany,46,10,Hamilton,Rosberg,Replay,13
+Germany,47,12,Webber,Bottas,,
+Germany,48,9,Hamilton,Hulkenberg,,
+Germany,50,7,Hamilton,Maldonado,,
+Germany,50,8,Hamilton,Di Resta,Yes,1
+Germany,50,14,Rosberg,Gutierrez,,
+Germany,50,18,Pic,Chilton,,
+Germany,51,5,Button,Perez,Yes,1
+Germany,51,12,Rosberg,Sutil,Yes,13
+Germany,52,14,Hulkenberg,Gutierrez,Yes,1
+Germany,53,8,Webber,Di Resta,,
+Germany,53,13,Hulkenberg,Sutil,,
+Germany,54,10,Rosberg,Bottas,Replay,4
+Germany,54,11,Rosberg,Ricciardo,Replay,3
+Germany,54,11,Ricciardo,Bottas,,
+Germany,54,12,Hulkenberg,Bottas,,
+Germany,55,2,Raikkonen,Grosjean,Yes,2
+Germany,55,6,Hamilton,Perez,Replay,13
+Germany,56,11,Hulkenberg,Ricciardo,Replay,2
+Germany,58,9,Rosberg,Di Resta,,
+Germany,58,17,Pic,Van Der Garde,,
+Germany,59,10,Hulkenberg,Di Resta,,
+Germany,60,5,Hamilton,Button,Yes,1
+Germany,60,7,Webber,Perez,,
+Hungary,2,14,Hulkenberg,Sutil,Yes,2
+Hungary,2,18,Bottas,Van Der Garde,,
+Hungary,11,7,Hamilton,Button,,
+Hungary,11,17,Di Resta,Bianchi,,
+Hungary,11,19,Vergne,Chilton,,
+Hungary,12,18,Vergne,Bianchi,,
+Hungary,13,12,Maldonado,Pic,,
+Hungary,13,20,Bottas,Chilton,,
+Hungary,14,20,Van Der Garde,Chilton,,
+Hungary,15,18,Bottas,Bianchi,,
+Hungary,16,21,Pic,Chilton,,
+Hungary,17,19,Van Der Garde,Bianchi,,
+Hungary,19,9,Raikkonen,Massa,Replay,12
+Hungary,20,19,Pic,Bianchi,,
+Hungary,23,7,Raikkonen,Perez,,
+Hungary,24,2,Vettel,Button,Yes,4
+Hungary,24,4,Alonso,Button,Yes,8
+Hungary,24,9,Rosberg,Maldonado,,
+Hungary,31,7,Button,Massa,Yes,6
+Hungary,32,11,Rosberg,Ricciardo,,
+Hungary,33,8,Perez,Hulkenberg,,
+Hungary,34,3,Hamilton,Webber,Yes,3
+Hungary,34,9,Massa,Hulkenberg,Replay,1
+Hungary,36,11,Maldonado,Ricciardo,,
+Hungary,37,5,Vettel,Button,Yes,1
+Hungary,50,6,Grosjean,Button,Yes,2
+Hungary,51,2,Hamilton,Webber,Yes,3
+Hungary,66,12,Vergne,Ricciardo,,
+Belgium,2,9,Raikkonen,Grosjean,Yes,Les Combes
+Belgium,2,14,Maldonado,Van Der Garde,,
+Belgium,2,21,Pic,Chilton,,
+Belgium,3,15,Vergne,Van Der Garde,Background,Les Combes
+Belgium,3,16,Ricciardo,Van Der Garde,,
+Belgium,4,4,Alonso,Button,Yes,Les Combes
+Belgium,4,17,Gutierrez,Van Der Garde,,
+Belgium,5,5,Webber,Button,Yes,Les Combes
+Belgium,5,18,Bottas,Van Der Garde,,
+Belgium,6,3,Alonso,Rosberg,Yes,Les Combes
+Belgium,6,20,Pic,Bianchi,,
+Belgium,8,10,Perez,Grosjean,Yes,Les Combes
+Belgium,8,11,Massa,Grosjean,Yes,Malmedy
+Belgium,9,8,Raikkonen,Hulkenberg,Yes,Les Combes
+Belgium,10,17,Massa,Van Der Garde,,
+Belgium,10,18,Hulkenberg,Van Der Garde,,
+Belgium,11,15,Massa,Di Resta,,
+Belgium,12,8,Hamilton,Grosjean,Yes,Bus Stop
+Belgium,12,12,Massa,Bottas,,
+Belgium,12,17,Vergne,Van Der Garde,,
+Belgium,13,6,Grosjean,Hamilton,Yes,Les Combes
+Belgium,13,13,Di Resta,Bottas,,
+Belgium,14,4,Hamilton,Grosjean,Yes,Les Combes
+Belgium,14,5,Alonso,Grosjean,,
+Belgium,14,14,Hulkenberg,Bottas,,
+Belgium,14,15,Sutil,Bottas,,
+Belgium,14,18,Maldonado,Van Der Garde,,
+Belgium,15,1,Vettel,Button,Yes,Bus Stop
+Belgium,15,3,Alonso,Hamilton,Replay,La Source
+Belgium,15,10,Massa,Perez,,
+Belgium,15,14,Sutil,Hulkenberg,,
+Belgium,16,5,Rosberg,Grosjean,Yes,Les Combes
+Belgium,16,9,Massa,Gutierrez,Yes,Les Combes
+Belgium,16,12,Raikkonen,Di Resta,Replay,Bus Stop
+Belgium,17,2,Alonso,Button,Yes,Bus Stop
+Belgium,17,6,Webber,Grosjean,Yes,Les Combes
+Belgium,17,10,Raikkonen,Perez,Replay,Liege
+Belgium,17,11,Di Resta,Perez,,
+Belgium,18,7,Massa,Button,,
+Belgium,18,7,Button,Massa,Replay,Bus Stop
+Belgium,18,9,Raikkonen,Gutierrez,Yes,Rivage
+Belgium,18,11,Perez,Di Resta,Yes,La Source
+Belgium,18,11,Sutil,Perez,Yes,Eau Rouge
+Belgium,18,12,Sutil,Di Resta,Yes,La Source
+Belgium,19,10,Sutil,Gutierrez,Yes,Eau Rouge
+Belgium,20,17,Gutierrez,Bottas,,
+Belgium,21,6,Button,Grosjean,Replay,Bus Stop
+Belgium,21,17,Bottas,Gutierrez,,
+Belgium,22,14,Ricciardo,Maldonado,,
+Belgium,22,17,Gutierrez,Bottas,,
+Belgium,25,16,Hulkenberg,Bottas,,
+Belgium,26,11,Perez,Maldonado,,
+Belgium,26,16,Vergne,Bottas,,
+Belgium,27,11,Gutierrez,Maldonado,Yes,Bus Stop
+Belgium,27,12,Gutierrez,Sutil,Yes,Malmedy
+Belgium,27,12,Sutil,Maldonado,Yes,Bus Stop
+Belgium,28,11,Sutil,Gutierrez,Yes,Eau Rouge
+Belgium,29,8,Massa,Ricciardo,,
+Belgium,34,11,Vergne,Hulkenberg,Replay,Les Combes
+Belgium,35,9,Sutil,Perez,Replay,Les Combes
+Belgium,36,12,Ricciardo,Hulkenberg,,
+Belgium,38,11,Ricciardo,Vergne,,
+Belgium,40,7,Massa,Grosjean,Yes,Les Combes
+Belgium,41,10,Ricciardo,Perez,Yes,Les Combes
+Italy,2,12,Grosjean,Sutil,Yes,1
+Italy,2,14,Gutierrez,Maldonado,Yes,1
+Italy,3,3,Alonso,Webber,Yes,5
+Italy,3,19,Chilton,Bianchi,,
+Italy,4,19,Bianchi,Chilton,,
+Italy,8,9,Hamilton,Vergne,Aftermath,4
+Italy,8,9,Vergne,Hamilton,Yes,6
+Italy,8,10,Button,Hamilton,Yes,8
+Italy,9,19,Raikkonen,Bianchi,,
+Italy,9,20,Raikkonen,Chilton,,
+Italy,14,17,Raikkonen,Van Der Garde,,
+Italy,17,15,Raikkonen,Pic,,
+Italy,17,17,Hamilton,Van Der Garde,,
+Italy,23,10,Raikkonen,Bottas,,
+Italy,29,7,Hamilton,Rosberg,Yes,1
+Italy,32,5,Hamilton,Hulkenberg,Yes,3
+Italy,38,10,Grosjean,Perez,Yes,1
+Italy,41,11,Sutil,Gutierrez,Replay,11
+Italy,42,12,Raikkonen,Gutierrez,Replay,1
+Italy,44,11,Raikkonen,Sutil,Yes,11
+Italy,44,13,Hamilton,Gutierrez,Yes,1
+Italy,44,18,Van Der Garde,Bianchi,,
+Italy,45,8,Grosjean,Button,Yes,1
+Italy,45,12,Hamilton,Sutil,Yes,4
+Italy,49,11,Hamilton,Raikkonen,Yes,3
+Italy,50,10,Hamilton,Perez,Yes,1
+Italy,51,9,Hamilton,Button,Yes,1
+Italy,51,11,Raikkonen,Perez,Yes,11
+Singapore,2,12,Raikkonen,Di Resta,Yes,1
+Singapore,5,11,Raikkonen,Gutierrez,Replay,7
+Singapore,13,15,Raikkonen,Bottas,Yes,6
+Singapore,14,8,Webber,Ricciardo,Yes,7
+Singapore,15,9,Massa,Maldonado,,
+Singapore,15,10,Button,Maldonado,,
+Singapore,15,11,Raikkonen,Maldonado,,
+Singapore,17,18,Bottas,Van Der Garde,,
+Singapore,33,17,Van Der Garde,Bottas,,
+Singapore,39,16,Bottas,Van Der Garde,,
+Singapore,41,16,Vergne,Pic,,
+Singapore,42,14,Vergne,Van Der Garde,,
+Singapore,42,15,Sutil,Pic,,
+Singapore,43,15,Maldonado,Pic,,
+Singapore,49,7,Webber,Gutierrez,Yes,7
+Singapore,49,8,Rosberg,Gutierrez,Yes,10
+Singapore,49,9,Hamilton,Gutierrez,Yes,14
+Singapore,50,10,Di Resta,Gutierrez,Yes,8
+Singapore,50,11,Massa,Gutierrez,Yes,10
+Singapore,50,16,Bottas,Pic,,
+Singapore,52,13,Sutil,Vergne,,
+Singapore,54,3,Raikkonen,Button,Yes,15
+Singapore,54,6,Webber,Hulkenberg,Yes,7
+Singapore,54,12,Sutil,Gutierrez,,
+Singapore,54,17,Van Der Garde,Pic,,
+Singapore,55,5,Webber,Perez,Background,9
+Singapore,55,7,Rosberg,Hulkenberg,Yes,7
+Singapore,55,8,Hamilton,Hulkenberg,Yes,8
+Singapore,55,9,Massa,Hulkenberg,,
+Singapore,56,4,Webber,Button,Yes,1
+Singapore,57,5,Rosberg,Button,Yes,16
+Singapore,57,6,Rosberg,Perez,Yes,1
+Singapore,57,7,Hamilton,Perez,Yes,18
+Singapore,58,6,Hamilton,Button,Yes,1
+Singapore,58,7,Massa,Button,Yes,16
+Singapore,58,8,Massa,Perez,Yes,1
+Singapore,58,13,Maldonado,Vergne,,
+Singapore,59,12,Maldonado,Gutierrez,,
+Singapore,61,13,Bottas,Vergne,,
+South Korea,2,15,Vergne,Van Der Garde,,
+South Korea,2,20,Massa,Bianchi,,
+South Korea,3,11,Webber,Perez,Yes,5
+South Korea,3,16,Bottas,Van Der Garde,,
+South Korea,3,17,Sutil,Van Der Garde,,
+South Korea,3,19,Massa,Pic,,
+South Korea,4,7,Raikkonen,Ricciardo,Yes,3
+South Korea,4,17,Massa,Van Der Garde,,
+South Korea,6,9,Webber,Maldonado,Yes,5
+South Korea,6,15,Massa,Bottas,,
+South Korea,8,8,Webber,Ricciardo,Replay,3
+South Korea,8,16,Button,Chilton,,
+South Korea,8,17,Maldonado,Chilton,,
+South Korea,9,6,Raikkonen,Alonso,Yes,3
+South Korea,9,14,Button,Bianchi,,
+South Korea,9,15,Maldonado,Bianchi,,
+South Korea,9,17,Di Resta,Chilton,,
+South Korea,10,15,Di Resta,Bianchi,,
+South Korea,10,17,Gutierrez,Chilton,,
+South Korea,10,18,Massa,Chilton,,
+South Korea,11,7,Rosberg,Vergne,,
+South Korea,11,13,Perez,Di Resta,Replay,5
+South Korea,12,3,Grosjean,Ricciardo,,
+South Korea,12,4,Hamilton,Ricciardo,,
+South Korea,12,7,Hulkenberg,Vergne,,
+South Korea,12,8,Alonso,Vergne,,
+South Korea,12,17,Sutil,Chilton,,
+South Korea,12,18,Bottas,Chilton,,
+South Korea,15,11,Perez,Maldonado,Replay,4
+South Korea,18,4,Rosberg,Ricciardo,Yes,3
+South Korea,22,12,Ricciardo,Di Resta,,
+South Korea,23,13,Massa,Gutierrez,Replay,4
+South Korea,24,14,Button,Bottas,,
+South Korea,26,5,Webber,Alonso,Replay,6
+South Korea,27,8,Raikkonen,Ricciardo,,
+South Korea,27,15,Maldonado,Bottas,,
+South Korea,28,3,Rosberg,Hamilton,Yes,3
+South Korea,28,9,Hulkenberg,Ricciardo,,
+South Korea,30,8,Alonso,Ricciardo,Yes,3
+South Korea,30,10,Button,Gutierrez,,
+South Korea,30,14,Sutil,Massa,,
+South Korea,31,4,Raikkonen,Perez,Background,1
+South Korea,31,5,Hamilton,Webber,Yes,3
+South Korea,37,4,Hulkenberg,Hamilton,Yes,3
+South Korea,37,17,Van Der Garde,Bianchi,,
+South Korea,38,2,Raikkonen,Grosjean,Yes,1
+South Korea,41,5,Alonso,Hamilton,Yes,3
+South Korea,41,5,Hamilton,Alonso,Yes,4
+South Korea,41,9,Ricciardo,Maldonado,,
+South Korea,41,12,Perez,Massa,Yes,1
+South Korea,41,12,Massa,Perez,,
+South Korea,41,16,Bianchi,Van Der Garde,Background,3
+South Korea,41,18,Vergne,Chilton,Background,3
+South Korea,41,19,Sutil,Chilton,,
+South Korea,42,17,Vergne,Van Der Garde,Background,3
+South Korea,43,16,Vergne,Bianchi,,
+South Korea,45,10,Gutierrez,Maldonado,Yes,3
+South Korea,45,10,Maldonado,Gutierrez,Yes,4
+South Korea,45,10,Gutierrez,Maldonado,Yes,10
+South Korea,45,10,Massa,Gutierrez,Yes,11
+South Korea,45,11,Massa,Maldonado,Yes,10
+South Korea,45,12,Perez,Maldonado,Yes,11
+South Korea,45,13,Bottas,Maldonado,Yes,11
+South Korea,45,15,Vergne,Pic,,
+South Korea,45,17,Van Der Garde,Bianchi,,
+South Korea,46,11,Perez,Gutierrez,Yes,4
+South Korea,48,4,Hamilton,Hulkenberg,Yes,1
+South Korea,48,4,Hulkenberg,Hamilton,Yes,3
+South Korea,53,7,Rosberg,Button,Yes,3
+Japan,7,10,Raikkonen,Button,Yes,1
+Japan,7,13,Ricciardo,Bottas,Yes,1
+Japan,10,13,Button,Chilton,,
+Japan,14,11,Perez,Button,Yes,1
+Japan,20,4,Hulkenberg,Ricciardo,Yes,130r
+Japan,20,6,Alonso,Massa,Yes,1
+Japan,21,5,Alonso,Ricciardo,Yes,1
+Japan,21,7,Raikkonen,Gutierrez,Yes,130r
+Japan,22,10,Rosberg,Button,Replay,130r
+Japan,26,13,Ricciardo,Sutil,Replay,130r
+Japan,27,13,Rosberg,Sutil,Replay,Dunlop
+Japan,28,10,Ricciardo,Maldonado,Replay,1
+Japan,28,11,Rosberg,Maldonado,,
+Japan,35,15,Sutil,Bottas,,
+Japan,38,9,Gutierrez,Vergne,Yes,1
+Japan,41,2,Vettel,Grosjean,Yes,1
+Japan,42,13,Button,Sutil,Yes,1
+Japan,45,8,Rosberg,Massa,Replay,Chicane
+Japan,46,4,Alonso,Hulkenberg,Yes,1
+Japan,46,18,Pic,Chilton,,
+Japan,47,10,Button,Di Resta,,
+Japan,47,14,Vergne,Maldonado,,
+Japan,47,16,Ricciardo,Perez,,
+Japan,48,15,Ricciardo,Maldonado,,
+Japan,49,16,Perez,Maldonado,Background,1
+Japan,50,13,Vergne,Bottas,Yes,1
+Japan,50,14,Ricciardo,Bottas,Yes,Spoon
+Japan,51,5,Raikkonen,Hulkenberg,Replay,Chicane
+Japan,51,12,Vergne,Sutil,Background R,1
+Japan,51,13,Ricciardo,Sutil,,
+Japan,52,2,Webber,Grosjean,Yes,1
+Japan,52,9,Button,Massa,Replay,1
+Japan,52,15,Perez,Bottas,,
+Japan,52,16,Maldonado,Bottas,Replay,Chicane
+India,2,2,Button,Maldonado,Yes,4
+India,3,9,Button,Sutil,,
+India,3,12,Grosjean,Gutierrez,,
+India,4,11,Grosjean,Maldonado,,
+India,4,16,Vettel,Chilton,,
+India,5,15,Vettel,Bianchi,,
+India,6,4,Webber,Raikkonen,Yes,4
+India,6,15,Hulkenberg,Chilton,,
+India,7,5,Perez,Raikkonen,Yes,5
+India,7,8,Grosjean,Sutil,,
+India,7,12,Vettel,Bottas,,
+India,8,8,Vettel,Gutierrez,,
+India,8,14,Di Resta,Chilton,,
+India,8,15,Raikkonen,Chilton,,
+India,8,17,Button,Vergne,Yes,3
+India,8,17,Vergne,Button,Yes,6
+India,9,8,Massa,Bottas,Yes,4
+India,9,15,Button,Chilton,,
+India,9,16,Button,Vergne,,
+India,9,16,Vergne,Chilton,,
+India,9,17,Alonso,Chilton,,
+India,10,5,Vettel,Sutil,Yes,4
+India,10,9,Rosberg,Bottas,,
+India,11,4,Vettel,Grosjean,Yes,4
+India,11,13,Raikkonen,Di Resta,,
+India,11,16,Alonso,Vergne,,
+India,11,18,Maldonado,Chilton,,
+India,13,3,Vettel,Ricciardo,Yes,4
+India,15,9,Hamilton,Bottas,,
+India,18,18,Button,Chilton,,
+India,19,13,Alonso,Gutierrez,Replay,1
+India,19,13,Gutierrez,Alonso,Replay,4
+India,21,2,Vettel,Perez,Yes,4
+India,21,13,Alonso,Gutierrez,Yes,5
+India,24,6,Rosberg,Massa,Replay,4
+India,24,6,Massa,Rosberg,Replay,5
+India,24,9,Hulkenberg,Bottas,Replay,4
+India,24,10,Raikkonen,Bottas,Yes,6
+India,30,6,Perez,Hamilton,Yes,5
+India,31,10,Grosjean,Massa,Replay,4
+India,31,15,Alonso,Di Resta,,
+India,32,4,Perez,Sutil,,
+India,32,13,Alonso,Button,Yes,4
+India,34,8,Ricciardo,Hamilton,,
+India,37,3,Raikkonen,Sutil,Yes,4
+India,41,3,Rosberg,Sutil,Yes,4
+India,41,16,Button,Vergne,,
+India,44,9,Di Resta,Sutil,,
+India,45,11,Gutierrez,Bottas,Yes,4
+India,48,11,Ricciardo,Bottas,Yes,4
+India,48,12,Alonso,Bottas,Yes,5
+India,52,2,Rosberg,Raikkonen,Yes,2
+India,56,3,Grosjean,Raikkonen,Yes,16
+India,56,4,Massa,Raikkonen,Yes,Finish Line
+India,58,5,Hamilton,Raikkonen,Yes,4
+India,58,5,Perez,Hamilton,Yes,4
+India,58,6,Perez,Raikkonen,Yes,4
+Abu Dhabi,2,17,Pic,Bottas,,
+Abu Dhabi,2,18,Van Der Garde,Bottas,,
+Abu Dhabi,3,13,Sutil,Gutierrez,Replay,11
+Abu Dhabi,7,15,Bottas,Van Der Garde,,
+Abu Dhabi,8,13,Bottas,Pic,,
+Abu Dhabi,9,9,Webber,Gutierrez,Yes,8
+Abu Dhabi,10,9,Grosjean,Gutierrez,Yes,10
+Abu Dhabi,14,7,Webber,Sutil,Yes,8
+Abu Dhabi,15,5,Rosberg,Vergne,Replay,8
+Abu Dhabi,16,6,Webber,Vergne,Yes,8
+Abu Dhabi,16,8,Grosjean,Sutil,Yes,8
+Abu Dhabi,16,8,Sutil,Grosjean,Yes,11
+Abu Dhabi,16,18,Button,Van Der Garde,,
+Abu Dhabi,17,17,Button,Pic,,
+Abu Dhabi,18,6,Grosjean,Sutil,Yes,8
+Abu Dhabi,20,3,Webber,Rosberg,Yes,11
+Abu Dhabi,21,10,Alonso,Perez,Yes,11
+Abu Dhabi,22,9,Alonso,Bottas,Yes,11
+Abu Dhabi,23,18,Van Der Garde,Pic,Replay,8
+Abu Dhabi,25,5,Hamilton,Sutil,Yes,8
+Abu Dhabi,25,5,Sutil,Hamilton,Yes,11
+Abu Dhabi,25,6,Massa,Hamilton,Yes,11
+Abu Dhabi,26,5,Massa,Sutil,Yes,11
+Abu Dhabi,26,8,Alonso,Hulkenberg,Yes,7
+Abu Dhabi,26,8,Hulkenberg,Alonso,Yes,8
+Abu Dhabi,26,8,Alonso,Hulkenberg,Background,11
+Abu Dhabi,27,6,Hamilton,Sutil,Yes,8
+Abu Dhabi,27,13,Gutierrez,Ricciardo,,
+Abu Dhabi,28,7,Alonso,Sutil,Replay,8
+Abu Dhabi,28,14,Maldonado,Hulkenberg,Yes,5
+Abu Dhabi,28,14,Hulkenberg,Maldonado,Yes,8
+Abu Dhabi,44,7,Hamilton,Vergne,Yes,8
+Abu Dhabi,45,7,Alonso,Vergne,Yes,4
+Abu Dhabi,46,8,Massa,Vergne,Yes,8
+Abu Dhabi,47,9,Sutil,Vergne,Yes,8
+Abu Dhabi,48,10,Perez,Vergne,Yes,8
+Abu Dhabi,49,11,Maldonado,Vergne,Yes,8
+Abu Dhabi,50,6,Alonso,Hamilton,Yes,11
+Abu Dhabi,50,12,Button,Vergne,,
+Abu Dhabi,50,13,Gutierrez,Vergne,,
+Abu Dhabi,51,5,Alonso,Di Resta,Yes,8
+Abu Dhabi,51,14,Hulkenberg,Vergne,Replay,8
+Abu Dhabi,51,15,Hulkenberg,Ricciardo,Replay,8
+Abu Dhabi,51,15,Ricciardo,Vergne,Replay,8
+Abu Dhabi,51,16,Bottas,Vergne,Background,19
+Abu Dhabi,53,15,Bottas,Ricciardo,,
+Abu Dhabi,55,9,Perez,Sutil,,
+USA,5,19,Gutierrez,Chilton,,
+USA,5,20,Gutierrez,Pic,,
+USA,6,18,Gutierrez,Van Der Garde,,
+USA,7,17,Gutierrez,Bianchi,Replay,12
+USA,13,3,Webber,Hamilton,Yes,12
+USA,13,20,Maldonado,Chilton,,
+USA,19,10,Rosberg,Ricciardo,Yes,12
+USA,22,20,Pic,Chilton,,
+USA,23,11,Kovalainen,Di Resta,Yes,2
+USA,25,7,Gutierrez,Vergne,Yes,12
+USA,26,8,Perez,Vergne,Yes,12
+USA,29,6,Alonso,Gutierrez,Yes,2
+USA,29,10,Di Resta,Kovalainen,Yes,12
+USA,30,7,Perez,Gutierrez,Yes,Finish Line
+USA,31,11,Rosberg,Kovalainen,Yes,12
+USA,33,10,Rosberg,Di Resta,Yes,12
+USA,35,8,Bottas,Gutierrez,Yes,3
+USA,44,10,Ricciardo,Di Resta,Replay,1
+USA,45,5,Alonso,Hulkenberg,Yes,2
+USA,46,15,Massa,Maldonado,Replay,12
+USA,50,15,Kovalainen,Maldonado,Replay,1
+USA,50,16,Di Resta,Maldonado,,
+USA,55,10,Button,Ricciardo,Yes,2
+Brazil,2,4,Webber,Hamilton,Yes,6
+Brazil,2,10,Button,Bottas,Background,Finish Line
+Brazil,2,12,Gutierrez,Vergne,,
+Brazil,2,13,Sutil,Vergne,,
+Brazil,2,15,Perez,Kovalainen,Background,1
+Brazil,2,16,Maldonado,Kovalainen,,
+Brazil,2,17,Maldonado,Di Resta,,
+Brazil,2,17,Di Resta,Kovalainen,,
+Brazil,2,20,Van Der Garde,Pic,,
+Brazil,4,2,Alonso,Rosberg,Yes,4
+Brazil,5,13,Perez,Vergne,,
+Brazil,5,18,Van Der Garde,Bianchi,,
+Brazil,6,15,Di Resta,Maldonado,,
+Brazil,7,3,Webber,Rosberg,Yes,1
+Brazil,7,12,Perez,Sutil,Replay,6
+Brazil,7,19,Pic,Bianchi,,
+Brazil,8,8,Button,Ricciardo,Replay,4
+Brazil,10,11,Perez,Gutierrez,Yes,1
+Brazil,10,14,Di Resta,Vergne,Yes,1
+Brazil,11,4,Hamilton,Rosberg,Yes,4
+Brazil,12,12,Sutil,Gutierrez,,
+Brazil,12,13,Di Resta,Gutierrez,,
+Brazil,12,20,Vergne,Chilton,,
+Brazil,13,2,Webber,Alonso,Yes,1
+Brazil,13,10,Perez,Bottas,Yes,5
+Brazil,14,7,Button,Hulkenberg,Yes,4
+Brazil,15,5,Massa,Rosberg,Yes,4
+Brazil,16,15,Ricciardo,Van Der Garde,,
+Brazil,16,18,Vergne,Bianchi,,
+Brazil,18,15,Sutil,Pic,,
+Brazil,18,19,Kovalainen,Bianchi,,
+Brazil,19,14,Sutil,Van Der Garde,,
+Brazil,19,18,Kovalainen,Bottas,Yes,6
+Brazil,20,17,Kovalainen,Vergne,Yes,2
+Brazil,20,18,Bottas,Vergne,Replay,Finish Line
+Brazil,21,14,Di Resta,Van Der Garde,,
+Brazil,21,16,Kovalainen,Pic,,
+Brazil,21,17,Bottas,Pic,,
+Brazil,22,7,Button,Gutierrez,Yes,6
+Brazil,22,8,Button,Maldonado,Yes,1
+Brazil,22,9,Button,Ricciardo,Yes,1
+Brazil,22,9,Ricciardo,Maldonado,Yes,1
+Brazil,22,10,Perez,Maldonado,,
+Brazil,22,15,Kovalainen,Van Der Garde,,
+Brazil,22,16,Bottas,Van Der Garde,,
+Brazil,23,10,Hulkenberg,Maldonado,Yes,1
+Brazil,23,18,Vergne,Pic,,
+Brazil,23,18,Gutierrez,Pic,,
+Brazil,24,8,Perez,Ricciardo,,
+Brazil,24,15,Vergne,Van Der Garde,,
+Brazil,24,15,Gutierrez,Vergne,,
+Brazil,24,16,Gutierrez,Van Der Garde,,
+Brazil,25,9,Hulkenberg,Ricciardo,,
+Brazil,25,17,Maldonado,Pic,,
+Brazil,26,2,Webber,Alonso,Yes,2
+Brazil,26,16,Maldonado,Vergne,,
+Brazil,29,14,Gutierrez,Bottas,Replay,1
+Brazil,30,17,Vergne,Van Der Garde,,
+Brazil,34,13,Gutierrez,Kovalainen,,
+Brazil,36,14,Maldonado,Bottas,Replay,1
+Brazil,36,18,Pic,Van Der Garde,,
+Brazil,41,14,Sutil,Bottas,Replay,4
+Brazil,45,9,Massa,Di Resta,Yes,1
+Brazil,48,9,Hulkenberg,Sutil,,
+Brazil,54,12,Di Resta,Kovalainen,,
+Brazil,57,9,Hamilton,Ricciardo,Yes,4
+Brazil,57,12,Gutierrez,Kovalainen,,
+Brazil,63,13,Sutil,Kovalainen,Yes,1

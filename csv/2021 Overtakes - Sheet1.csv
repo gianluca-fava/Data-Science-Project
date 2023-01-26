@@ -1,0 +1,844 @@
+Race,Lap,Position,Overtaker,Overtaken,Live,Turn
+Bahrain,4,5,Norris,Gasly,Yes,4
+Bahrain,4,6,Ricciardo,Gasly,Yes,6
+Bahrain,4,10,Giovinazzi,Raikkonen,,
+Bahrain,4,14,Russell,Tsunoda,,
+Bahrain,4,15,Perez,Tsunoda,,10
+Bahrain,4,16,Perez,Latifi,,6
+Bahrain,4,17,Perez,Schumacher,,1
+Bahrain,5,13,Russell,Vettel,,
+Bahrain,6,3,Bottas,Leclerc,Yes,1
+Bahrain,6,13,Vettel,Russell,,
+Bahrain,6,14,Perez,Russell,PiP,8
+Bahrain,7,13,Perez,Vettel,,1
+Bahrain,7,13,Vettel,Perez,,4
+Bahrain,7,15,Tsunoda,Russell,,
+Bahrain,8,13,Perez,Vettel,PiP,1
+Bahrain,9,4,Norris,Leclerc,Yes,1
+Bahrain,9,7,Stroll,Alonso,Yes,1
+Bahrain,9,14,Tsunoda,Vettel,Background,1
+Bahrain,10,12,Perez,Ocon,Replay,4
+Bahrain,14,8,Norris,Latifi,Yes,1
+Bahrain,14,9,Leclerc,Latifi,Yes,4
+Bahrain,14,15,Ocon,Schumacher,,
+Bahrain,15,3,Hamilton,Sainz,Yes,4
+Bahrain,15,10,Ricciardo,Alonso,,
+Bahrain,16,5,Norris,Vettel,Yes,11
+Bahrain,16,6,Leclerc,Vettel,,
+Bahrain,17,9,Stroll,Alonso,Background,1
+Bahrain,18,3,Bottas,Perez,Yes,11
+Bahrain,18,16,Latifi,Gasly,,
+Bahrain,19,7,Ricciardo,Vettel,Yes,1
+Bahrain,20,7,Stroll,Vettel,Yes,1
+Bahrain,20,8,Alonso,Vettel,Yes,1
+Bahrain,20,8,Vettel,Alonso,Yes,4
+Bahrain,20,13,Tsunoda,Ocon,,1
+Bahrain,20,13,Ocon,Tsunoda,,7
+Bahrain,21,8,Sainz,Vettel,Yes,1
+Bahrain,21,8,Alonso,Vettel,Yes,1
+Bahrain,21,9,Vettel,Alonso,Yes,4
+Bahrain,21,9,Perez,Vettel,Yes,14
+Bahrain,21,9,Sainz,Alonso,Yes,4
+Bahrain,21,10,Perez,Alonso,,
+Bahrain,21,11,Perez,Raikkonen,,
+Bahrain,21,13,Tsunoda,Ocon,,1
+Bahrain,23,10,Raikkonen,Alonso,Replay,1
+Bahrain,24,12,Tsunoda,Vettel,Yes,1
+Bahrain,25,8,Perez,Sainz,Yes,4
+Bahrain,26,11,Tsunoda,Alonso,Replay,1
+Bahrain,27,7,Perez,Stroll,Yes,1
+Bahrain,27,18,Gasly,Schumacher,,
+Bahrain,29,16,Vettel,Latifi,Yes,4
+Bahrain,31,11,Stroll,Russell,,
+Bahrain,31,15,Alonso,Latifi,,
+Bahrain,32,6,Perez,Ricciardo,PiP,1
+Bahrain,32,15,Giovinazzi,Ocon,,
+Bahrain,32,16,Giovinazzi,Latifi,,
+Bahrain,33,14,Ocon,Giovinazzi,,
+Bahrain,36,10,Raikkonen,Russell,Yes,4
+Bahrain,36,11,Tsunoda,Russell,Yes,10
+Bahrain,36,12,Raikkonen,Russell,Yes,11
+Bahrain,36,12,Tsunoda,Vettel,Yes,1
+Bahrain,38,10,Tsunoda,Raikkonen,Yes,4
+Bahrain,39,7,Stroll,Perez,Yes,4
+Bahrain,40,7,Perez,Stroll,PiP,1
+Bahrain,44,6,Perez,Ricciardo,PiP,1
+Bahrain,44,12,Ocon,Vettel,Replay,1
+Bahrain,46,8,Sainz,Stroll,Replay,1
+Bahrain,47,13,Ocon,Vettel,Yes,1
+Bahrain,51,14,Russell,Vettel,,
+Bahrain,52,5,Perez,Leclerc,,1
+Bahrain,52,5,Leclerc,Perez,,4
+Bahrain,52,5,Perez,Leclerc,,6
+Bahrain,52,15,Gasly,Vettel,,
+Bahrain,53,9,Tsunoda,Stroll,,1
+Bahrain,53,9,Stroll,Tsunoda,,4
+Bahrain,56,9,Tsunoda,Stroll,,1
+Emilia-Romagna,7,6,Sainz,Gasly,,9
+Emilia-Romagna,7,6,Gasly,Sainz,,12
+Emilia-Romagna,7,7,Sainz,Stroll,,
+Emilia-Romagna,7,8,Norris,Stroll,Replay,Rivazza 2
+Emilia-Romagna,7,16,Ocon,Mazepin,,
+Emilia-Romagna,7,17,Vettel,Mazepin,,
+Emilia-Romagna,8,7,Norris,Sainz,Yes,Tamburello
+Emilia-Romagna,9,6,Norris,Gasly,Yes,Tamburello
+Emilia-Romagna,9,7,Sainz,Gasly,Yes,Piratella
+Emilia-Romagna,10,8,Stroll,Gasly,Yes,Tamburello
+Emilia-Romagna,10,8,Gasly,Stroll,Yes,Tamburello
+Emilia-Romagna,10,15,Ocon,Alonso,,
+Emilia-Romagna,10,16,Vettel,Alonso,,
+Emilia-Romagna,11,8,Stroll,Gasly,Replay,Tamburello
+Emilia-Romagna,12,9,Bottas,Gasly,Yes,Tamburello
+Emilia-Romagna,13,10,Russell,Gasly,Yes,Tamburello
+Emilia-Romagna,13,11,Raikkonen,Gasly,Yes,Tamburello
+Emilia-Romagna,13,12,Giovinazzi,Gasly,Yes,Tosa
+Emilia-Romagna,13,13,Tsunoda,Gasly,Yes,Piratella
+Emilia-Romagna,13,15,Vettel,Ocon,Yes,Variante Alta
+Emilia-Romagna,14,14,Vettel,Gasly,Yes,Tamburello
+Emilia-Romagna,20,14,Ocon,Vettel,,17
+Emilia-Romagna,20,17,Gasly,Schumacher,,
+Emilia-Romagna,21,16,Gasly,Vettel,Yes,Tosa
+Emilia-Romagna,26,6,Sainz,Ricciardo,Replay,Tamburello
+Emilia-Romagna,29,11,Tsunoda,Giovinazzi,,
+Emilia-Romagna,30,8,Stroll,Bottas,Yes,Tamburello
+Emilia-Romagna,35,2,Norris,Leclerc,Yes,Tamburello
+Emilia-Romagna,35,8,Tsunoda,Hamilton,Background,Tamburello
+Emilia-Romagna,35,12,Gasly,Ocon,Background,Tamburello
+Emilia-Romagna,39,6,Hamilton,Stroll,Yes,Tamburello
+Emilia-Romagna,40,9,Gasly,Alonso,,
+Emilia-Romagna,41,10,Ocon,Alonso,,
+Emilia-Romagna,42,5,Hamilton,Ricciardo,Yes,Tamburello
+Emilia-Romagna,46,8,Gasly,Raikkonen,,
+Emilia-Romagna,47,12,Perez,Vettel,Yes,Tamburello
+Emilia-Romagna,47,12,Vettel,Perez,Yes,Tamburello
+Emilia-Romagna,48,12,Perez,Vettel,Pip,Tamburello
+Emilia-Romagna,50,4,Hamilton,Sainz,Replay,Tamburello
+Emilia-Romagna,52,13,Tsunoda,Vettel,,Tamburello
+Emilia-Romagna,55,3,Hamilton,Leclerc,Yes,Tamburello
+Emilia-Romagna,60,2,Hamilton,Norris,Yes,Tamburello
+Portugal,7,2,Verstappen,Hamilton,Yes,1
+Portugal,7,4,Norris,Perez,,
+Portugal,7,4,Perez,Sainz,Yes,1
+Portugal,7,5,Norris,Sainz,Background,3
+Portugal,7,7,Leclerc,Ocon,Yes,9
+Portugal,7,11,Ricciardo,Russell,,
+Portugal,7,12,Ricciardo,Giovinazzi,Background,5
+Portugal,7,12,Giovinazzi,Russell,,
+Portugal,7,13,Alonso,Russell,,14
+Portugal,7,14,Tsunoda,Alonso,,3
+Portugal,7,14,Alonso,Tsunoda,,5
+Portugal,7,15,Stroll,Tsunoda,,
+Portugal,7,18,Mazepin,Schumacher,,1
+Portugal,8,14,Stroll,Russell,Yes,3
+Portugal,8,18,Schumacher,Mazepin,,1
+Portugal,11,2,Hamilton,Verstappen,Yes,1
+Portugal,14,15,Tsunoda,Russell,Replay,5
+Portugal,15,4,Perez,Norris,Replay,1
+Portugal,18,10,Ricciardo,Vettel,Yes,1
+Portugal,20,1,Hamilton,Bottas,Yes,1
+Portugal,23,11,Sainz,Russell,Yes,1
+Portugal,25,15,Vettel,Schumacher,,1
+Portugal,26,11,Gasly,Russell,,1
+Portugal,26,12,Ocon,Russell,Yes,5
+Portugal,27,13,Vettel,Russell,Yes,5
+Portugal,27,14,Giovinazzi,Schumacher,,
+Portugal,28,17,Tsunoda,Mazepin,,
+Portugal,30,18,Latifi,Russell,Yes,1
+Portugal,33,16,Latifi,Schumacher,,3
+Portugal,33,17,Russell,Schumacher,,4
+Portugal,34,11,Ocon,Gasly,Yes,1
+Portugal,36,16,Russell,Latifi,Background,1
+Portugal,37,3,Verstappen,Bottas,Yes,5
+Portugal,44,7,Ocon,Sainz,Yes,1
+Portugal,48,9,Ricciardo,Gasly,Replay,5
+Portugal,49,10,Alonso,Gasly,Yes,1
+Portugal,51,1,Hamilton,Perez,Yes,1
+Portugal,51,9,Alonso,Ricciardo,Yes,1
+Portugal,56,12,Giovinazzi,Vettel,Yes,1
+Portugal,58,8,Alonso,Sainz,Yes,1
+Portugal,59,12,Stroll,Vettel,Replay,1
+Portugal,61,17,Schumacher,Latifi,Yes,3
+Portugal,64,9,Ricciardo,Sainz,Yes,1
+Portugal,65,10,Gasly,Sainz,Replay,1
+Portugal,65,12,Vettel,Stroll,,
+Spain,2,17,Tsunoda,Russell,,
+Spain,5,16,Tsunoda,Schumacher,,
+Spain,8,16,Russell,Schumacher,Replay,1
+Spain,11,10,Stroll,Alonso,Yes,5
+Spain,11,16,Russell,Mazepin,Background,1
+Spain,11,17,Latifi,Mazepin,,
+Spain,12,15,Russell,Schumacher,,
+Spain,15,16,Latifi,Schumacher,Replay,1
+Spain,16,18,Giovinazzi,Mazepin,,
+Spain,18,17,Giovinazzi,Schumacher,,
+Spain,22,16,Alonso,Mazepin,Yes,7
+Spain,23,17,Vettel,Gasly,Yes,1
+Spain,26,10,Sainz,Giovinazzi,,
+Spain,27,7,Ricciardo,Russell,,
+Spain,27,9,Sainz,Latifi,,
+Spain,27,10,Ocon,Giovinazzi,,
+Spain,28,11,Norris,Giovinazzi,,
+Spain,29,5,Ricciardo,Raikkonen,Replay,1
+Spain,29,11,Stroll,Giovinazzi,,
+Spain,30,6,Perez,Raikkonen,,
+Spain,30,12,Alonso,Giovinazzi,Yes,1
+Spain,30,13,Vettel,Giovinazzi,Yes,5
+Spain,31,7,Sainz,Raikkonen,Yes,1
+Spain,31,14,Gasly,Giovinazzi,Replay,1
+Spain,32,15,Russell,Giovinazzi,,
+Spain,35,8,Ocon,Raikkonen,,
+Spain,37,9,Norris,Raikkonen,Replay,1
+Spain,37,16,Latifi,Giovinazzi,Replay,1
+Spain,46,5,Perez,Ricciardo,Replay,1
+Spain,47,13,Stroll,Latifi,,
+Spain,49,13,Raikkonen,Latifi,,
+Spain,49,14,Vettel,Latifi,,
+Spain,50,8,Sainz,Norris,Yes,1
+Spain,52,2,Hamilton,Bottas,Yes,10
+Spain,52,6,Ricciardo,Ocon,Replay,1
+Spain,53,7,Sainz,Ocon,Yes,1
+Spain,53,14,Gasly,Vettel,Yes,1
+Spain,55,10,Norris,Russell,PiP,1
+Spain,56,9,Norris,Alonso,,
+Spain,57,3,Bottas,Leclerc,Yes,1
+Spain,59,11,Stroll,Russell,,
+Spain,59,12,Raikkonen,Russell,,
+Spain,59,13,Gasly,Russell,,
+Spain,60,1,Hamilton,Verstappen,Yes,1
+Spain,60,12,Gasly,Raikkonen,Yes,13
+Spain,60,14,Vettel,Russell,,1
+Spain,61,8,Norris,Ocon,PiP,1
+Spain,61,10,Stroll,Alonso,Yes,1
+Spain,61,11,Gasly,Alonso,Yes,3
+Spain,61,12,Raikkonen,Alonso,Yes,4
+Spain,62,10,Gasly,Stroll,Yes,1
+Azerbaijan,2,1,Hamilton,Leclerc,Yes,Finish Line
+Azerbaijan,2,12,Ricciardo,Norris,Yes,2
+Azerbaijan,2,12,Norris,Ricciardo,,3
+Azerbaijan,4,13,Stroll,Raikkonen,,1
+Azerbaijan,6,2,Verstappen,Leclerc,Yes,Finish Line
+Azerbaijan,7,3,Perez,Leclerc,Yes,Finish Line
+Azerbaijan,7,7,Tsunoda,Alonso,PiP,1
+Azerbaijan,8,15,Alonso,Mazepin,,Finish Line
+Azerbaijan,9,15,Norris,Mazepin,,3
+Azerbaijan,10,13,Norris,Alonso,Replay,1
+Azerbaijan,16,11,Ricciardo,Alonso,Replay,1
+Azerbaijan,23,13,Sainz,Giovinazzi,Yes,3
+Azerbaijan,26,12,Sainz,Alonso,Yes,Finish Line
+Azerbaijan,36,4,Vettel,Gasly,Yes,Finish Line
+Azerbaijan,36,5,Vettel,Leclerc,Yes,1
+Azerbaijan,36,9,Sainz,Bottas,,2
+Azerbaijan,36,10,Ricciardo,Bottas,,4
+Azerbaijan,36,10,Sainz,Ricciardo,,6
+Azerbaijan,36,11,Alonso,Bottas,Replay,6
+Azerbaijan,36,12,Alonso,Raikkonen,,2
+Azerbaijan,36,12,Raikkonen,Bottas,Replay,7
+Azerbaijan,36,13,Alonso,Latifi,,1
+Azerbaijan,36,14,Giovinazzi,Latifi,,2
+Azerbaijan,38,13,Giovinazzi,Bottas,Replay,Finish Line
+Azerbaijan,38,15,Russell,Latifi,Replay (Background),Finish Line
+Azerbaijan,51,3,Gasly,Leclerc,Yes,1
+Azerbaijan,51,14,Schumacher,Mazepin,,Finish Line
+France,2,11,Vettel,Ocon,Yes,8
+France,2,15,Stroll,Latifi,Background,12
+France,2,17,Tsunoda,Russell,Background,3
+France,4,16,Tsunoda,Latifi,Background,8
+France,4,19,Mazepin,Schumacher,Replay,3
+France,9,14,Stroll,Raikkonen,Replay,8
+France,11,8,Ricciardo,Alonso,Yes,8
+France,11,9,Norris,Alonso,Yes,11
+France,13,10,Vettel,Alonso,Pip,8
+France,13,17,Russell,Latifi,Background,8
+France,14,7,Ricciardo,Leclerc,Yes,8
+France,14,12,Stroll,Giovinazzi,,1
+France,15,18,Leclerc,Mazepin,Replay,8
+France,18,12,Leclerc,Latifi,,8
+France,19,7,Stroll,Ocon,,
+France,19,15,Alonso,Mazepin,,
+France,20,2,Verstappen,Hamilton,Yes,1
+France,20,16,Tsunoda,Mazepin,,
+France,20,17,Russell,Mazepin,,
+France,22,10,Leclerc,Raikkonen,Pip Background,8
+France,23,11,Ricciardo,Raikkonen,Replay,1
+France,23,12,Sainz,Raikkonen,,
+France,23,13,Gasly,Raikkonen,,
+France,23,18,Latifi,Mazepin,,
+France,24,9,Leclerc,Giovinazzi,Pip,8
+France,25,9,Ricciardo,Giovinazzi,Replay,8
+France,26,7,Leclerc,Ocon,Pip,8
+France,26,10,Sainz,Giovinazzi,,8
+France,26,11,Gasly,Giovinazzi,Replay,10
+France,26,13,Norris,Raikkonen,,8
+France,27,8,Ricciardo,Ocon,Replay,1
+France,27,9,Sainz,Ocon,,
+France,27,10,Gasly,Ocon,,
+France,27,11,Norris,Ocon,,
+France,27,12,Norris,Giovinazzi,,
+France,27,14,Alonso,Raikkonen,,
+France,28,7,Ricciardo,Leclerc,,8
+France,29,8,Sainz,Leclerc,Yes,1
+France,29,9,Norris,Leclerc,Yes,14
+France,29,10,Norris,Gasly,Yes,8
+France,30,10,Gasly,Leclerc,Yes,1
+France,31,8,Norris,Sainz,Yes,8
+France,31,11,Alonso,Leclerc,Replay,8
+France,31,16,Ocon,Latifi,,8
+France,32,17,Giovinazzi,Latifi,,1
+France,33,7,Norris,Ricciardo,Yes,8
+France,33,13,Tsunoda,Raikkonen,,
+France,33,14,Russell,Raikkonen,,
+France,34,6,Norris,Stroll,Yes,8
+France,36,8,Gasly,Sainz,Yes,8
+France,37,8,Alonso,Sainz,Replay,1
+France,39,12,Stroll,Russell,,
+France,39,17,Raikkonen,Latifi,,
+France,42,11,Stroll,Tsunoda,,
+France,44,2,Verstappen,Bottas,Yes,10
+France,44,9,Vettel,Sainz,,
+France,48,10,Stroll,Sainz,,
+France,49,3,Perez,Bottas,Yes,10
+France,50,12,Russell,Tsunoda,,8
+France,52,1,Verstappen,Hamilton,Yes,8
+Styria,3,16,Giovinazzi,Schumacher,,
+Styria,4,15,Giovinazzi,Mazepin,,
+Styria,10,3,Perez,Norris,Yes,3
+Styria,11,4,Bottas,Norris,Yes,3
+Styria,13,17,Leclerc,Schumacher,,
+Styria,14,16,Leclerc,Mazepin,Yes,3
+Styria,22,15,Leclerc,Giovinazzi,Replay,3
+Styria,24,14,Leclerc,Ocon,Yes,4
+Styria,26,15,Giovinazzi,Schumacher,,
+Styria,32,6,Norris,Raikkonen,Yes,4
+Styria,41,13,Leclerc,Raikkonen,Yes,4
+Styria,41,16,Schumacher,Mazepin,,
+Styria,44,6,Sainz,Stroll,Yes,4
+Styria,45,11,Leclerc,Giovinazzi,Yes,3
+Styria,49,10,Leclerc,Vettel,Yes,4
+Styria,53,14,Ricciardo,Ocon,,
+Styria,54,9,Leclerc,Tsunoda,Replay,4
+Styria,55,8,Leclerc,Alonso,Yes,4
+Styria,57,12,Raikkonen,Giovinazzi,,
+Styria,58,13,Ricciardo,Giovinazzi,,
+Styria,59,7,Leclerc,Stroll,Yes,3
+Styria,62,14,Ocon,Giovinazzi,,
+Styria,63,17,Latifi,Mazepin,,
+Styria,67,11,Raikkonen,Vettel,Yes,4
+Austria,4,3,Hamilton,Bottas,Yes,6
+Austria,4,4,Bottas,Hamilton,Yes,3
+Austria,4,8,Vettel,Perez,Background,6
+Austria,4,9,Ricciardo,Perez,Background,6
+Austria,4,10,Ricciardo,Leclerc,,3
+Austria,4,18,Giovinazzi,Mazepin,,4
+Austria,5,14,Alonso,Raikkonen,,1
+Austria,5,14,Raikkonen,Alonso,,6
+Austria,5,16,Latifi,Schumacher,,3
+Austria,6,17,Giovinazzi,Schumacher,,3
+Austria,12,12,Sainz,Russell,,
+Austria,14,7,Leclerc,Perez,Yes,5
+Austria,16,16,Gasly,Mazepin,,
+Austria,17,5,Ricciardo,Vettel,Yes,4
+Austria,17,17,Tsunoda,Mazepin,,
+Austria,18,14,Gasly,Schumacher,,
+Austria,18,17,Stroll,Mazepin,,
+Austria,18,18,Vettel,Mazepin,,
+Austria,19,15,Tsunoda,Schumacher,,
+Austria,19,17,Vettel,Stroll,,
+Austria,20,2,Hamilton,Norris,Yes,5
+Austria,20,16,Vettel,Schumacher,,
+Austria,21,17,Stroll,Schumacher,,
+Austria,23,13,Gasly,Giovinazzi,,
+Austria,25,12,Gasly,Latifi,Yes,4
+Austria,33,11,Tsunoda,Latifi,Yes,4
+Austria,37,13,Russell,Stroll,Yes,3
+Austria,46,13,Alonso,Stroll,,
+Austria,48,15,Giovinazzi,Latifi,,
+Austria,49,8,Sainz,Tsunoda,Yes,4
+Austria,49,11,Gasly,Russell,,
+Austria,49,16,Stroll,Latifi,,
+Austria,50,15,Stroll,Giovinazzi,,
+Austria,52,5,Perez,Ricciardo,,
+Austria,53,3,Norris,Hamilton,Yes,6
+Austria,67,10,Alonso,Russell,Yes,4
+Austria,70,6,Sainz,Ricciardo,Yes,4
+Austria,70,12,Vettel,Raikkonen,Replay,5
+GB Sprint,2,16,Sainz,Latifi,,
+GB Sprint,2,17,Sainz,Tsunoda,Background,Aintree
+GB Sprint,3,15,Sainz,Giovinazzi,,
+GB Sprint,4,14,Sainz,Stroll,,
+GB Sprint,5,17,Tsunoda,Latifi,,Luffield
+GB Sprint,6,5,Norris,Alonso,Replay,Village
+GB Sprint,6,18,Perez,Schumacher,,
+GB Sprint,9,6,Ricciardo,Alonso,Yes,Loop
+GB Sprint,9,12,Sainz,Raikkonen,Replay,Copse
+GB Sprint,13,11,Sainz,Gasly,Replay,Club
+Britain,5,6,Sainz,Alonso,Yes,Brooklands
+Britain,5,9,Ocon,Raikkonen,Background,Village
+Britain,5,14,Perez,Tsunoda,,
+Britain,5,15,Perez,Schumacher,,
+Britain,5,16,Latifi,Schumacher,,
+Britain,6,11,Gasly,Giovinazzi,,
+Britain,7,13,Perez,Russell,Replay,Stowe
+Britain,7,18,Vettel,Mazepin,,
+Britain,8,17,Vettel,Schumacher,,
+Britain,9,12,Perez,Giovinazzi,PiP,Brooklands
+Britain,19,17,Vettel,Schumacher,,
+Britain,20,14,Perez,Raikkonen,Yes,Brooklands
+Britain,22,12,Perez,Ocon,,
+Britain,23,4,Bottas,Alonso,Yes,Brooklands
+Britain,23,5,Norris,Alonso,Yes,Vale
+Britain,25,9,Alonso,Stroll,Yes,Brooklands
+Britain,27,18,Mazepin,Schumacher,,
+Britain,29,11,Gasly,Ocon,,
+Britain,31,3,Hamilton,Norris,Yes,Copse
+Britain,39,16,Perez,Vettel,Yes,Brooklands
+Britain,40,15,Perez,Latifi,,
+Britain,41,13,Perez,Russell,Yes,Club
+Britain,41,14,Perez,Giovinazzi,PiP,Brooklands
+Britain,43,12,Perez,Tsunoda,Replay,Brooklands
+Britain,46,11,Perez,Raikkonen,Replay,Vale
+Britain,47,14,Gasly,Latifi,,
+Britain,48,13,Gasly,Giovinazzi,Yes,Brooklands
+Britain,50,1,Hamilton,Leclerc,Yes,Copse
+Britain,50,11,Gasly,Russell,Yes,Stowe
+Hungary,10,13,Hamilton,Giovinazzi,Yes,1
+Hungary,14,10,Verstappen,Schumacher,Yes,3
+Hungary,15,11,Gasly,Schumacher,Yes,2
+Hungary,16,11,Hamilton,Schumacher,Yes,1
+Hungary,21,10,Hamilton,Ricciardo,Yes,1
+Hungary,24,8,Hamilton,Schumacher,PiP,1
+Hungary,27,7,Hamilton,Latifi,Yes,1
+Hungary,32,5,Hamilton,Tsunoda,PiP,4
+Hungary,33,9,Russell,Schumacher,Yes,3
+Hungary,34,10,Ricciardo,Schumacher,Yes,2
+Hungary,34,11,Verstappen,Schumacher,Yes,3
+Hungary,40,7,Gasly,Latifi,Replay,1
+Hungary,50,11,Verstappen,Raikkonen,Replay,1
+Hungary,60,10,Verstappen,Ricciardo,PiP,2
+Hungary,65,4,Hamilton,Alonso,Yes,2
+Hungary,67,3,Hamilton,Sainz,Yes,1
+Hungary,67,11,Raikkonen,Ricciardo,,
+Netherlands,13,16,Latifi,Mazepin,Replay,Tarzan
+Netherlands,15,17,Perez,Mazepin,Yes,Hans Ernst
+Netherlands,18,16,Perez,Latifi,Yes,Hans Ernst
+Netherlands,20,15,Perez,Kubica,Yes,Tarzan
+Netherlands,23,14,Perez,Tsunoda,Yes,Hans Ernst
+Netherlands,24,17,Vettel,Mazepin,,
+Netherlands,28,6,Gasly,Alonso,Replay,Tarzan
+Netherlands,30,1,Verstappen,Bottas,Yes,Timing Line
+Netherlands,30,18,Latifi,Mazepin,,
+Netherlands,31,13,Giovinazzi,Kubica,,
+Netherlands,32,13,Russell,Kubica,Replay,Tarzan
+Netherlands,33,14,Stroll,Kubica,Replay,Tarzan
+Netherlands,36,16,Latifi,Vettel,Yes,Hunzerung
+Netherlands,39,14,Tsunoda,Kubica,,
+Netherlands,48,11,Perez,Russell,Yes,Hans Ernst
+Netherlands,54,10,Perez,Ricciardo,Replay,Tarzan
+Netherlands,55,16,Vettel,Kubica,,
+Netherlands,58,14,Giovinazzi,Latifi,,
+Netherlands,59,15,Vettel,Latifi,,
+Netherlands,62,14,Vettel,Giovinazzi,,
+Netherlands,65,9,Perez,Norris,Replay,Gerlach
+Netherlands,69,8,Perez,Ocon,,Hans Ernst
+Netherlands,70,15,Kubica,Latifi,,Tarzan
+Netherlands,71,6,Alonso,Sainz,,Tarzan
+Italy Sprint,4,11,Alonso,Vettel,Yes,Lesmo 1
+Italy Sprint,4,15,Mazepin,Schumacher,Background,1
+Italy Sprint,4,16,Russell,Schumacher,,Roggia
+Italy Sprint,4,18,Tsunoda,Kubica,,
+Italy Sprint,5,17,Tsunoda,Schumacher,,
+Italy Sprint,6,15,Russell,Mazepin,Yes,1
+Italy Sprint,8,16,Tsunoda,Mazepin,,
+Italy Sprint,10,9,Perez,Stroll,Yes,1
+Italy Sprint,12,18,Kubica,Schumacher,,
+Italy,2,15,Bottas,Schumacher,,
+Italy,3,14,Bottas,Kubica,Yes,1
+Italy,3,17,Gasly,Mazepin,,
+Italy,5,13,Bottas,Russell,Replay,1
+Italy,7,10,Latifi,Ocon,,
+Italy,9,6,Perez,Sainz,Yes,Roggia
+Italy,9,12,Bottas,Vettel,,
+Italy,11,11,Bottas,Ocon,PiP,1
+Italy,13,10,Bottas,Latifi,Yes,1
+Italy,17,9,Bottas,Alonso,PiP,1
+Italy,22,8,Bottas,Stroll,Yes,1
+Italy,24,1,Hamilton,Norris,Replay,Roggia
+Italy,24,9,Verstappen,Alonso,,
+Italy,25,4,Ricciardo,Sainz,Yes,1
+Italy,31,2,Norris,Leclerc,Yes,Curva Grande
+Italy,31,14,Giovinazzi,Schumacher,Replay,2
+Italy,32,5,Bottas,Sainz,Yes,1
+Italy,32,10,Ocon,Latifi,Yes,1
+Italy,33,4,Leclerc,Bottas,Yes,Roggia
+Italy,34,4,Bottas,Leclerc,Yes,1
+Italy,43,3,Bottas,Perez,Yes,Roggia
+Italy,43,3,Perez,Bottas,Yes,Lesmo 1
+Italy,45,12,Vettel,Kubica,,Roggia
+Russia,2,6,Hamilton,Alonso,Yes,4
+Russia,2,16,Verstappen,Latifi,Background,13
+Russia,2,18,Giovinazzi,Schumacher,,
+Russia,3,7,Perez,Alonso,,
+Russia,3,13,Gasly,Mazepin,,
+Russia,4,14,Bottas,Mazepin,,
+Russia,4,15,Verstappen,Mazepin,,
+Russia,4,19,Tsunoda,Schumacher,,
+Russia,6,14,Verstappen,Bottas,Yes,13
+Russia,8,13,Verstappen,Gasly,PiP,13
+Russia,8,17,Giovinazzi,Latifi,,4
+Russia,8,17,Latifi,Giovinazzi,,5
+Russia,10,11,Leclerc,Vettel,Yes,5
+Russia,10,11,Vettel,Leclerc,Yes,6
+Russia,10,12,Verstappen,Leclerc,Yes,7
+Russia,11,17,Giovinazzi,Latifi,,
+Russia,13,1,Norris,Sainz,Replay,13
+Russia,13,10,Verstappen,Vettel,Replay,13
+Russia,13,16,Giovinazzi,Mazepin,,
+Russia,14,10,Leclerc,Vettel,,
+Russia,16,19,Tsunoda,Mazepin,,
+Russia,22,14,Ocon,Giovinazzi,,
+Russia,24,13,Ricciardo,Ocon,,
+Russia,24,15,Raikkonen,Giovinazzi,,
+Russia,26,12,Ricciardo,Russell,,
+Russia,27,6,Sainz,Bottas,Yes,2
+Russia,28,11,Verstappen,Russell,PiP,2
+Russia,29,7,Hamilton,Stroll,,
+Russia,29,14,Vettel,Giovinazzi,,
+Russia,30,5,Hamilton,Gasly,Yes,13
+Russia,30,6,Hamilton,Sainz,Yes,2
+Russia,31,8,Ricciardo,Stroll,Background,13
+Russia,31,15,Bottas,Giovinazzi,,
+Russia,31,19,Schumacher,Mazepin,,
+Russia,32,9,Verstappen,Stroll,Yes,2
+Russia,34,3,Norris,Leclerc,Yes,3
+Russia,35,4,Hamilton,Leclerc,,13
+Russia,35,15,Gasly,Giovinazzi,,
+Russia,36,13,Leclerc,Bottas,Yes,2
+Russia,38,6,Alonso,Verstappen,Replay,2
+Russia,39,12,Leclerc,Vettel,,
+Russia,40,10,Leclerc,Ocon,,
+Russia,40,11,Leclerc,Raikkonen,,
+Russia,42,9,Leclerc,Russell,Yes,4
+Russia,43,12,Vettel,Raikkonen,,
+Russia,44,4,Perez,Ricciardo,Replay,13
+Russia,44,8,Leclerc,Stroll,Pip,13
+Russia,44,11,Vettel,Ocon,,13
+Russia,46,10,Vettel,Russell,,
+Russia,47,3,Perez,Sainz,PiP,13
+Russia,47,5,Alonso,Ricciardo,,13
+Russia,47,9,Vettel,Stroll,Replay,10
+Russia,47,13,Bottas,Raikkonen,,
+Russia,47,14,Gasly,Raikkonen,,
+Russia,47,16,Giovinazzi,Latifi,,12
+Russia,47,17,Giovinazzi,Tsunoda,,
+Russia,48,4,Alonso,Sainz,,8
+Russia,48,5,Verstappen,Sainz,,
+Russia,48,6,Verstappen,Ricciardo,,
+Russia,48,6,Leclerc,Sainz,,
+Russia,48,7,Leclerc,Ricciardo,,
+Russia,48,11,Gasly,Stroll,,
+Russia,48,11,Gasly,Stroll,,
+Russia,49,3,Alonso,Perez,,
+Russia,49,9,Gasly,Ocon,,
+Russia,49,9,Ricciardo,Gasly,,
+Russia,49,10,Ricciardo,Ocon,,
+Russia,50,3,Leclerc,Alonso,,8
+Russia,50,3,Perez,Alonso,,
+Russia,50,4,Verstappen,Leclerc,,
+Russia,50,4,Leclerc,Perez,,17
+Russia,50,5,Verstappen,Perez,,16
+Russia,50,6,Verstappen,Vettel,,5
+Russia,50,7,Sainz,Vettel,,
+Russia,50,8,Ricciardo,Vettel,,
+Russia,50,9,Bottas,Vettel,,
+Russia,50,10,Raikkonen,Vettel,,
+Russia,50,11,Russell,Vettel,,
+Russia,50,11,Raikkonen,Russell,,
+Russia,50,11,Russell,Gasly,,
+Russia,50,11,Bottas,Ocon,,2
+Russia,50,12,Russell,Ocon,,
+Russia,50,12,Raikkonen,Ocon,,
+Russia,50,13,Stroll,Gasly,,
+Russia,50,14,Stroll,Ocon,,
+Russia,50,15,Stroll,Giovinazzi,Background,3
+Russia,51,4,Sainz,Leclerc,,
+Russia,51,5,Ricciardo,Leclerc,,
+Russia,51,9,Raikkonen,Perez,,
+Russia,51,11,Stroll,Leclerc,,
+Russia,51,12,Vettel,Leclerc,,
+Russia,52,7,Raikkonen,Norris,,
+Russia,52,14,Ocon,Leclerc,,
+Russia,53,7,Norris,Raikkonen,,
+Turkey,3,15,Sainz,Alonso,,
+Turkey,4,16,Ricciardo,Alonso,,
+Turkey,5,14,Sainz,Russell,Yes,13
+Turkey,6,13,Sainz,Raikkonen,Yes,12
+Turkey,6,19,Latifi,Schumacher,,
+Turkey,7,12,Sainz,Giovinazzi,Replay,12
+Turkey,8,8,Hamilton,Tsunoda,Yes,3
+Turkey,8,11,Sainz,Ocon,Replay,12
+Turkey,8,19,Latifi,Schumacher,,
+Turkey,9,7,Hamilton,Stroll,Yes,4
+Turkey,10,6,Hamilton,Norris,Yes,12
+Turkey,11,18,Latifi,Mazepin,,
+Turkey,13,10,Sainz,Vettel,Yes,12
+Turkey,14,5,Hamilton,Gasly,Yes,12
+Turkey,17,9,Sainz,Tsunoda,Yes,12
+Turkey,33,16,Ricciardo,Latifi,Replay,1
+Turkey,34,4,Hamilton,Perez,,
+Turkey,35,4,Perez,Hamilton,,
+Turkey,35,15,Ricciardo,Russell,,
+Turkey,37,16,Alonso,Vettel,Yes,8
+Turkey,46,8,Sainz,Ocon,PiP,1
+Turkey,47,1,Bottas,Leclerc,Yes,1
+Turkey,51,3,Perez,Leclerc,Yes,12
+Turkey,53,9,Stroll,Ocon,Replay,1
+Turkey,56,11,Giovinazzi,Ricciardo,,14
+Turkey,56,12,Raikkonen,Ricciardo,,Timing Line
+USA,2,17,Stroll,Schumacher,,1
+USA,3,9,Gasly,Bottas,,
+USA,6,19,Latifi,Ocon,Yes,1
+USA,8,6,Sainz,Norris,,
+USA,8,18,Latifi,Mazepin,,
+USA,9,12,Vettel,Russell,,
+USA,9,19,Ocon,Mazepin,,
+USA,11,4,Verstappen,Ricciardo,Yes,12
+USA,11,12,Tsunoda,Schumacher,,
+USA,12,8,Sainz,Vettel,Replay,12
+USA,12,10,Norris,Stroll,Yes,1
+USA,12,18,Ocon,Schumacher,,
+USA,13,4,Leclerc,Bottas,,
+USA,13,8,Norris,Vettel,Replay,1
+USA,16,13,Raikkonen,Alonso,Yes,1
+USA,18,8,Tsunoda,Stroll,Yes,12
+USA,18,9,Bottas,Stroll,Yes,12
+USA,19,8,Bottas,Tsunoda,Yes,13
+USA,19,10,Raikkonen,Giovinazzi,,
+USA,25,13,Vettel,Russell,Yes,19
+USA,26,12,Vettel,Giovinazzi,,12
+USA,26,12,Giovinazzi,Vettel,,13
+USA,29,12,Stroll,Russell,,
+USA,30,2,Verstappen,Perez,,
+USA,32,15,Russell,Schumacher,,
+USA,33,10,Stroll,Tsunoda,,
+USA,34,10,Tsunoda,Stroll,Yes,12
+USA,34,11,Raikkonen,Stroll,,12
+USA,41,13,Alonso,Stroll,,
+USA,50,11,Vettel,Giovinazzi,Replay,12
+USA,55,6,Bottas,Sainz,,12
+USA,55,12,Stroll,Raikkonen,,
+Mexico,5,6,Sainz,Giovinazzi,Yes,1
+Mexico,5,11,Alonso,Mazepin,,1
+Mexico,5,13,Ocon,Latifi,,
+Mexico,5,13,Latifi,Ocon,,
+Mexico,5,14,Norris,Ocon,,
+Mexico,5,17,Ricciardo,Bottas,,
+Mexico,9,9,Raikkonen,Russell,Yes,1
+Mexico,9,13,Norris,Latifi,,1
+Mexico,10,10,Alonso,Russell,Yes,2
+Mexico,10,14,Ocon,Latifi,,
+Mexico,11,12,Norris,Mazepin,Yes,1
+Mexico,11,15,Stroll,Latifi,,
+Mexico,12,13,Ocon,Mazepin,Yes,5
+Mexico,14,17,Latifi,Mazepin,,
+Mexico,15,11,Norris,Russell,Yes,1
+Mexico,30,4,Leclerc,Hamilton,Yes,1
+Mexico,32,8,Leclerc,Alonso,Yes,1
+Mexico,37,16,Stroll,Latifi,,
+Mexico,39,14,Ocon,Russell,Yes,4
+Mexico,42,14,Bottas,Russell,,
+Mexico,46,13,Bottas,Ocon,Yes,1
+Mexico,55,15,Stroll,Russell,Yes,2
+Mexico,69,15,Bottas,Russell,,
+Brazil Sprint,2,11,Giovinazzi,Alonso,,1
+Brazil Sprint,2,12,Raikkonen,Alonso,Replay,1
+Brazil Sprint,4,2,Verstappen,Sainz,Yes,1
+Brazil Sprint,4,11,Alonso,Giovinazzi,Background,1
+Brazil Sprint,4,13,Hamilton,Tsunoda,Yes,1
+Brazil Sprint,4,12,Hamilton,Giovinazzi,,Finish Line
+Brazil Sprint,5,19,Raikkonen,Mazepin,,
+Brazil Sprint,6,18,Raikkonen,Schumacher,,
+Brazil Sprint,8,11,Hamilton,Alonso,Replay,1
+Brazil Sprint,9,5,Norris,Leclerc,Yes,4
+Brazil Sprint,13,10,Hamilton,Ricciardo,Yes,1
+Brazil Sprint,15,9,Hamilton,Vettel,Yes,1
+Brazil Sprint,15,8,Hamilton,Ocon,Yes,Finish Line
+Brazil Sprint,17,7,Hamilton,Gasly,Yes,1
+Brazil Sprint,20,6,Hamilton,Leclerc,Replay,4
+Brazil Sprint,24,5,Hamilton,Norris,Yes,1
+Brazil Sprint,24,14,Stroll,Tsunoda,,
+Brazil,2,9,Ocon,Ricciardo,Background,2
+Brazil,3,4,Hamilton,Leclerc,Replay,Finish Line
+Brazil,3,5,Hamilton,Sainz,Yes,1
+Brazil,3,13,Tsunoda,Giovinazzi,,1
+Brazil,3,15,Mazepin,Schumacher,,1
+Brazil,3,17,Latifi,Russell,,1
+Brazil,4,17,Raikkonen,Russell,,
+Brazil,10,9,Ricciardo,Ocon,,Finish Line
+Brazil,10,16,Raikkonen,Latifi,,
+Brazil,10,19,Norris,Tsunoda,,1
+Brazil,10,18,Tsunoda,Latifi,Yes,11
+Brazil,10,17,Norris,Latifi,,
+Brazil,10,19,Tsunoda,Russell,,
+Brazil,10,18,Norris,Russell,,
+Brazil,11,11,Stroll,Alonso,,
+Brazil,11,15,Raikkonen,Schumacher,Replay,1
+Brazil,11,15,Norris,Raikkonen,,Finish Line
+Brazil,14,17,Russell,Tsunoda,,
+Brazil,16,14,Norris,Mazepin,,1
+Brazil,16,17,Tsunoda,Russell,,
+Brazil,17,15,Tsunoda,Mazepin,,Finish Line
+Brazil,17,16,Tsunoda,Raikkonen,,2
+Brazil,18,2,Hamilton,Perez,Yes,1
+Brazil,18,2,Perez,Hamilton,Yes,4
+Brazil,18,7,Gasly,Vettel,,
+Brazil,18,16,Raikkonen,Mazepin,,Finish Line
+Brazil,19,2,Hamilton,Perez,Yes,1
+Brazil,20,8,Ricciardo,Vettel,,
+Brazil,20,8,Vettel,Ricciardo,Replay,4
+Brazil,20,8,Ricciardo,Vettel,Replay,Finish Line
+Brazil,20,17,Russell,Mazepin,,
+Brazil,21,11,Alonso,Stroll,,1
+Brazil,26,14,Gasly,Raikkonen,,
+Brazil,28,4,Hamilton,Ricciardo,Yes,4
+Brazil,28,10,Norris,Giovinazzi,,
+Brazil,28,11,Sainz,Giovinazzi,,9
+Brazil,28,12,Gasly,Giovinazzi,,
+Brazil,28,12,Sainz,Tsunoda,,
+Brazil,28,13,Gasly,Tsunoda,,
+Brazil,28,17,Stroll,Mazepin,,
+Brazil,28,18,Stroll,Latifi,Replay,1
+Brazil,29,9,Sainz,Norris,,1
+Brazil,30,10,Gasly,Norris,Yes,1
+Brazil,31,17,Latifi,Mazepin,,
+Brazil,31,18,Raikkonen,Mazepin,,
+Brazil,32,5,Leclerc,Alonso,Replay,Finish Line
+Brazil,32,8,Ricciardo,Gasly,,
+Brazil,32,8,Gasly,Ricciardo,,
+Brazil,32,12,Ocon,Russell,,1
+Brazil,33,17,Raikkonen,Latifi,,1
+Brazil,34,13,Vettel,Russell,,1
+Brazil,36,13,Alonso,Russell,,4
+Brazil,37,10,Ocon,Tsunoda,Yes,1
+Brazil,38,9,Vettel,Tsunoda,Yes,Finish Line
+Brazil,39,10,Alonso,Tsunoda,Yes,1
+Brazil,40,10,Alonso,Vettel,Yes,1
+Brazil,41,12,Stroll,Russell,Replay,1
+Brazil,42,4,Bottas,Leclerc,Background,Finish Line
+Brazil,45,4,Perez,Leclerc,Yes,1
+Brazil,45,12,Raikkonen,Stroll,,1
+Brazil,45,13,Norris,Stroll,,4
+Brazil,47,12,Norris,Raikkonen,,4
+Brazil,59,1,Hamilton,Verstappen,Yes,4
+Brazil,60,8,Gasly,Ocon,Yes,1
+Brazil,61,7,Gasly,Alonso,Yes,4
+Qatar,2,9,Stroll,Perez,Yes,1
+Qatar,2,9,Perez,Stroll,Yes,2
+Qatar,3,3,Verstappen,Gasly,Yes,Finish Line
+Qatar,3,18,Latifi,Schumacher,,
+Qatar,5,2,Verstappen,Alonso,Yes,1
+Qatar,5,8,Perez,Tsunoda,Replay,1
+Qatar,6,12,Leclerc,Raikkonen,Yes,1
+Qatar,7,15,Ricciardo,Russell,,1
+Qatar,8,7,Perez,Sainz,Yes,1
+Qatar,8,14,Ricciardo,Giovinazzi,,1
+Qatar,9,6,Perez,Ocon,Yes,1
+Qatar,9,9,Stroll,Tsunoda,Yes,1
+Qatar,9,10,Bottas,Tsunoda,Yes,1
+Qatar,10,9,Bottas,Stroll,Replay,1
+Qatar,12,4,Norris,Gasly,Yes,1
+Qatar,13,5,Perez,Gasly,Yes,1
+Qatar,14,13,Vettel,Russell,Yes,1
+Qatar,15,7,Bottas,Sainz,Yes,1
+Qatar,16,4,Perez,Norris,Yes,1
+Qatar,16,16,Gasly,Mazepin,,1
+Qatar,17,6,Bottas,Ocon,Yes,1
+Qatar,18,13,Gasly,Schumacher,,1
+Qatar,21,15,Tsunoda,Mazepin,,1
+Qatar,22,15,Raikkonen,Mazepin,,1
+Qatar,23,4,Bottas,Norris,Yes,1
+Qatar,23,10,Perez,Vettel,Yes,1
+Qatar,24,16,Giovinazzi,Mazepin,,1
+Qatar,25,7,Perez,Ricciardo,Yes,1
+Qatar,27,5,Alonso,Leclerc,Yes,1
+Qatar,27,6,Perez,Leclerc,Yes,7
+Qatar,27,14,Giovinazzi,Ricciardo,,1
+Qatar,27,17,Russell,Mazepin,,
+Qatar,28,15,Vettel,Ricciardo,,
+Qatar,28,18,Latifi,Mazepin,,
+Qatar,29,4,Perez,Alonso,Yes,2
+Qatar,29,14,Vettel,Giovinazzi,,
+Qatar,31,19,Schumacher,Raikkonen,,
+Qatar,34,17,Raikkonen,Schumacher,,
+Qatar,39,15,Tsunoda,Latifi,Yes,1
+Qatar,40,18,Giovinazzi,Schumacher,,1
+Qatar,42,12,Bottas,Ricciardo,Yes,1
+Qatar,42,16,Raikkonen,Latifi,Replay,2
+Qatar,44,14,Tsunoda,Russell,Replay,2
+Qatar,46,6,Perez,Stroll,Yes,1
+Qatar,47,5,Perez,Ocon,Yes,1
+Qatar,49,15,Raikkonen,Russell,,1
+Qatar,50,10,Gasly,Norris,,
+Qatar,51,10,Norris,Gasly,,1
+Qatar,54,9,Norris,Vettel,Yes,1
+Saudi Arabia,2,10,Alonso,Giovinazzi,Background,1
+Saudi Arabia,3,16,Russell,Stroll,,
+Saudi Arabia,4,12,Sainz,Tsunoda,Replay,1
+Saudi Arabia,4,16,Stroll,Russell,,
+Saudi Arabia,7,10,Giovinazzi,Alonso,Replay,1
+Saudi Arabia,8,8,Ricciardo,Gasly,Yes,1
+Saudi Arabia,8,11,Sainz,Alonso,Yes,1
+Saudi Arabia,10,10,Sainz,Giovinazzi,,1
+Saudi Arabia,18,2,Hamilton,Ocon,Yes,1
+Saudi Arabia,23,10,Stroll,Vettel,,
+Saudi Arabia,26,11,Raikkonen,Vettel,Replay,1
+Saudi Arabia,26,11,Vettel,Raikkonen,Replay,3
+Saudi Arabia,26,11,Norris,Vettel,Yes,13
+Saudi Arabia,26,12,Latifi,Vettel,Yes,14
+Saudi Arabia,34,13,Alonso,Vettel,,1
+Saudi Arabia,37,10,Norris,Stroll,,1
+Saudi Arabia,38,4,Bottas,Ricciardo,Replay,27
+Saudi Arabia,38,4,Ricciardo,Bottas,,Finish Line
+Saudi Arabia,38,7,Sainz,Giovinazzi,,
+Saudi Arabia,39,8,Leclerc,Giovinazzi,,
+Saudi Arabia,40,4,Bottas,Ricciardo,Yes,1
+Saudi Arabia,41,15,Tsunoda,Raikkonen,,
+Saudi Arabia,42,1,Verstappen,Hamilton,Yes,27
+Saudi Arabia,43,1,Hamilton,Verstappen,Yes,27
+Saudi Arabia,49,7,Leclerc,Sainz,,Finish Line
+Saudi Arabia,49,13,Tsunoda,Alonso,,
+Saudi Arabia,50,3,Bottas,Ocon,Replay,Finish Line
+Abu Dhabi,2,17,Raikkonen,Latifi,,
+Abu Dhabi,3,17,Schumacher,Latifi,,
+Abu Dhabi,3,17,Latifi,Schumacher,,
+Abu Dhabi,5,14,Vettel,Stroll,Replay,6
+Abu Dhabi,14,4,Verstappen,Norris,Yes,6
+Abu Dhabi,14,6,Tsunoda,Leclerc,Yes,5
+Abu Dhabi,14,6,Leclerc,Tsunoda,Yes,9
+Abu Dhabi,15,6,Tsunoda,Leclerc,,
+Abu Dhabi,17,15,Leclerc,Latifi,,6
+Abu Dhabi,18,16,Ocon,Russell,,
+Abu Dhabi,18,3,Verstappen,Sainz,Yes,6
+Abu Dhabi,20,1,Hamilton,Perez,Yes,6
+Abu Dhabi,20,1,Perez,Hamilton,Yes,6
+Abu Dhabi,20,1,Hamilton,Perez,Yes,7
+Abu Dhabi,20,1,Perez,Hamilton,Yes,9
+Abu Dhabi,20,16,Ricciardo,Russell,,
+Abu Dhabi,20,14,Ocon,Latifi,,
+Abu Dhabi,20,11,Norris,Raikkonen,,
+Abu Dhabi,21,1,Hamilton,Perez,Yes,6
+Abu Dhabi,21,12,Leclerc,Raikkonen,,
+Abu Dhabi,22,13,Ricciardo,Latifi,,
+Abu Dhabi,25,15,Vettel,Russell,,9
+Abu Dhabi,25,14,Giovinazzi,Russell,,6
+Abu Dhabi,27,13,Giovinazzi,Latifi,,9
+Abu Dhabi,28,14,Vettel,Latifi,,6
+Abu Dhabi,34,8,Bottas,Leclerc,Yes,6
+Abu Dhabi,37,7,Alonso,Tsunoda,Replay,12
+Abu Dhabi,38,7,Tsunoda,Alonso,Replay,9
+Abu Dhabi,39,8,Gasly,Alonso,,6
+Abu Dhabi,39,8,Alonso,Gasly,,9
+Abu Dhabi,41,8,Gasly,Alonso,Yes,6
+Abu Dhabi,49,9,Norris,Ocon,Replay,6
+Abu Dhabi,50,8,Norris,Alonso,Replay,6
+Abu Dhabi,58,5,Gasly,Bottas,,
+Abu Dhabi,58,4,Tsunoda,Bottas,,
+Abu Dhabi,58,1,Verstappen,Hamilton,Yes,5

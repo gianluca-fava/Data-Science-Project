@@ -1,0 +1,299 @@
+Race,Lap,Position,Overtaker,Overtakee,Live?,Turn
+Australia,2,7,Trulli,Villeneuve,,
+Australia,2,14,Wurz,Zanardi,,
+Australia,2,15,M.Schumacher,Zanardi,,
+Australia,2,16,M.Schumacher,Panis,,
+Australia,2,16,Barrichello,Panis,,
+Australia,2,17,Barrichello,Zanardi,,
+Australia,2,17,Panis,Zanardi,,
+Australia,2,18,Barrichello,Gene,,
+Australia,3,11,De La Rosa,Badoer,,
+Australia,4,14,M.Schumacher,Wurz,,
+Australia,5,12,Takagi,Badoer,,
+Australia,5,13,M.Schumacher,Badoer,,
+Australia,6,12,M.Schumacher,Takagi,,
+Australia,6,14,Wurz,Badoer,,
+Australia,6,15,Barrichello,Badoer,,
+Australia,7,14,Barrichello,Wurz,,
+Australia,8,13,Barrichello,Takagi,,
+Australia,8,16,Panis,Badoer,,
+Australia,9,11,M.Schumacher,De La Rosa,,
+Australia,9,17,Zanardi,Badoer,,
+Australia,12,12,Barrichello,De La Rosa,,
+Australia,18,2,R.Schumacher,Frentzen,Yes,1
+Australia,18,2,Frentzen,R.Schumacher,Yes,3
+Australia,18,3,Trulli,R.Schumacher,Yes,9
+Australia,18,4,Trulli,Fisichella,Yes,1
+Australia,18,7,Diniz,De La Rosa,Background,9
+Australia,18,7,Barrichello,De La Rosa,,
+Australia,18,9,Wurz,Takagi,,
+Australia,18,10,Zonta,Takagi,,
+Australia,18,11,Zonta,Panis,,
+Australia,18,13,Zanardi,Gene,,
+Australia,20,6,Barrichello,Diniz,,
+Australia,21,8,Wurz,De La Rosa,,
+Australia,21,9,Zonta,De La Rosa,,
+Australia,21,11,Panis,Takagi,,
+Australia,22,8,Takagi,Panis,,
+Australia,26,8,Barrichello,Takagi,,
+Australia,26,9,Barrichello,Badoer,,
+Australia,27,5,Barrichello,Zonta,,
+Australia,27,9,Fisichella,De La Rosa,,
+Australia,28,7,Fisichella,Badoer,,
+Australia,31,5,Fisichella,Takagi,,
+Australia,40,7,Barrichello,Zonta,,
+Australia,41,6,Barrichello,Takagi,Yes,3
+Australia,43,5,Barrichello,De La Rosa,Background,3
+Australia,44,7,Zonta,Takagi,,
+Brazil,2,14,Zanardi,Sarrazin,,
+Brazil,2,15,De La Rosa,Sarrazin,,
+Brazil,2,16,Gene,Sarrazin,,
+Brazil,2,17,Takagi,Sarrazin,,
+Brazil,2,18,Villeneuve,Sarrazin,,
+Brazil,3,14,Villeneuve,De La Rosa,,
+Brazil,3,15,Villeneuve,Gene,,
+Brazil,3,16,Villeneuve,Takagi,Replay,1
+Brazil,4,16,Alesi,Gene,,
+Brazil,4,17,Alesi,Takagi,,
+Brazil,5,15,Alesi,De La Rosa,,
+Brazil,6,13,Alesi,Diniz,,
+Brazil,6,14,Alesi,Villeneuve,,
+Brazil,7,15,Zanardi,De La Rosa,,
+Brazil,7,16,Zanardi,Gene,,
+Brazil,7,17,Zanardi,Villeneuve,,
+Brazil,7,18,Zanardi,Takagi,,
+Brazil,7,19,Sarrazin,Takagi,,
+Brazil,9,12,Alesi,Trulli,,
+Brazil,9,14,Zanardi,Diniz,,
+Brazil,10,9,Alesi,R.Schumacher,Yes,4
+Brazil,10,16,Villeneuve,Gene,,
+Brazil,13,15,Sarrazin,Gene,,
+Brazil,15,15,Panis,Gene,,
+Brazil,15,16,Panis,Takagi,,
+Brazil,19,6,Alesi,Frentzen,,
+Brazil,19,13,Panis,Sarrazin,,
+Brazil,21,5,Alesi,Fisichella,,
+Brazil,22,11,Panis,Villeneuve,,
+Brazil,23,10,Panis,De La Rosa,,
+Brazil,32,12,Panis,Gene,,
+Brazil,34,9,Villeneuve,De La Rosa,,
+Brazil,36,3,Barrichello,Irvine,Yes,1
+Brazil,44,10,Gene,Takagi,Background,4
+San Marino,4,12,Diniz,Fisichella,Replay,Tamburello
+San Marino,5,14,Panis,Salo,Yes,Tamburello
+San Marino,6,15,Takagi,Salo,Yes,Tamburello
+San Marino,18,12,Alesi,Salo,,
+San Marino,20,9,Diniz,Zanardi,,
+San Marino,27,10,Alesi,Fisichella,Replay,Tosa
+San Marino,32,10,Alesi,Diniz,,
+Monaco,4,14,Alesi,Diniz,,
+Monaco,13,19,R.Schumacher,De La Rosa,,
+Monaco,16,18,R.Schumacher,Gene,,
+Monaco,34,10,Alesi,Salo,Yes,Loews
+Monaco,43,7,Wurz,Fisichella,Yes,St Devote
+Spain,4,16,Salo,Wurz,,
+Spain,16,14,Zanardi,Fisichella,,
+Spain,21,17,Wurz,Takagi,,
+Spain,24,8,Irvine,Barrichello,,
+Spain,63,7,Hill,Barrichello,Background,5
+Canada,3,4,Coulthard,Fisichella,Yes,13
+Canada,12,15,Panis,Gene,,
+Canada,13,16,Zanardi,Gene,,
+Canada,14,13,Takagi,Badoer,,
+Canada,27,13,Zanardi,Panis,,
+Canada,41,4,R.Schumacher,Diniz,Background,1
+Canada,41,5,Herbert,Diniz,,
+Canada,41,7,Zanardi,Takagi,,
+Canada,41,8,Irvine,Takagi,,
+Canada,42,10,Panis,Badoer,,
+Canada,43,2,Frentzen,Fisichella,Yes,14
+Canada,43,7,Irvine,Zanardi,,
+Canada,47,6,Irvine,Diniz,Yes,1
+Canada,53,5,Irvine,Herbert,Yes,13
+Canada,58,4,Irvine,R.Schumacher,Yes,13
+France,2,2,Coulthard,Alesi,Yes,Adelaide
+France,2,8,Hakkinen,Fisichella,,
+France,2,12,R.Schumacher,Villeneuve,,
+France,2,14,Zanardi,Zonta,,
+France,2,21,Gene,Badoer,,
+France,3,7,Hakkinen,Trulli,,
+France,4,20,Badoer,Gene,,
+France,5,6,Hakkinen,Panis,Yes,Adelaide
+France,6,1,Coulthard,Barrichello,Yes,Adelaide
+France,9,10,R.Schumacher,Wurz,,
+France,9,15,Irvine,Hill,,
+France,10,4,Hakkinen,M.Schumacher,Yes,Nurburgring
+France,10,13,Irvine,Zonta,,
+France,11,12,Irvine,Zanardi,,
+France,13,11,Irvine,Villeneuve,,
+France,15,3,Hakkinen,Frentzen,Yes,Nurburgring
+France,16,10,Irvine,Wurz,Background,Adelaide
+France,16,13,Zonta,Zanardi,,
+France,17,8,R.Schumacher,Fisichella,Yes,Adelaide
+France,19,2,Hakkinen,Alesi,Yes,Adelaide
+France,20,9,Irvine,Fisichella,,
+France,25,14,Gene,De La Rosa,,
+France,36,10,Irvine,Badoer,,
+France,36,11,Irvine,De La Rosa,,
+France,36,11,Badoer,De La Rosa,,
+France,36,12,Irvine,Takagi,,
+France,38,9,Irvine,Zonta,,
+France,39,2,M.Schumacher,Frentzen,Yes,Adelaide
+France,40,8,Irvine,Fisichella,,
+France,42,5,R.Schumacher,Trulli,Background,Adelaide
+France,42,7,Irvine,Hakkinen,,
+France,43,6,Irvine,Trulli,Replay,Adelaide
+France,44,1,M.Schumacher,Barrichello,Yes,Adelaide
+France,45,7,Hakkinen,Trulli,,
+France,50,4,R.Schumacher,Panis,,
+France,51,5,Hakkinen,Panis,Yes,Nurburgring
+France,52,8,Irvine,Zonta,,
+France,56,8,Irvine,Zonta,,
+France,57,2,Hakkinen,Frentzen,Yes,Adelaide
+France,60,1,Hakkinen,Barrichello,Yes,Adelaide
+France,62,6,Irvine,Panis,Yes,Nurburgring
+France,70,4,R.Schumacher,M.Schumacher,Yes,Nurburgring
+Great Britain,3,9,Herbert,Diniz,,Copse
+Great Britain,3,15,Zonta,Wurz,,
+Great Britain,23,13,Alesi,Panis,,
+Great Britain,27,6,Barrichello,Villeneuve,,
+Great Britain,32,16,Hakkinen,Takagi,,
+Great Britain,32,17,Hakkinen,Gene,Background,Abbey
+Great Britain,33,5,Barrichello,Hill,Yes,Vale
+Great Britain,36,16,Hakkinen,Alesi,Background,Maggots
+Great Britain,54,11,Barrichello,Panis,,
+Great Britain,56,10,Barrichello,Zanardi,,
+Great Britain,58,9,Barrichello,Wurz,Yes,Vale
+Great Britain,59,8,Barrichello,Trulli,,
+Great Britain,59,12,Herbert,Panis,,
+Austria,2,8,Diniz,Fisichella,Yes,1
+Austria,2,10,Zonta,Wurz,,
+Austria,2,11,Zonta,Trulli,Yes,1
+Austria,2,14,Badoer,De La Rosa,,
+Austria,2,14,Alesi,De La Rosa,,
+Austria,2,17,Zanardi,Gene,Background,1
+Austria,3,18,Hakkinen,Gene,,
+Austria,3,19,Hakkinen,Panis,,
+Austria,4,12,Alesi,Hill,,
+Austria,4,16,Hakkinen,Zanardi,,
+Austria,6,11,Alesi,Trulli,,
+Austria,6,14,Hakkinen,De La Rosa,,
+Austria,6,15,Hakkinen,Takagi,,
+Austria,8,13,Hakkinen,Hill,Yes,2
+Austria,11,5,Diniz,Villeneuve,,
+Austria,11,11,Hakkinen,Trulli,Yes,2
+Austria,13,9,Alesi,Wurz,Yes,1
+Austria,13,10,Hakkinen,Wurz,Yes,3
+Austria,15,8,Alesi,Zonta,Yes,3
+Austria,16,9,Hakkinen,Zonta,Yes,1
+Austria,18,7,Alesi,Fisichella,Yes,2
+Austria,19,6,Alesi,Villeneuve,,
+Austria,19,8,Hakkinen,Fisichella,Yes,2
+Austria,20,7,Hakkinen,Villeneuve,Replay,2
+Austria,20,10,Wurz,Zonta,,
+Austria,20,11,Trulli,Zonta,,
+Austria,21,12,Hill,Zonta,Replay,1
+Austria,31,16,Salo,Panis,,
+Austria,34,4,Hakkinen,Frentzen,Yes,1
+Austria,50,3,Hakkinen,Barrichello,Yes,3
+Germany,3,4,Barrichello,Frentzen,Yes,Mobil 1
+Germany,5,10,Herbert,Trulli,,
+Germany,7,17,Alesi,Takagi,,
+Germany,8,8,Herbert,Hill,Yes,Mobil 1
+Germany,8,8,Hill,Herbert,Yes,Sachskurve
+Germany,8,10,Panis,Trulli,,
+Germany,9,12,Zonta,Zanardi,Replay,Ostkurve
+Germany,11,14,Alesi,Badoer,,
+Germany,11,15,Alesi,Gene,,
+Germany,13,13,Alesi,De La Rosa,,
+Germany,16,8,Coulthard,Panis,Replay,Ostkurve
+Germany,19,6,Herbert,Wurz,Yes,Clark
+Germany,20,7,Coulthard,Wurz,Yes,Clark
+Germany,20,10,De La Rosa,Zanardi,Replay,Senna
+Germany,20,11,Badoer,Zanardi,Yes,Mobil 1
+Germany,26,3,Hakkinen,Frentzen,Yes,Ostkurve
+Germany,35,7,Panis,Wurz,Yes,Clark
+Germany,41,5,Coulthard,Panis,Replay,Senna
+Hungary,4,21,Gene,Takagi,,
+Hungary,20,9,Alesi,Diniz,,
+Hungary,40,12,R.Schumacher,Villeneuve,,
+Hungary,72,8,Alesi,Trulli,Aftermath,1
+Belgium,2,12,Alesi,Wurz,,
+Belgium,2,14,Trulli,Villeneuve,,
+Belgium,2,16,Panis,Diniz,Yes,La Source
+Belgium,2,17,Badoer,Diniz,,
+Belgium,5,11,Alesi,Fisichella,,
+Belgium,5,15,Panis,Villeneuve,,
+Belgium,7,10,Alesi,Herbert,,
+Belgium,9,13,Trulli,Wurz,,
+Belgium,10,14,Panis,Wurz,Replay,La Source
+Belgium,14,11,Fisichella,Herbert,Replay,Bus Stop
+Belgium,18,11,Alesi,Villeneuve,,
+Belgium,19,7,Hill,Fisichella,,
+Belgium,19,12,Barrichello,Villeneuve,,
+Belgium,20,2,Hakkinen,R.Schumacher,Replay,Les Combes
+Belgium,21,10,Alesi,Wurz,Yes,Les Combes
+Belgium,21,11,Herbert,Wurz,Yes,Les Combes
+Belgium,21,11,Wurz,Herbert,Yes,Malmedy
+Belgium,33,4,Salo,Irvine,Yes,La Source
+Italy,2,11,Diniz,Wurz,Yes,1
+Italy,2,14,Trulli,Zonta,Background,1
+Italy,2,16,Herbert,Badoer,,
+Italy,4,13,Trulli,Panis,,
+Italy,8,11,Alesi,Wurz,Yes,Ascari
+Italy,9,12,Trulli,Wurz,,
+Italy,9,13,Panis,Wurz,,
+Italy,10,13,Wurz,Panis,Yes,1
+Italy,11,6,Barrichello,Coulthard,Yes,1
+Italy,11,13,Panis,Wurz,Yes,1
+Italy,11,14,Herbert,Zonta,Replay,Roggia
+Italy,18,3,R.Schumacher,Zanardi,Yes,1
+Italy,19,5,Barrichello,Salo,Yes,Roggia
+Italy,26,4,Barrichello,Zanardi,Yes,Parabolica
+Italy,28,5,Salo,Zanardi,Yes,1
+Italy,28,12,Panis,Trulli,,
+Italy,49,9,Alesi,Hill,Yes,Roggia
+Europe,7,6,Irvine,Panis,Yes,11
+Europe,7,15,Zonta,Takagi,Background,1
+Europe,7,18,Zanardi,Gene,,
+Europe,9,17,Zanardi,Badoer,,
+Europe,11,16,Zanardi,Takagi,,
+Europe,12,14,Alesi,Takagi,,
+Europe,17,5,Irvine,Fisichella,Yes,9
+Europe,18,13,Alesi,Zonta,,
+Europe,20,3,R.Schumacher,Coulthard,Yes,1
+Europe,22,9,Villeneuve,Hakkinen,,
+Europe,22,10,Badoer,Hakkinen,,
+Europe,22,13,Irvine,Panis,,
+Europe,24,12,Irvine,Hakkinen,Yes,1
+Europe,25,7,Alesi,Herbert,,
+Europe,31,11,Irvine,Gene,,
+Europe,31,13,Hakkinen,De La Rosa,Background,5
+Europe,35,13,Zonta,De La Rosa,,
+Europe,37,6,Trulli,Villeneuve,,
+Europe,37,7,Trulli,Irvine,,
+Europe,37,12,Panis,De La Rosa,,
+Europe,39,4,Trulli,Barrichello,,
+Europe,39,12,Zonta,De La Rosa,,
+Europe,41,7,Badoer,Gene,,
+Europe,41,10,Zonta,Hakkinen,Yes,8
+Europe,41,11,Zonta,Panis,,
+Europe,43,8,Irvine,Gene,,
+Europe,44,6,Badoer,Villeneuve,,
+Europe,44,7,Irvine,Villeneuve,,
+Europe,65,5,Hakkinen,Gene,Yes,1
+Malaysia,3,13,Takagi,Badoer,,
+Malaysia,3,17,Diniz,De La Rosa,,
+Malaysia,5,2,Coulthard,M.Schumacher,Yes,2
+Malaysia,5,14,Diniz,Panis,,
+Malaysia,5,16,Zonta,De La Rosa,,
+Malaysia,6,8,Alesi,R.Schumacher,,
+Malaysia,6,9,Alesi,Villeneuve,,
+Malaysia,6,17,Zanardi,Badoer,,
+Malaysia,10,11,Diniz,Gene,,
+Malaysia,18,6,Alesi,Wurz,Replay,4
+Malaysia,54,3,Hakkinen,Barrichello,,15
+Japan,6,19,Fisichella,Badoer,,
+Japan,12,18,Fisichella,Takagi,,
+Japan,35,8,Barrichello,Coulthard,Yes,Spoon
+Japan,39,16,Takagi,Badoer,,
