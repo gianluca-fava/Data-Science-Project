@@ -1,4 +1,4 @@
-# DataScience Project - DRS and overtake in F1
+# DataScience Project - DRS and overtakes in F1
 This project is about overtaking in Formula 1 and the changes brought by DRS
 
 ## I tried to answer these questions:
