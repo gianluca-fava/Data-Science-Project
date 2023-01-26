@@ -1,7 +1,7 @@
 # Data-Science-Project
 This project is about overtaking in Formula 1 and the changes brought by DRS
 
-I tried to answer these questions:
+## I tried to answer these questions:
 
 - DRS was introduced in F1 in 2011, but what changes did its implementation bring?
 
